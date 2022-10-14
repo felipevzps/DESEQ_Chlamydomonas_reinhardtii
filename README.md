@@ -5,6 +5,7 @@
  * Descompactar os dados: `unzip "*.zip"`
 * Pegar os dados e transferir para o cluster: `scp -P 1000 . felipe.peres@bioinfo.cena.usp.br/`
 * Avaliar a qualidade dops dados brutos com FasQC/MultiQC: `fastqc -f fastq ${INPUT} -o ${OUTPUT}`
+  * OBS: O conteudo GC bate com a literatura (64%) - encontramos 63% em 1 dado. REF: https://bionumbers.hms.harvard.edu/bionumber.aspx?s=n&v=2&id=100524
 * Fazer limpeza dos dados com o bbduk2
 * Fazer de novo o FastQC/MultiQC para comparar os dados antes e depois do bbduk2
 * Rodar Kraken2 pra avaliar a contaminação dos dados limpos de RNASeq
