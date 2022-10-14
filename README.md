@@ -2,10 +2,11 @@
 
 ## Encontro 01 (14/10):
 * Baixar o dados direto de drive para o computador
-* Pegar os dados e transferir para o cluster
-* Avaliar a qualidade dops dados brutos com fastqc
+ * Descompactar os dados: `unzip "*.zip"`
+* Pegar os dados e transferir para o cluster: `scp -P 1000 . felipe.peres@bioinfo.cena.usp.br/`
+* Avaliar a qualidade dops dados brutos com FasQC/MultiQC: ``
 * Fazer limpeza dos dados com o bbduk2
-* Fazer de novo o fastqc para comparar
+* Fazer de novo o FastQC/MultiQC para comparar os dados antes e depois do bbduk2
 * Rodar Kraken2 pra avaliar a contaminação dos dados limpos de RNASeq
 * Remover contaminação com ContFree-NGS
 
