@@ -8,10 +8,11 @@
 * Fazer limpeza dos dados com o bbduk2
 * Fazer de novo o FastQC/MultiQC para comparar os dados antes e depois do bbduk2
 * Rodar Kraken2 pra avaliar a contaminação dos dados limpos de RNASeq
-* Remover contaminação com ContFree-NGSrun_fastqc.sh
 
 * Desenvolver o rascunho do nosso progresso (tópicos para o projeto)
  * Felipe - Montar apresentacao pra explicar os softwares que estamos usando
+ * Remover contaminação com ContFree-NGS
+
 
 ## Encontro 02 (19/10):
 * Apresentacao sobre atividades do primeiro encontro (tudo que foi feito - desde download)
