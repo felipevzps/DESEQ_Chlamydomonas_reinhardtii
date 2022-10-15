@@ -1,15 +1,100 @@
 # Plano de trabalho
 
 ## Encontro 01 (14/10):
-* Baixar o dados direto de drive para o computador
- * Descompactar os dados: `unzip "*.zip"`
-* Pegar os dados e transferir para o cluster: `scp -P 1000 . felipe.peres@bioinfo.cena.usp.br/`
-* Avaliar a qualidade dops dados brutos com FasQC/MultiQC: `fastqc -f fastq ${INPUT} -o ${OUTPUT}`
-  * OBS: O conteudo GC bate com a literatura (64%) - encontramos 63% em 1 dado. REF: https://bionumbers.hms.harvard.edu/bionumber.aspx?s=n&v=2&id=100524
-* Fazer limpeza dos dados com o bbduk2
-* Fazer de novo o FastQC/MultiQC para comparar os dados antes e depois do bbduk2
-* Rodar Kraken2 pra avaliar a contaminação dos dados limpos de RNASeq
+- [x] Baixar RNA-SEQ da Chlamydomonas reinhardtii (está armazenado no Google Drive)
+  - [x] Descompactar pacotes de dados gerados pelo Google Drive 
+  ```bash
+  unzip "*.zip"
+  ```
+  - [x] Transferir os dados brutos de RNA-Seq para o cluster do CENA
+  ```bash
+  scp -P 1000 *. felipe.peres@bioinfo.cena.usp.br/Storage/data1/felipe.peres/DESEQ_Chlamydomonas_reinhardtii
+  ```
+- [x] Avaliar a qualidade dos dados brutos com FasQC/MultiQC
+  ```bash
+  #!/bin/bash
+  #$ -cwd
+  #$ -V
+  #$ -q all.q
+  #$ -t 1-32
+  #$ -tc 4
+  #$ -pe smp 4
+  #$ -l h=figsrv
+  
+  INFILES=`ls -1 *.fastq.gz | head -n $SGE_TASK_ID | tail -n1`
+  OUT_FASTQC=${IN/.fastq.gz/.fastqc_report}
+  
+  module load FastQC/0.11.8
+  fastqc -f fastq ${INFILES} -o ${OUT_FASTQC}
+  ```
+  * OBS: O conteudo GC bate com a literatura (64%). REF: https://bionumbers.hms.harvard.edu/bionumber.aspx?s=n&v=2&id=100524
+- [x] Fazer limpeza dos dados com o bbduk2
+  ```bash
+  #!/bin/bash
+  #$ -cwd
+  #$ -V
+  #$ -q all.q
+  #$ -t 1-16
+  #$ -tc 4
+  #$ -pe smp 4
+  #$ -l h=figsrv
+  
+  OUT=/Storage/data1/felipe.peres/DESEQ_Chlamydomonas_reinhardtii/trimmed_reads
+  infileR1=`ls -1 raw_reads/*R1*.fastq.gz |head -n $SGE_TASK_ID|tail -n1`
+  infileR2=${infileR1/R1_001.fastq.gz/R2_001.fastq.gz}
+  outbase=`basename $infileR1`
+  outbase=${outbase/_R1_001.fastq.gz}
+  outfileR1=${outbase}_001_R1_trimmed.fastq.gz
+  outfileR2=${outbase}_001_R2_trimmed.fastq.gz
+  outfile_refstats=${outbase}.trimmed.refstats
+  outfile_stats=${outbase}.trimmed.stats
+  
+  module load bbmap/35.85
+  
+  bbduk2.sh -Xmx40g threads=$NSLOTS in1=$infileR1 in2=$infileR2 refstats=$OUT/$outfile_refstats stats=$OUT/$outfile_stats
+  out1=$OUT/$outfileR1 out2=$OUT/$outfileR2 minlength=75 rref=/Storage/progs/bbmap_35.85/resources/adapters.fa
+  fref=/Storage/progs/sortmerna-2.1b/rRNA_databases/rfam-5.8s-database-id98.fasta,/Storage/progs/sortmerna-2.1b/rRNA_databases/silva-bac-16s-id90.fasta,/Storage/progs/sortmerna-2.1b/rRNA_databases/rfam-5s-database-id98.fasta,/Storage/progs/sortmerna-2.1b/rRNA_databases/silva-bac-23s-id98.fasta,/Storage/progs/sortmerna-2.1b/rRNA_databases/silva-arc-16s-id95.fasta,/Storage/progs/sortmerna-2.1b/rRNA_databases/silva-euk-18s-id95.fasta,/Storage/progs/sortmerna-2.1b/rRNA_databases/silva-arc-23s-id98.fasta,/Storage/progs/sortmerna-2.1b/rRNA_databases/silva-euk-28s-id98.fasta qtrim=w trimq=20 tpe tbo
+  ```
+- [x] Avaliar a qualidade dos dados limpos com FasQC/MultiQC
+  ```bash
+  #!/bin/bash
+  #$ -cwd
+  #$ -V
+  #$ -q all.q
+  #$ -t 1-32
+  #$ -tc 4
+  #$ -pe smp 4
+  #$ -l h=figsrv
+  
+  INFILES=`ls -1 trimmed_reads/*.fastq.gz | head -n $SGE_TASK_ID | tail -n1`
+  OUT_FASTQC=${IN/.fastq.gz/.fastqc_report}
+  
+  module load FastQC/0.11.8
+  fastqc -f fastq ${INFILES} -o ${OUT_FASTQC}
+  ```
+- [x] Rodar Kraken2 pra avaliar a contaminação dos dados limpos de RNASeq
+  ```bash
+  #!/bin/bash
+  #$ -q all.q
+  #$ -V
+  #$ -cwd
+  #$ -t 1-16
+  #$ -tc 1
+  #$ -pe smp 10
+  
+  DBNAME=krakendb
+  R1=`ls -1 trimmed_reads/*R1_trimmed.fastq.gz | head -n $SGE_TASK_ID | tail -n1`
+  R2=${R1/R1_trimmed.fastq.gz/R2_trimmed.fastq.gz}
+  report_name=`basename $R1`
+  kraken_quant=${report_name/R1_trimmed.fastq.gz}kraken_quant
+  kraken_output=${report_name/R1_trimmed.fastq.gz}kraken_output
+  
+  module load Kraken2/2.1.2
+  
+  /usr/bin/time -v kraken2 --db ./../Kraken2/$DBNAME --report-zero-counts --report $kraken_quant --output $kraken_output --paired $R1 $R2 --threads $NSLOTS
+  ```
 
+# TODO:
 * Desenvolver o rascunho do nosso progresso (tópicos para o projeto)
  * Felipe - Montar apresentacao pra explicar os softwares que estamos usando
  * Remover contaminação com ContFree-NGS
