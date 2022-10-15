@@ -93,6 +93,8 @@
   
   /usr/bin/time -v kraken2 --db ./../Kraken2/$DBNAME --report-zero-counts --report $kraken_quant --output $kraken_output --paired $R1 $R2 --threads $NSLOTS
   ```
+   * OBS: Dados classificados como "S28" e "S9" tem respectivamente 13% e 26% de reads não classificadas ... O que são?
+      * Se forem transcritos importantes, provavelmente vão aparecer na comparação da DESeq Analysis antes/depois da contaminação.
 
 # TODO:
 * Desenvolver o rascunho do nosso progresso (tópicos para o projeto)
