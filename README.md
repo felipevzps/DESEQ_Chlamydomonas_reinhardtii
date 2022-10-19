@@ -111,7 +111,7 @@
 * DESEq Analysis (edgeR)
 
 * Desenvolver o rascunho do nosso progresso (tópicos para o projeto)
-  * Ivan - Procurar microalgas proximas da Chlamydomonas reinhardtii
+  * Ivan - Procurar microalgas proximas da Chlamydomonas reinhardtii https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3042 
   * Felipe - Estudar como usar edgeR ou Biocondutor pra avaliar expressçao diferencial
 
 ## Econtro 04 (02/11)
