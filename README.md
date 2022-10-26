@@ -101,32 +101,32 @@
  * Felipe - Montar apresentacao pra explicar os softwares que estamos usando
  * Remover contaminação com ContFree-NGS
 
-
-## Encontro 02 (19/10):
-* Apresentacao sobre atividades do primeiro encontro (tudo que foi feito - desde download)
+## Encontro 02 (19/10)
 
 ## Econtro 03 (26/10)
+* Apresentacao sobre atividades do primeiro encontro (tudo que foi feito - desde download)
 * Comparar dados limpos de RNASeq (antes e depois da remoção de contaminação)
 * Quantificaçao ccom Salmon (TPM/CPM)
+
+## Econtro 04 (02/11)
+* Felipe - Estudar como usar edgeR ou Biocondutor pra avaliar expressçao diferencial
 * DESEq Analysis (edgeR)
 
 * Desenvolver o rascunho do nosso progresso (tópicos para o projeto)
   * Ivan - Procurar microalgas proximas da Chlamydomonas reinhardtii https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3042 
-  * Felipe - Estudar como usar edgeR ou Biocondutor pra avaliar expressçao diferencial
-
-## Econtro 04 (02/11)
-* Realizar notação de Gene Ontology (GO) com Pannzer
-* Realizar analise de enriquecimento (termos GO enriquecidos nos transcritos mais expressos)
 
 * Desenvolver o rascunho do nosso progresso (tópicos para o projeto)
   * Felipe, Ivan - escrever sobre nosso processo de quantificação e nossa ideia para DESeq Analysis
 
-## Econtro 05 (09/10)
+## Econtro 05 (09/11)
+* Realizar anotação de Gene Ontology (GO) com Pannzer
 
-## Econtro 06 (16/10)
+## Econtro 06 (16/11)
 * Ivan vai estar viajando - vamos trabalhar online
+* Realizar analise de enriquecimento (termos GO enriquecidos nos transcritos mais expressos)
 
-## Econtro 07 (23/10) - dia antes da apresentacao
+
+## Econtro 07 (23/11) - dia antes da apresentacao
 
 
 # TODO:
