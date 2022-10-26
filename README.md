@@ -110,6 +110,7 @@
 
 ## Econtro 04 (02/11)
 * Felipe - Estudar como usar edgeR ou Biocondutor pra avaliar expressçao diferencial
+  * https://bioconductor.org/packages/devel/bioc/vignettes/tximport/inst/doc/tximport.html 
 * DESEq Analysis (edgeR)
 
 * Desenvolver o rascunho do nosso progresso (tópicos para o projeto)
