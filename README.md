@@ -120,7 +120,38 @@
   * Felipe, Ivan - escrever sobre nosso processo de quantificação e nossa ideia para DESeq Analysis
 
 ## Econtro 05 (09/11)
-* Realizar anotação de Gene Ontology (GO) com Pannzer
+    - O que temos:
+        - [x]  Dados crus
+        - [x]  Dados limpos
+        - [x]  Tabela do Salmon **- Felipe vai fazer**
+            
+            Sample Name, Sample description, Total Reads, Total Mapped, Ratio of Mapped Reads (%)
+            
+            ```bash
+            #Pegando reads mapeadas
+            cat LOM*/logs/salmon_quant.log | grep "%"
+            
+            #pwd
+            /home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/DESeq2****************
+            ```
+            
+        - [x]  Foto da Chlamydomonas reinhardtii **- Ivan vai fazer**
+        - [x]  Graficos
+            - [x]  PCA da distribuicao das amostras
+                - [x]  Time
+                - [x]  Condition
+                - [x]  Time and Condition
+                - [ ]  Grafico da distribuicao das medias de counts **- Felipe e Ivan**
+                - [ ]  Heatmaps expressao diferencial dos genes da Chlamydomonas reinhardtii -  **Felipe e Ivan**
+        - [ ]  Transcriptoma *de novo* da Chlamydomonas reinhardtii
+            - [ ]  Comparar nosso transcriptoma com transcriptoma de referencia da Chlamydomonas reinhardtii (Diagrama de Venn - genes BUSCO?) — **Talvez pensar em outra estrategia conversando com Diego**
+            - [ ]  Genes BUSCO do transcriptoma - Ivan
+            - [ ]  Metricas TRANSRATE do transcriptoma - Ivan
+                - [ ]  Rodar Panzer pra pegar os termos GO - **ANTES DO DIA 13**
+                    - [ ]  Analisar termos GO enriquecidos - **Exact Fisher’s Test - Perguntar pro Diego qual classe de GO devemos usar (BP, MF, CC) - DIA 17 talvez**
+                - [ ]  Por fim, iremos avaliar a conservação dos termos GO enriquecidos nos genes diferencialmente expressos de Chlamydomonas reinhardtii com outras microalgas (a ideia é observar a conservação destes genes).
+                - [ ]  **TERMINAR DE ESCREVER ATE QUARTA 16/10**
+
 
 ## Econtro 06 (16/11)
 * Ivan vai estar viajando - vamos trabalhar online
