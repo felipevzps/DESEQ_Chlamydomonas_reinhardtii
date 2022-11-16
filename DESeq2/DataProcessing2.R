@@ -6,9 +6,10 @@ BiocManager::install("impute")
 BiocManager::install("preprocessCore")
 BiocManager::install("GO.db")
 
-install.packages("jsonlite")
-install.packages("WGCNA")
-install.packages("pheatmap")
+#install.packages("jsonlite")
+#install.packages("WGCNA")
+#install.packages("pheatmap")
+
 
 library(DESeq2)
 library(tximport)
@@ -17,17 +18,17 @@ library(pheatmap)
 #library(WGCNA)
 
 #rm(list=ls())
-setwd("/home/felipe/Documents/DESEQ_Chlamydomonas_reinhardtii/DESeq2/")
+setwd("/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/DESeq2")
 targets<-read.csv("target.csv",header=TRUE)
 rownames(targets)<-targets$SampleName
 
-files <- paste("/home/felipe/Documents/DESEQ_Chlamydomonas_reinhardtii/DESeq2/", targets$SampleName, "/quant.sf",sep="")
+files <- paste("/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/DESeq2/", targets$SampleName, "/quant.sf",sep="")
 tx2gene<-read.delim("transcript2gene.txt",header=FALSE)
 names(files) <- targets$SampleName
 all(file.exists(files))
 
-txi.salmon <- tximport(files, type = "salmon", tx2gene = tx2gene, txOut=FALSE)
-#txi.salmon <- tximport(files, type = "salmon", txOut= TRUE, countsFromAbundance = 'lengthScaledTPM')
+#txi.salmon <- tximport(files, type = "salmon", tx2gene = tx2gene, txOut=FALSE)
+txi.salmon <- tximport(files, type = "salmon", txOut= TRUE, countsFromAbundance = 'lengthScaledTPM')
 head(txi.salmon$abundance)
 
 Arabtpm<-txi.salmon$abundance
