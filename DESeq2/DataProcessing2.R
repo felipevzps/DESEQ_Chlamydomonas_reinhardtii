@@ -17,7 +17,7 @@ library(jsonlite)
 library(pheatmap)
 #library(WGCNA)
 
-#rm(list=ls())
+rm(list=ls())
 setwd("/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/DESeq2")
 targets<-read.csv("target.csv",header=TRUE)
 rownames(targets)<-targets$SampleName
@@ -39,7 +39,7 @@ head(dds)
 dds <- DESeq(dds)
 
 vsd <- vst(dds, blind=FALSE)
-
+vsd
 
 #Check distribution of samples in a PCA, showing the top 500 varying genes
 plotPCA(vsd, intgroup=c("Time"),ntop=500)

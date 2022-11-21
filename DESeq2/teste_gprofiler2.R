@@ -40,8 +40,7 @@ head(gp_up$result)
 # order genes by log2FC
 up_ordered = up[order(up$log2FoldChange, decreasing = TRUE),]
 # ordered enrichment analysis
-gp_up_ordered = gost(row.names(up_ordered), organism = "hsapiens",
-                     ordered_query = TRUE)
+gp_up_ordered = gost(row.names(up_ordered), organism = "hsapiens",ordered_query = TRUE, significant = FALSE)
 head(gp_up_ordered$result, 8)
 
 ## Visualisation of functional enrichment results
