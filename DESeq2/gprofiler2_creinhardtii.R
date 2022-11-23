@@ -64,14 +64,14 @@ gp_down_ordered = gost(row.names(down_ordered), organism = "creinhardtii",  sign
 head(gp_up_ordered$result, 20)
 head(gp_down_ordered$result, 20)
 
-# Visualization of GO and KEGG Enrichment Analysis 
+#Visualization of GO and KEGG Enrichment Analysis
 gostplot(gp_up_ordered, interactive = TRUE)
 gostplot(gp_down_ordered, interactive = TRUE)
 
-p1 = gostplot(gp_up, interactive = FALSE)
-p2 = gostplot(gp_down, interactive = FALSE)
+p1 = gostplot(gp_up_ordered, interactive = FALSE)
+p2 = gostplot(gp_down_ordered, interactive = FALSE)
 
 # Beautiful plot with table
 publish_gostplot(p1, highlight_terms = c("GO:0071704", "KEGG:00970"))
-publish_gostplot(p2, highlight_terms = c("GO:0140096"))
+publish_gostplot(p2, highlight_terms = c("GO:0033573", "GO:1905862"))
 

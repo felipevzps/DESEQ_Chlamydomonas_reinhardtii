@@ -60,6 +60,7 @@ res_SALT_vs_CONTROL <- results(dds, lfcThreshold=1, altHypothesis="greaterAbs", 
 summary(res_SALT_vs_CONTROL)
 
 sig_SALT_vs_CONTROL<-res_SALT_vs_CONTROL[which(res_SALT_vs_CONTROL$padj<0.05),]
+summary(sig_SALT_vs_CONTROL)
 dim(sig_SALT_vs_CONTROL)
 head(sig_SALT_vs_CONTROL,20)
 

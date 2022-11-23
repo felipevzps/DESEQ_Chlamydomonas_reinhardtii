@@ -61,6 +61,7 @@ res_SALT24_vs_SALT48 <- results(dds, lfcThreshold=1, altHypothesis="greaterAbs",
 summary(res_SALT24_vs_SALT48)
 
 sig_SALT24_vs_SALT48<-res_SALT24_vs_SALT48[which(res_SALT24_vs_SALT48$padj<0.05),]
+summary(sig_SALT24_vs_SALT48)
 dim(sig_SALT24_vs_SALT48)
 head(sig_SALT24_vs_SALT48,20)
 

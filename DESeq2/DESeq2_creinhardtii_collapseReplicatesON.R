@@ -65,12 +65,35 @@ pheatmap(sampleDistMatrix,
          clustering_distance_cols=sampleDists)
 
 res_SALT_vs_CONTROL <- results(ddsColl, lfcThreshold=1, altHypothesis="greaterAbs", contrast = c('Condition','CONTROL','SALT'), alpha=0.05)
+res_SALT_vs_CONTROL
 summary(res_SALT_vs_CONTROL)
+#####
 
 sig_SALT_vs_CONTROL<-res_SALT_vs_CONTROL[which(res_SALT_vs_CONTROL$padj<0.05),]
+sig_SALT_vs_CONTROL
 dim(sig_SALT_vs_CONTROL)
 head(sig_SALT_vs_CONTROL,20)
+#write.csv(sig_SALT_vs_CONTROL, "/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/DESeq2/sig_SALT_vs_CONTROL.csv")
 
+# Get the significant up-regulated genes
+up = subset(sig_SALT_vs_CONTROL, log2FoldChange > 0)
+up
+
+# Get the significant down-regulated genes
+down = subset(sig_SALT_vs_CONTROL, log2FoldChange < 0)
+down
+
+# Order genes by log2FC
+up_ordered = up[order(up$log2FoldChange, decreasing = TRUE),]
+down_ordered = down[order(down$log2FoldChange, decreasing = TRUE),]
+up_ordered
+#write.csv(up_ordered, "/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/DESeq2/sig_up_ordered_SALT_vs_CONTROL.csv")
+down_ordered
+#write.csv(up_ordered, "/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/DESeq2/sig_down_ordered_SALT_vs_CONTROL.csv")
+
+
+
+########
 #Exploring DGE results
 drawLines <- function() abline(h=c(-1,1),col="red",lwd=2)
 plotMA(res_SALT_vs_CONTROL); drawLines()
