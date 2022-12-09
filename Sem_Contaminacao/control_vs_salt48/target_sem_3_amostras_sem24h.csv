@@ -1,0 +1,9 @@
+SampleName,Description,Condition,Time,Sample,Run
+LOM1_24_3_S37_L007,RNA-Seq of Chlamydomonas reinhardtii; control experiment,CONTROL,24,LOM1.24.3,3a
+LOM1_24_3_S37_L008,RNA-Seq of Chlamydomonas reinhardtii; control experiment,CONTROL,24,LOM1.24.3,4a
+LOM2_48_1_S32_L007,RNA-Seq of Chlamydomonas reinhardtii; TAP + 0.1M NaCL experiment,SALT,48,LOM2.48.1,9a
+LOM2_48_1_S32_L008,RNA-Seq of Chlamydomonas reinhardtii; TAP + 0.1M NaCL experiment,SALT,48,LOM2.48.1,10a
+LOM2_48_2_S33_L007,RNA-Seq of Chlamydomonas reinhardtii; TAP + 0.1M NaCL experiment,SALT,48,LOM2.48.2,11a
+LOM2_48_2_S33_L008,RNA-Seq of Chlamydomonas reinhardtii; TAP + 0.1M NaCL experiment,SALT,48,LOM2.48.2,12a
+LOM2_48_3_S34_L007,RNA-Seq of Chlamydomonas reinhardtii; TAP + 0.1M NaCL experiment,SALT,48,LOM2.48.3,13a
+LOM2_48_3_S34_L008,RNA-Seq of Chlamydomonas reinhardtii; TAP + 0.1M NaCL experiment,SALT,48,LOM2.48.3,14a
