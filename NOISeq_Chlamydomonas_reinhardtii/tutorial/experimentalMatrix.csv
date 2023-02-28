@@ -1,0 +1,11 @@
+Sample,Tissue,Run,Lane
+R1L1Kidney,Kidney,R1,L1
+R1L2Liver,Liver,R1,L2
+R1L3Kidney,Kidney,R1,L3
+R1L4Liver,Liver,R1,L4
+R1L6Liver,Liver,R1,L6
+R1L7Kidney,Kidney,R1,L7
+R1L8Liver,Liver,R1,L8
+R2L2Kidney,Kidney,R2,L2
+R2L3Liver,Liver,R2,L3
+R2L6Kidney,Kidney,R2,L6
