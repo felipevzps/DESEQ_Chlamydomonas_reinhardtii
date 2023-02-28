@@ -64,6 +64,45 @@ summary(sig_SALT_vs_CONTROL)
 dim(sig_SALT_vs_CONTROL)
 head(sig_SALT_vs_CONTROL,20)
 
+#########################################################################
+
+up = subset(sig_SALT_vs_CONTROL, log2FoldChange > 0)
+up
+
+# Get the significant down-regulated genes
+down = subset(sig_SALT_vs_CONTROL, log2FoldChange < 0)
+down
+
+# Order genes by log2FC
+up_ordered = up[order(up$log2FoldChange, decreasing = TRUE),]
+down_ordered = down[order(down$log2FoldChange, decreasing = TRUE),]
+up_ordered
+write.csv(up_ordered, "/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/DESeq2/sig_up_ordered_SALT24_vs_CONTROL24.csv")
+down_ordered
+write.csv(down_ordered, "/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/DESeq2/sig_down_ordered_SALT24_vs_CONTROL24.csv")
+
+########3
+up_ordered<-read.csv("/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/DESeq2/Suplementar/Tabela1/sig_up_ordered_converted_SALT_vs_CONTROL.csv", header = TRUE)
+down_ordered<-read.csv("/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/DESeq2/Suplementar/Tabela1/sig_down_ordered_converted_SALT_vs_CONTROL.csv", header = TRUE)
+
+rownames(up_ordered)<-up_ordered$GeneleName
+rownames(down_ordered)<-down_ordered$GeneName
+
+up_ordered$GeneName
+down_ordered$GeneName
+
+gp_up_ordered = gost(row.names(up_ordered), organism = "creinhardtii",  significant = FALSE ,ordered_query = FALSE)
+gp_down_ordered = gost(row.names(down_ordered), organism = "creinhardtii",  significant = FALSE ,ordered_query = FALSE)
+head(gp_up_ordered$result, 20)
+  head(gp_down_ordered$result, 20)
+
+#Visualization of GO and KEGG Enrichment Analysis
+gostplot(gp_up_ordered, interactive = TRUE)
+gostplot(gp_down_ordered, interactive = TRUE)
+
+
+#########################################################################
+
 #Exploring DGE results
 drawLines <- function() abline(h=c(-1,1),col="red",lwd=2)
 plotMA(res_SALT_vs_CONTROL); drawLines()

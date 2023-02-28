@@ -34,6 +34,8 @@ dds = DESeq(ddsMat)
 results = results(dds, contrast = c("Condition", "CONTROL", "SALT"),
                   alpha = 0.05, lfcThreshold = 1)
 results
+
+sig_SALT_vs_CONTROL
 # Keep only the significant genes
 results_sig = subset(results, padj < 0.05) #0.05
 results_sig
@@ -68,7 +70,7 @@ head(gp_down_ordered$result, 20)
 gostplot(gp_up_ordered, interactive = TRUE)
 gostplot(gp_down_ordered, interactive = TRUE)
 
-p1 = gostplot(gp_up_ordered, interactive = FALSE)
+p1 = gostplot(gp_up_ordered, interactive = FALSE)                                                 
 p2 = gostplot(gp_down_ordered, interactive = FALSE)
 
 # Beautiful plot with table
