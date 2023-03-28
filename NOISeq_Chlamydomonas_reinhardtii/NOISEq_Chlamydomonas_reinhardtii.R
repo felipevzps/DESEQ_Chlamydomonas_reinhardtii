@@ -10,9 +10,9 @@ library(tidyverse)
 
 #tutorial: https://rstudio-pubs-static.s3.amazonaws.com/525119_64c1fe6e1a514b89a1ef26d23bf4aae3.html
 
-setwd("/home/felipevzps/Documentos/NOISeq_Chlamydomonas_reinhardtii")
+setwd("/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/NOISeq_Chlamydomonas_reinhardtii")
 
-experimentalMatrix<-read.csv("target.csv",header=TRUE)
+experimentalMatrix<-read.csv("target_without_LOM1.24.1_LOM1.24.2_LOM2.24.1_LOM2.24.3.csv",header=TRUE)
 rownames(experimentalMatrix)<-experimentalMatrix$SampleName
 experimentalMatrix
 
@@ -54,10 +54,10 @@ explo.plot(myPCA, factor = "Sample")
 #Create and save a data exploration QC report
 
 #to see in console
-##QCreport(myDataMyFactors, samples = NULL, factor = "Tissue", norm = FALSE)
+#QCreport(myDataMyFactors, samples = NULL, factor = "Condition", norm = FALSE)
 
 #to export as a pdf with a custom name
-##QCreport(myDataMyFactors, file="QCreportForRNASeqWithNOISeq.pdf", samples = NULL, factor = "Tissue", norm=FALSE)
+#QCreport(myDataMyFactors, file="QCreportForRNASeqWithNOISeq.pdf", samples = NULL, factor = "Condition", norm=FALSE)
 
 #Normalization - Some way to address and normalize the following:
 # - Within sample: For technical biases that affect detected counts
@@ -95,7 +95,7 @@ head(mynoiseqTech@results[[1]])
 #Note: the output myresults@results[[1]]$prob gives the estimated probability of differential expression for each feature. These probabilities are not equivalent to p-values. The higher the probability, the more likely that the difference in expression is due to the change in the experimental condition and not to chance.
 
 mynoiseqTech.deg = degenes(mynoiseqTech, q = 0.8, M = NULL)
-#277 differentially expressed features
+#"1200 differentially expressed features"
 
 #The probability of differential expression is not equivalent to 1 − pvalue. 
 #Developers recommend using q values around 0.8 for `NOISeq` with technical replicates. If no technical replicates are available and `NOISeq-sim` is used, a more stringent threshold such as q = 0.9 is preferable.
