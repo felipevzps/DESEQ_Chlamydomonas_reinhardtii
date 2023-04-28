@@ -1,0 +1,2709 @@
+CHLRE_01g000300v5	alpha/beta-Hydrolases superfamily protein	13535
+CHLRE_01g000600v5	WD-40 repeat family protein / notchless protein, putative	14855
+CHLRE_01g000650v5	Copper amine oxidase family protein	276
+CHLRE_01g002200v5	RNA polymerase Rpb6	3014
+CHLRE_01g002300v5	Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein	1802
+CHLRE_01g002350v5	NAD(P)-bindig Rossmann-fold superfamily protein	4532
+CHLRE_01g003376v5	DnaJ domain ;Myb-like DNA-bindig domain	9522
+CHLRE_01g003463v5	MUTS homolg 2	8735
+CHLRE_01g003487v5	(1 of 1) OG2654 - Uncharacterized conserved protein	13106
+CHLRE_01g004350v5	Endosomal tagetig BRO1-like domain-containig protein	12200
+CHLRE_01g004500v5	isopropyl malate isomerase lage subunit 1	1703
+CHLRE_01g005150v5	alanineglyoxylate aminotransferase	830
+CHLRE_01g005550v5	ADP-ribosylation factor family protein	7943
+CHLRE_01g005900v5	SP1/AS-interactig protein 16	10290
+CHLRE_01g006800v5	UDP-Glycosyltransferase superfamily protein	3857
+CHLRE_01g006950v5	Aldolase superfamily protein	1623
+CHLRE_01g006950v5	Aldolase superfamily protein	1623
+CHLRE_01g007051v5	08770 Ubiquitin supegroup;Ribosomal protein L40e	2927
+CHLRE_01g007200v5	DHHC-type zinc figer family protein	16675
+CHLRE_01g007651v5	Pseudouridine synthase family protein	6176
+CHLRE_01g007700v5	Cytosol aminopeptidase family protein	1255
+CHLRE_01g008000v5	Predicted eukaryotic LgT	18666
+CHLRE_01g008450v5	(1 of 1) PTHR21650:SF2 - INETOCHORE PROTEIN NUF2	11548
+CHLRE_01g009250v5	topoisomerase II	3164
+CHLRE_01g009350v5	porphyromonas-type peptidyl-aginine deiminase family protein	10536
+CHLRE_01g009950v5	nucleolar essential protein-related	14568
+CHLRE_01g010000v5	MAP kinase 6	14512
+CHLRE_01g010350v5	lipoyltransferase 2	3801
+CHLRE_01g010848v5	Predicted pyridoxal phosphate-dependent enzyme, YBL036C type	6997
+CHLRE_01g010864v5	hgh chlorophyll fluorescent 109	2836
+CHLRE_01g010900v5	LOC_Os0g03720glyceraldehyde-3-phosphate dehydrgenase, putative, expressed	5298
+CHLRE_01g011000v5	Ribosomal protein L6 family protein	2934
+CHLRE_01g011100v5	cycloartenol synthase 1	1853
+CHLRE_01g011100v5	cycloartenol synthase 1	1853
+CHLRE_01g011300v5	serine carboxypeptidase-like 50	9645
+CHLRE_01g011350v5	TBP-associated factor 11	3135
+CHLRE_01g011500v5	Mov34/MPN/PAD-1 family protein	3030
+CHLRE_01g012150v5	peptide met sulfoxide reductase 4	7304
+CHLRE_01g012350v5	DNA polymerase V family	2331
+CHLRE_01g012450v5	ubiquitin-protein lgase 1	10592
+CHLRE_01g013150v5	RmlC-like cupins superfamily protein	6995
+CHLRE_01g013400v5	GPI transamidase component PIG-S-related	5291
+CHLRE_01g013700v5	voltge dependent anion channel 4	15040
+CHLRE_01g013700v5	voltge dependent anion channel 4	15040
+CHLRE_01g013801v5	tocopherol cyclase, chloroplast / vitamin E deficient 1 (VTE1) / sucrose export defective 1 (SXD1)	9834
+CHLRE_01g014800v5	DNA mismatch repair protein MutS, type 2	7456
+CHLRE_01g014850v5	(1 of 1) PF03556//PF14555 - Cullin bindig (Cullin_bindig)  // UBA-like domain (UBA_4)	17822
+CHLRE_01g015000v5	N-acetyl-lglutamate kinase	930
+CHLRE_01g015250v5	DNA bindig;nucleotide bindig;nucleic acid bindig;DNA-directed DNA polymerases;DNA-directed DNA polymerases	2327
+CHLRE_01g015350v5	protochlorophyllide oxidoreductase C	218
+CHLRE_01g015550v5	Phosphoenolpyruvate carboxylase family protein	2510
+CHLRE_01g016050v5	Pre-mRNA-processig-splicig factor	12856
+CHLRE_01g016514v5	dihydrolipoyl dehydrgenases	382
+CHLRE_01g016528v5	haloacid dehalgenase-like hydrolase family protein	16054
+CHLRE_01g016556v5	casein kinase II  beta chain 1	3115
+CHLRE_01g016600v5	Chlorophyll A-B bindig family protein	3542
+CHLRE_01g016750v5	Chlorophyll A-B bindig family protein	3542
+CHLRE_01g016950v5	farnesyltransferase A	5955
+CHLRE_01g017450v5	DNA polymerase alpha 2	2321
+CHLRE_01g017500v5	sequence-specific DNA bindig transcription factors	14574
+CHLRE_01g018000v5	TFIIB zinc-bindig protein	3000
+CHLRE_01g018400v5	Inositol 1,3,4-trisphosphate 5/6-kinase family protein	913
+CHLRE_01g018900v5	NDR1/HIN1-like 8	11971
+CHLRE_01g018950v5	deoxyhypusine synthase	809
+CHLRE_01g019150v5	GAMMA-TUBULIN COMPLEX PROTEIN 4	16571
+CHLRE_01g019200v5	(1 of 1) PTHR13026 - NNP-1 PROTEIN  NOVEL NUCLEAR PROTEIN 1   NOP52	14849
+CHLRE_01g019250v5	GDP-D-mannose 3',5'-epimerase	10046
+CHLRE_01g019850v5	FTSH protease 10	8956
+CHLRE_01g020223v5	fumarase 1	1679
+CHLRE_01g020264v5	AUTOPHAGY 6	8334
+CHLRE_01g020400v5	transducin family protein / WD-40 repeat family protein	13111
+CHLRE_01g020918v5	presequence protease 1	6972
+CHLRE_01g020950v5	ribosome bigenesis rgulatory protein (RRS1) family protein	14852
+CHLRE_01g021050v5	Mitochondrial import inner membrane translocase subunit Tim17/Tim22/Tim23 family protein	17790
+CHLRE_01g021251v5	L-Aspartase-like family protein	1755
+CHLRE_01g021500v5	Plasma-membrane choline transporter family protein	15377
+CHLRE_01g021600v5	DEAD box RNA helicase family protein	12823
+CHLRE_01g022250v5	ribosomal protein L3 plastid	2906
+CHLRE_01g022350v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	14805
+CHLRE_01g023150v5	Minichromosome maintenance (MCM2/3/5) family protein	2209
+CHLRE_01g023400v5	LMBR1-like membrane protein	14617
+CHLRE_01g024300v5	associated molecule with the SH3 domain of STAM 1	11866
+CHLRE_01g024850v5	Rhodanese/Cell cycle control phosphatase superfamily protein	18065
+CHLRE_01g025300v5	DNA repair (Rad51) family protein	10869
+CHLRE_01g026100v5	ribonuclease P family protein / Rpp14 family protein	3537
+CHLRE_01g026100v5	ribonuclease P family protein / Rpp14 family protein	3537
+CHLRE_01g026250v5	alphagalactosidase 2	7407
+CHLRE_01g026450v5	SER/ARG-rich protein 34A	12890
+CHLRE_01g026550v5	TCP-1/cpn60 chaperonin family protein	9499
+CHLRE_01g026600v5	ubiquitin-conjgatig enzyme 35	10580
+CHLRE_01g027000v5	ribosomal protein lage subunit 16A	2868
+CHLRE_01g027100v5	Peptidase S24/S26A/S26B/S26C family protein	9648
+CHLRE_01g027200v5	ubiquitin-conjgatig enzyme 5	10576
+CHLRE_01g027450v5	Thioredoxin superfamily protein	3671
+CHLRE_01g027800v5	vacuolar ATP synthase subunit H family protein	2144
+CHLRE_01g027900v5	Abscisic acid-responsive (TB2/DP1, HVA22) family protein	17338
+CHLRE_01g028200v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	12823
+CHLRE_01g028423v5	Pyridoxal phosphate (PLP)-dependent transferases superfamily protein	1593
+CHLRE_01g028550v5	Cysteine proteinases superfamily protein	18342
+CHLRE_01g029300v5	triosephosphate isomerase	1803
+CHLRE_01g029450v5	hgh mobilitygroup	9272
+CHLRE_01g029650v5	VPS35 homolg A	18468
+CHLRE_01g030250v5	Inositol monophosphatase family protein	15422
+CHLRE_01g030800v5	proteasome family protein	12176
+CHLRE_01g030850v5	20S proteasome  alpha subunit PAD1	2731
+CHLRE_01g030900v5	acyl-activatig enzyme 14	14760
+CHLRE_01g030950v5	(1 of 1) PTHR15840 - CGI-121 FAMILY MEMBER	15901
+CHLRE_01g031200v5	Sgnal recgnition particle, SRP9/SRP14 subunit	3104
+CHLRE_01g031750v5	(1 of 1) PTHR12814 - RNA-BINDING PROTEIN NOB1	11883
+CHLRE_01g031900v5	Protein kinase superfamily protein	8869
+CHLRE_01g032050v5	UDPgalactose transporter 1	15275
+CHLRE_01g032100v5	Transducin/WD40 repeat-like superfamily protein	10570
+CHLRE_01g032350v5	(1 of 1) PTHR21389 - P53 INDUCED PROTEIN	10134
+CHLRE_01g032500v5	homolg of mamallian P58IP	9523
+CHLRE_01g033400v5	Tim10/DDP family zinc figer protein	17777
+CHLRE_01g033550v5	thioredoxin family protein	9584
+CHLRE_01g034000v5	ARM repeat superfamily protein	14293
+CHLRE_01g034400v5	6-phosphgluconolactonase 1	1057
+CHLRE_01g034451v5	plant UBX domain containig protein 4	14012
+CHLRE_01g034650v5	(1 of 1) PTHR12830:SF9 - ANAPHASE-PROMOTING COMPLEX SUBUNIT 5	3352
+CHLRE_01g035000v5	Transducin/WD40 repeat-like superfamily protein	14791
+CHLRE_01g035300v5	nitrilase-like protein 1	12251
+CHLRE_01g035350v5	Polyketide synthase, enoylreductase family protein	7512
+CHLRE_01g035450v5	Bax inhibitor-1 family protein	6890
+CHLRE_01g035500v5	vacuolar protein sortig 34	914
+CHLRE_01g035850v5	clone eghty-four	14007
+CHLRE_01g036050v5	MUTL-homolgue 1	8734
+CHLRE_01g036350v5	autoinhibited Ca(2+)-ATPase 9	1537
+CHLRE_01g036600v5	small RNA dgradig nuclease 3	14570
+CHLRE_01g036750v5	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	2493
+CHLRE_01g036850v5	Methylenetetrahydrofolate reductase family protein	318
+CHLRE_01g037350v5	Thioesterase/thiol ester dehydrase-isomerase superfamily protein	17361
+CHLRE_01g037400v5	Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein	12868
+CHLRE_01g037900v5	(1 of 104) 3.6.4.13 - RNA helicase	3257
+CHLRE_01g038000v5	protein kinase family protein	16196
+CHLRE_01g038250v5	Pyridoxal phosphate (PLP)-dependent transferases superfamily protein	1590
+CHLRE_01g038400v5	calreticulin 1a	8057
+CHLRE_01g038550v5	sulfoquinovosyldiacyglycerol 2	6119
+CHLRE_01g038600v5	fatty acid desaturase 7	10257
+CHLRE_01g038700v5	chloride channel D	5016
+CHLRE_01g038800v5	Aquaporin-like superfamily protein	9875
+CHLRE_01g039250v5	Ribosomal protein S5 family protein	2981
+CHLRE_01g039250v5	Ribosomal protein S5 family protein	2981
+CHLRE_01g039300v5	poly(A) bindig protein 8	13126
+CHLRE_01g039350v5	P450 reductase 1	327
+CHLRE_01g039650v5	peptide deformylase 1B	1462
+CHLRE_01g039750v5	peptide deformylase 1B	1462
+CHLRE_01g039900v5	tRNAse Z3	784
+CHLRE_01g040000v5	Translation protein SH3-like family protein	2898
+CHLRE_01g040050v5	thiamin pyrophosphokinase 2	949
+CHLRE_01g040200v5	with no lysine () kinase 8	8867
+CHLRE_01g040450v5	histidine-containig phosphotransmitter 1	14490
+CHLRE_01g041050v5	amino acid transporter 1	3294
+CHLRE_01g041300v5	DIE2/ALG10 family	3850
+CHLRE_01g042050v5	methionine sulfoxide reductase B 1	7305
+CHLRE_01g042150v5	farnesylated protein-convertig enzyme 2	8658
+CHLRE_01g042750v5	aconitase 2	1681
+CHLRE_01g042800v5	NAD(P)-bindig Rossmann-fold superfamily protein	19073
+CHLRE_01g042900v5	Ribosomal RNA adenine dimethylase family protein	14191
+CHLRE_01g043350v5	Pheophorbide a oxgenase family protein with Rieske [2Fe-2S] domain	13600
+CHLRE_01g044000v5	HIT-type Zinc figer family protein	11663
+CHLRE_01g044050v5	ATPase, V0 complex, subunit E	2153
+CHLRE_01g044850v5	Zinc figer, C3HC4 type (RING figer) family protein	17592
+CHLRE_01g045550v5	Glucose-6-phosphate/phosphate translocator-related	15283
+CHLRE_01g046150v5	Metallopeptidase M24 family protein	1262
+CHLRE_01g046652v5	Nucleic acid-bindig, OB-fold-like protein	1866
+CHLRE_01g046850v5	ubiquitin-conjgatig enzyme 27	4649
+CHLRE_01g047450v5	Cysteine proteinases superfamily protein	18342
+CHLRE_01g047550v5	Ras-related small GTP-bindig family protein	7893
+CHLRE_01g047650v5	F-box/RNI-like superfamily protein	10268
+CHLRE_01g047700v5	peptidyl-prolyl cis-trans isomerase / cyclophilin-40 (CYP40) / rotamase	5864
+CHLRE_01g047750v5	Ribosomal protein L18ae/LX family protein	2882
+CHLRE_01g047900v5	tonneau 2 (TON2)	11583
+CHLRE_01g048050v5	4-phospho-panto-thenoylcysteine synthetase	1922
+CHLRE_01g048350v5	Glycosyl hydrolase superfamily protein	19355
+CHLRE_01g048950v5	uridine 5'-monophosphate synthase / UMP synthase (PYRE-F) (UMPS)	13421
+CHLRE_01g049600v5	ATP synthase protein I -related	2116
+CHLRE_01g050050v5	ankyrin repeat family protein	18477
+CHLRE_01g050100v5	Pyridoxal-dependent decarboxylase family protein	1586
+CHLRE_01g050950v5	Pyridine nucleotide-disulphide oxidoreductase family protein	10960
+CHLRE_01g051100v5	chromatin protein family	6063
+CHLRE_01g051400v5	endoplasmic reticulum retention defective 2B	10949
+CHLRE_01g051900v5	Ubiquinol-cytochrome C reductase iron-sulfur subunit	411
+CHLRE_01g052050v5	ubiquinol-cytochrome C chaperone family protein	17662
+CHLRE_01g052100v5	Ribosomal L18p/L5e family protein	2881
+CHLRE_01g052250v5	thioredoxin X	3671
+CHLRE_01g052350v5	Ribosomal protein L20	2887
+CHLRE_01g052650v5	Phosphglycerate mutase-like family protein	13024
+CHLRE_01g053000v5	NAD-dependentglycerol-3-phosphate dehydrgenase family protein	6
+CHLRE_01g053150v5	NAD-dependentglycerol-3-phosphate dehydrgenase family protein	6
+CHLRE_01g053150v5	NAD-dependentglycerol-3-phosphate dehydrgenase family protein	6
+CHLRE_01g053500v5	RABgeranygeranyl transferase beta subunit 1	5956
+CHLRE_01g053850v5	Transducin/WD40 repeat-like superfamily protein	10143
+CHLRE_01g053900v5	peptide-Nglycanase 1	1456
+CHLRE_01g054150v5	NADPH-dependent thioredoxin reductase C	384
+CHLRE_01g055050v5	Cysteine proteinases superfamily protein	8597
+CHLRE_01g055408v5	acetyl-CoA synthetase	1895
+CHLRE_01g055416v5	mRNA splicig factor, thioredoxin-like U5 snRNP	12859
+CHLRE_01g055420v5	Protein phosphatase 2A, rgulatory subunit PR55	4354
+CHLRE_01g055453v5	VALINE-TOLERANT 1	1653
+CHLRE_01g055550v5	cytochrome c oxidase assembly protein CtaG / Cox11 family	2258
+CHLRE_01g058521v5	UDP-Glycosyltransferase superfamily protein	3844
+CHLRE_01g058886v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	6944
+CHLRE_01g061442v5	BTB/POZ domain-containig protein	3872
+CHLRE_01g062902v5	Mediator complex, subunit Med7	15148
+CHLRE_01g063267v5	(1 of 1) PTHR12821 - BYSTIN	14797
+CHLRE_01g063632v5	8-oxguanine-DNAglycosylase 1	3660
+CHLRE_01g066917v5	photosystem II lght harvestig complexgene 2.2	8913
+CHLRE_01g068377v5	CCAAT-bindig factor	14771
+CHLRE_01g069107v5	(1 of 1) OG4114 - Cytochrome c oxidase assembly protein PET191	18178
+CHLRE_01g069472v5	Cysteinyl-tRNA synthetase, class Ia family protein	1883
+CHLRE_02g073200v5	L-O-methylthreonine resistant 1	1754
+CHLRE_02g073400v5	Zincin-like metalloproteases family protein	1410
+CHLRE_02g073650v5	MOS4-associated  complex 3B	10599
+CHLRE_02g073650v5	MOS4-associated  complex 3B	10599
+CHLRE_02g073900v5	carotenoid cleavge dioxgenase 8	17913
+CHLRE_02g073950v5	carotenoid cleavge dioxgenase 8	17913
+CHLRE_02g075150v5	DNA-directed RNA polymerase family protein	3010
+CHLRE_02g075150v5	DNA-directed RNA polymerase family protein	3010
+CHLRE_02g075650v5	CCCH-type zinc figerfamily protein with RNA-bindig domain	12872
+CHLRE_02g075700v5	Ribosomal protein L19e family protein	2885
+CHLRE_02g076200v5	aminopeptidase M1	8776
+CHLRE_02g076250v5	Translation elogation factor EFG/EF2 protein	2355
+CHLRE_02g076300v5	Uroporphyringen decarboxylase	1599
+CHLRE_02g076350v5	ATPase, V1 complex, subunit B protein	2147
+CHLRE_02g076400v5	E2F/DP family wiged-helix DNA-bindig domain	12189
+CHLRE_02g076600v5	Peptidyl-tRNA hydrolase family protein	1056
+CHLRE_02g076750v5	NADH:ubiquinone oxidoreductase intermediate-associated protein 30	18159
+CHLRE_02g077100v5	LOC_Os0g03820glutamate--cysteine lgase, chloroplast precursor, putative, expressed	1919
+CHLRE_02g077300v5	fibrillarin 2	14563
+CHLRE_02g077350v5	histidinol dehydrgenase	13
+CHLRE_02g078100v5	eukaryotic translation initiation factor 2 (eIF-2) family protein	3243
+CHLRE_02g078150v5	WD40/YVTN repeat-like-containig domain;Bromodomain	11797
+CHLRE_02g078700v5	Zinc figer (C2H2 type) family protein / transcription factor jumonji (jmj) family protein	6709
+CHLRE_02g078750v5	Pseudouridine synthase family protein	15452
+CHLRE_02g078939v5	cryptochrome 3	1669
+CHLRE_02g078966v5	FTSH protease 7	3798
+CHLRE_02g079300v5	AAA-type ATPase family protein	12196
+CHLRE_02g079600v5	phenylalanyl-tRNA synthetase class IIc family protein	1889
+CHLRE_02g079700v5	PYRIMIDINE B	609
+CHLRE_02g080100v5	cleavge and polyadenylation specificity factor 73 kDa subunit-II	13148
+CHLRE_02g080350v5	ubiquitin-specific protease 14	11836
+CHLRE_02g080600v5	Heat shock protein 70 (Hsp 70) family protein	9490
+CHLRE_02g080650v5	Chaperone protein htpG family protein	9487
+CHLRE_02g080700v5	Heat shock protein 70 (Hsp 70) family protein	9490
+CHLRE_02g081200v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	6883
+CHLRE_02g081500v5	UDP-N-acetyglucosamine (UAA) transporter family	15277
+CHLRE_02g081550v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	18532
+CHLRE_02g082000v5	HhH-GPD base excision DNA repair family protein	3575
+CHLRE_02g082250v5	homoserine kinase	872
+CHLRE_02g082350v5	Nitrgen rgulatory PII-like, alpha/beta	3926
+CHLRE_02g082550v5	zeaxanthin epoxidase (ZEP) (ABA1)	9838
+CHLRE_02g082700v5	cytochrome c oxidase 15	2259
+CHLRE_02g082877v5	Seryl-tRNA synthetase	1875
+CHLRE_02g082900v5	Nucleoside transporter family protein	15014
+CHLRE_02g083354v5	transporter associated with antgen processig protein 2	5656
+CHLRE_02g083800v5	NAD-dependent epimerase/dehydratase family protein	12450
+CHLRE_02g083800v5	NAD-dependent epimerase/dehydratase family protein	12450
+CHLRE_02g084050v5	translocation protein-related	12275
+CHLRE_02g084300v5	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	3183
+CHLRE_02g084800v5	Spo11/DNA topoisomerase VI, subunit A protein	10878
+CHLRE_02g084950v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	942
+CHLRE_02g085050v5	Transducin/WD40 repeat-like superfamily protein	10143
+CHLRE_02g085450v5	Coproporphyringen III oxidase	228
+CHLRE_02g085650v5	TatD related DNase	3424
+CHLRE_02g086050v5	Pseudouridine synthase family protein	1855
+CHLRE_02g086550v5	Radical SAM superfamily protein	6941
+CHLRE_02g086650v5	structural maintenance of chromosomes 2	6674
+CHLRE_02g086887v5	SUPPRESSOR OF AUXIN RESISTANCE 3	14297
+CHLRE_02g086887v5	SUPPRESSOR OF AUXIN RESISTANCE 3	14297
+CHLRE_02g087600v5	SNF2 domain-containig protein / helicase domain-containig protein	14439
+CHLRE_02g087700v5	stromal ascorbate peroxidase	434
+CHLRE_02g087950v5	methionine--tRNA lgase, putative / methionyl-tRNA synthetase, putative / MetRS, putative	1874
+CHLRE_02g088000v5	prohibitin 1	17081
+CHLRE_02g088200v5	PDI-like 1-4	9580
+CHLRE_02g088600v5	ATP-citrate lyase B-1	1648
+CHLRE_02g088750v5	phosphotransferases, alcoholgroup as acceptor;bindig;inositol or phosphatidylinositol kinases	8874
+CHLRE_02g088850v5	6,7-dimethyl-8-ribityllumazine synthase / DMRL synthase / lumazine synthase / riboflavin synthase	794
+CHLRE_02g088900v5	Ribosomal protein L1p/L10e family	2863
+CHLRE_02g089150v5	homolg of yeast ADA2 2B	11314
+CHLRE_02g089608v5	RAD3-like DNA-bindig helicase protein	11136
+CHLRE_02g090100v5	DHHC-type zinc figer family protein	18932
+CHLRE_02g090150v5	homolg of bacterial PANC	1918
+CHLRE_02g090850v5	casein lytic proteinase B3	3695
+CHLRE_02g091050v5	Aldolase superfamily protein	1698
+CHLRE_02g091100v5	Ribosomal protein L23/L15e family protein	2877
+CHLRE_02g091150v5	Sec23/Sec24 protein transport family protein	14007
+CHLRE_02g091200v5	homgentisate 1,2-dioxgenase	451
+CHLRE_02g091850v5	ATP-dependent caseinolytic (Clp) protease/crotonase family protein	5607
+CHLRE_02g092050v5	Mitochondrial substrate carrier family protein	15121
+CHLRE_02g092350v5	CYTOCHROME P450 51G1	5917
+CHLRE_02g092500v5	RNA helicase, putative	14326
+CHLRE_02g092900v5	GMP synthase glutamine-hydrolyzig), putative /glutamine amidotransferase, putative	1951
+CHLRE_02g093300v5	ARM repeat superfamily protein	12864
+CHLRE_02g093750v5	DC1 domain-containig protein	17609
+CHLRE_02g093950v5	Amino acid kinase family protein	9903
+CHLRE_02g094050v5	Alkaline-phosphatase-like family protein	5288
+CHLRE_02g094100v5	DC1 domain-containig protein	17609
+CHLRE_02g094300v5	electron-transfer flavoprotein:ubiquinone oxidoreductase	311
+CHLRE_02g095070v5	sgnal recgnition particle 19 kDa protein, putative / SRP19, putative	3105
+CHLRE_02g095089v5	Inosine triphosphate pyrophosphatase family protein	1519
+CHLRE_02g095092v5	PHYTOENE SYNTHASE	2291
+CHLRE_02g095126v5	disproportionatig enzyme 2	705
+CHLRE_02g095147v5	UDP-Glycosyltransferase superfamily protein	3843
+CHLRE_02g095400v5	Ribosomal RNA processig Brix domain protein	14820
+CHLRE_02g095400v5	Ribosomal RNA processig Brix domain protein	14820
+CHLRE_02g096200v5	(1 of 1) PTHR11060 - PROTEIN MEMO1	6990
+CHLRE_02g096400v5	Protein of unknown function (DUF185)	18164
+CHLRE_02g097000v5	pyrimidine 2	1464
+CHLRE_02g097250v5	ARM repeat superfamily protein	15436
+CHLRE_02g097400v5	eukaryotic elogation factor 5A-1	3263
+CHLRE_02g097450v5	Dihydroneopterin aldolase	1633
+CHLRE_02g097650v5	non-ATPase subunit 9	3036
+CHLRE_02g097900v5	aspartate aminotransferase 5	811
+CHLRE_02g098300v5	(1 of 1) PTHR10643 - INETOCHORE PROTEIN NDC80	11547
+CHLRE_02g098450v5	eukaryotic translation initiation factor 2gamma subunit	3242
+CHLRE_02g098950v5	syntaxin of plants 73	8506
+CHLRE_02g099000v5	syntaxin of plants 73	8506
+CHLRE_02g099150v5	alpha-soluble NSF attachment protein 2	15296
+CHLRE_02g099200v5	HEAT repeat-containig protein	6100
+CHLRE_02g099850v5	pyruvate dehydrgenase E1 alpha	161
+CHLRE_02g100000v5	Replication protein A, subunit RPA32	10739
+CHLRE_02g100250v5	soluble N-ethylmaleimide-sensitive factor adaptor protein 30	18211
+CHLRE_02g101350v5	Ribosomal protein L1p/L10e family	2865
+CHLRE_02g101400v5	Clathrin, heavy chain	4646
+CHLRE_02g101500v5	mgnesium transporter 9	16075
+CHLRE_02g101800v5	Class I peptide chain release factor	15033
+CHLRE_02g101950v5	zinc figer (CCCH-type) family protein	15332
+CHLRE_02g102000v5	ADP-ribosylation factor C1	7950
+CHLRE_02g102250v5	Ribosomal protein S3 family protein	2985
+CHLRE_02g102350v5	autophgy 3 (APG3)	8343
+CHLRE_02g102400v5	DNA-directed RNA polymerase, subunit M, archaeal	3019
+CHLRE_02g102500v5	RAS associated with diabetes protein 51C	10870
+CHLRE_02g102800v5	RNA polymerase Rpb8	3016
+CHLRE_02g102950v5	C-terminal domain phosphatase-like 4	18999
+CHLRE_02g103100v5	NAD(P)-bindig Rossmann-fold superfamily protein	11165
+CHLRE_02g103500v5	sphigoid base hydroxylase 2	4713
+CHLRE_02g103550v5	Nucleic acid-bindig, OB-fold-like protein	3236
+CHLRE_02g103850v5	imidazolglycerol-phosphate dehydratase	1693
+CHLRE_02g104550v5	PLANT HOMOLOGOUS TO PARAFIBROMIN	15175
+CHLRE_02g104650v5	RNA-bindig (RRM/RBD/RNP motifs) family protein	14573
+CHLRE_02g104650v5	RNA-bindig (RRM/RBD/RNP motifs) family protein	14573
+CHLRE_02g104900v5	GTP bindig	6942
+CHLRE_02g105200v5	saposin B domain-containig protein	12382
+CHLRE_02g105500v5	Peptidase M20/M25/M40 family protein	1438
+CHLRE_02g106150v5	Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein	12734
+CHLRE_02g106350v5	Acid phosphatase/vanadium-dependent haloperoxidase-related protein	9775
+CHLRE_02g106400v5	phospholipid:diacyglycerol acyltransferase	679
+CHLRE_02g106500v5	nudix hydrolase homolg 16	7766
+CHLRE_02g106550v5	nucleic acid bindig;RNA bindig	12839
+CHLRE_02g106600v5	Ribosomal protein S19e family protein	2966
+CHLRE_02g107300v5	dihydrodipicolinate synthase	1714
+CHLRE_02g107450v5	Pseudouridine synthase/archaeosine tranglycosylase-like family protein	958
+CHLRE_02g107850v5	Mob1/phocein family protein	6685
+CHLRE_02g108400v5	Defender gainst death (DAD family) protein	12668
+CHLRE_02g108450v5	multiprotein brigig factor 1A	3627
+CHLRE_02g108850v5	Ribosomal protein L17 family protein	2879
+CHLRE_02g109550v5	Glyceraldehyde-3-phosphate dehydrgenase-like family protein	12524
+CHLRE_02g109600v5	myo-inositol monophosphatase like 1	1092
+CHLRE_02g109850v5	phosphatidylinositoglycan synthase family protein	3859
+CHLRE_02g110750v5	Chlorophyll A-B bindig family protein	14172
+CHLRE_02g110850v5	Protein kinase superfamily protein	4427
+CHLRE_02g112333v5	Protein kinase superfamily protein	8850
+CHLRE_02g112850v5	FAD/NAD(P)-bindig oxidoreductase family protein	6126
+CHLRE_02g113200v5	LOC_Os0g50240glutamine synthetase, catalytic domain containig protein, expressed	1915
+CHLRE_02g113600v5	Protein kinase superfamily protein	8850
+CHLRE_02g114250v5	enoyl-CoA hydratase/isomerase D	1661
+CHLRE_02g114400v5	Radical SAM superfamily protein	3644
+CHLRE_02g115200v5	Ribosomal protein L18e/L15 superfamily protein	2900
+CHLRE_02g116300v5	Transcription initiation Spt4-like protein	15171
+CHLRE_02g116450v5	Aldolase-type TIM barrel family protein	1783
+CHLRE_02g116750v5	ATPase, F1 complex, alpha subunit protein	2132
+CHLRE_02g116750v5	ATPase, F1 complex, alpha subunit protein	2132
+CHLRE_02g117500v5	hexokinase 3	844
+CHLRE_02g117550v5	Ankyrin repeat family protein	6694
+CHLRE_02g117850v5	ubiquitin-specific protease 9	11835
+CHLRE_02g117900v5	RNA helicase, ATP-dependent, S12/DOB1 protein	12598
+CHLRE_02g118250v5	SWIB complex BAF60b domain-containig protein	15223
+CHLRE_02g118300v5	DEAD box RNA helicase (PRH75)	16911
+CHLRE_02g118500v5	Coatomer, beta' subunit	17302
+CHLRE_02g118600v5	homolg of bacterial cytokinesis Z-rig protein FTSZ 1-1	3531
+CHLRE_02g118850v5	acyl-CoA-bindig protein 6	8762
+CHLRE_02g119050v5	alpha/beta-Hydrolases superfamily protein	15889
+CHLRE_02g119100v5	alpha/beta-Hydrolases superfamily protein	15889
+CHLRE_02g119600v5	phosphatidylserine decarboxylase 1	1613
+CHLRE_02g119900v5	Cysteine proteinases superfamily protein	8568
+CHLRE_02g120100v5	ribulose bisphosphate carboxylase small chain 1A	1602
+CHLRE_02g120150v5	ribulose bisphosphate carboxylase small chain 1A	1602
+CHLRE_02g141000v5	dicer-like 1	11592
+CHLRE_02g141200v5	quinolinate phoshoribosyltransferase	767
+CHLRE_02g141400v5	phosphoenolpyruvate carboxykinase 1	1610
+CHLRE_02g141450v5	ubiquitin-conjgatig enzyme 16	10688
+CHLRE_02g141626v5	protein aginine methyltransferase 7	11438
+CHLRE_02g141706v5	RNA bindig;GTP bindig	3595
+CHLRE_02g141706v5	RNA bindig;GTP bindig	3595
+CHLRE_02g141846v5	DNA repair (Rad51) family protein	10872
+CHLRE_02g142000v5	sumo conjgation enzyme 1	10577
+CHLRE_02g142086v5	phosphoinositide bindig	13125
+CHLRE_02g142186v5	Tubulin/FtsZ family protein	3531
+CHLRE_02g142266v5	cytochrome P450, family 97, subfamily A, polypeptide 3	15747
+CHLRE_02g142350v5	(1 of 1) OG3357 - Uncharacterized conserved protein	12165
+CHLRE_02g142352v5	Class II aaRS and biotin synthetases superfamily protein	1892
+CHLRE_02g142687v5	ADP-ribosylation factor A1E	7937
+CHLRE_02g142687v5	ADP-ribosylation factor A1E	7937
+CHLRE_02g142850v5	Small nuclear ribonucleoprotein family protein	12627
+CHLRE_02g143000v5	phospholipidglycerol acyltransferase family protein	630
+CHLRE_02g143050v5	60S acidic ribosomal protein family	2943
+CHLRE_02g143200v5	Alanyl-tRNA synthetase	1872
+CHLRE_02g143250v5	isocitrate dehydrgenase VI	30
+CHLRE_02g143547v5	plant UBX domain-containig protein 2	14011
+CHLRE_02g144400v5	ribosomal protein S12A	2950
+CHLRE_02g144400v5	ribosomal protein S12A	2950
+CHLRE_02g144600v5	phosphate transporter 2;1	14640
+CHLRE_02g144650v5	phosphate transporter 2;1	14640
+CHLRE_02g144700v5	phosphate transporter 2;1	14640
+CHLRE_02g144750v5	phosphate transporter 2;1	14640
+CHLRE_02g144800v5	N-acetyl-lglutamate synthase 2	14682
+CHLRE_02g145000v5	ribosome-bindig factor A family protein	2834
+CHLRE_02g145050v5	4-(cytidine 5'-phospho)-2-C-methyl-D-erithritol kinase	919
+CHLRE_02g145150v5	CBS domain-containig protein with a domain of unknown function (DUF21)	16302
+CHLRE_02g145150v5	CBS domain-containig protein with a domain of unknown function (DUF21)	16302
+CHLRE_02g145200v5	malonyl-CoA decarboxylase family protein	1578
+CHLRE_02g145231v5	MA16 protein-related	14831
+CHLRE_02g145300v5	Ssu72-like family protein	15544
+CHLRE_02g145700v5	Transmembrane amino acid transporter family protein	14207
+CHLRE_02g145750v5	Transmembrane amino acid transporter family protein	14207
+CHLRE_02g145800v5	Lactate/malate dehydrgenase family protein	25
+CHLRE_02g146000v5	(1 of 1) PTHR21531 - LOW-TEMPERATURE VIABILITY PROTEIN LTV1-RELATED	14798
+CHLRE_02g146050v5	acetoacetyl-CoA thiolase 2	626
+CHLRE_02g146250v5	nitrgen fixation S (NIFS)-like 1	4487
+CHLRE_02g146600v5	Clathrin adaptor complexes medium subunit family protein	12402
+CHLRE_02g146950v5	debranchig enzyme 1	18328
+CHLRE_02g147302v5	aspartate aminotransferase	15849
+CHLRE_02g147650v5	Mannose-6-phosphate isomerase, type I	1809
+CHLRE_02g147900v5	Pyruvate kinase family protein	873
+CHLRE_02g147900v5	Pyruvate kinase family protein	873
+CHLRE_02g147900v5	Pyruvate kinase family protein	873
+CHLRE_02g147900v5	Pyruvate kinase family protein	873
+CHLRE_03g143887v5	Aginyl-tRNA synthetase, class Ic	1887
+CHLRE_03g143907v5	histone acetyltransferase of the MYST family 2	11308
+CHLRE_03g144284v5	BTB-POZ and MATH domain 5	10523
+CHLRE_03g144627v5	Pyridoxal phosphate (PLP)-dependent transferases superfamily protein	1739
+CHLRE_03g144807v5	malate synthase	1638
+CHLRE_03g144867v5	LisH/CRA/RING-U-box domains-containig protein	18624
+CHLRE_03g144907v5	myb-like transcription factor family protein	11324
+CHLRE_03g144967v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	17681
+CHLRE_03g145107v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	10406
+CHLRE_03g145547v5	NADH:cytochrome B5 reductase 1	326
+CHLRE_03g145687v5	5'-3' exonuclease family protein	4799
+CHLRE_03g145727v5	Tyrosyl-tRNA synthetase, class Ib, bacterial/mitochondrial	1866
+CHLRE_03g145747v5	chorismate synthase, putative / 5-enolpyruvylshikimate-3-phosphate phospholyase, putative	1736
+CHLRE_03g145767v5	Polynucleotidyl transferase, ribonuclease H fold protein with HRDC domain	12951
+CHLRE_03g145767v5	Polynucleotidyl transferase, ribonuclease H fold protein with HRDC domain	12951
+CHLRE_03g145887v5	Sec-independent periplasmic protein translocase	3118
+CHLRE_03g145907v5	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	14864
+CHLRE_03g145967v5	Nucleic acid-bindig, OB-fold-like protein	15437
+CHLRE_03g146187v5	oxidoreductases, actig on the aldehyde or oxogroup of donors, NAD or NADP as acceptor;copper ion bindig	145
+CHLRE_03g146247v5	NADH-ubiquinone oxidoreductase-related	3937
+CHLRE_03g146487v5	exportin 1A	14290
+CHLRE_03g146507v5	log-chain base1	654
+CHLRE_03g146527v5	delta1-pyrroline-5-carboxylate synthase 1	12657
+CHLRE_03g149100v5	citrate synthase 2	1647
+CHLRE_03g149500v5	zinc figer (MYND type) family protein / prgrammed cell death 2 C-terminal domain-containig protein	14801
+CHLRE_03g149650v5	carotenoid cleavge dioxgenase 1	11159
+CHLRE_03g149800v5	ARM repeat superfamily protein	16803
+CHLRE_03g150400v5	GPI transamidase subunit PIG-U	5293
+CHLRE_03g150600v5	Protein kinase superfamily protein	8869
+CHLRE_03g150950v5	Nucleotide-diphospho-sgar transferases superfamily protein	721
+CHLRE_03g151400v5	ATP-bindig cassette A1	5643
+CHLRE_03g151750v5	Small nuclear ribonucleoprotein family protein	12625
+CHLRE_03g152000v5	molybdenum cofactor sulfurase (LOS5) (ABA3)	15631
+CHLRE_03g152950v5	Pseudouridine synthase family protein	6173
+CHLRE_03g153800v5	Peptidase C13 family	5290
+CHLRE_03g154150v5	ARF-GAP domain 2	12489
+CHLRE_03g154425v5	CLIP-associated protein	16578
+CHLRE_03g154550v5	pyrroline-5- carboxylate (P5C) reductase	286
+CHLRE_03g154850v5	coenzyme Q biosynthesis Coq4 family protein / ubiquinone biosynthesis Coq4 family protein	18586
+CHLRE_03g154950v5	Glutathione S-transferase family protein	7393
+CHLRE_03g155001v5	isoamylase 1	1214
+CHLRE_03g155051v5	dihydrosphigosine phosphate lyase	1634
+CHLRE_03g155200v5	chorismate mutase 1	1850
+CHLRE_03g155800v5	Nucleic acid-bindig, OB-fold-like protein	15025
+CHLRE_03g156050v5	ribosome recyclig factor, chloroplast precursor	2838
+CHLRE_03g156100v5	SART-1 family	11984
+CHLRE_03g156150v5	DEA(D/H)-box RNA helicase family protein	14776
+CHLRE_03g156750v5	TCP-1/cpn60 chaperonin family protein	9497
+CHLRE_03g157300v5	Polynucleotidyl transferase, ribonuclease H-like superfamily protein	12581
+CHLRE_03g158150v5	RNA recgnition motif (RRM)-containig protein	12842
+CHLRE_03g158200v5	histone deacetylase 2	11418
+CHLRE_03g158800v5	S-formyglutathione hydrolase	1070
+CHLRE_03g158800v5	S-formyglutathione hydrolase	1070
+CHLRE_03g158800v5	S-formyglutathione hydrolase	1070
+CHLRE_03g158900v5	2-oxoacid dehydrgenases acyltransferase family protein	627
+CHLRE_03g158950v5	RNA-bindig (RRM/RBD/RNP motifs) family protein	12833
+CHLRE_03g159200v5	ubiquitin-protein lgase 7	10589
+CHLRE_03g159254v5	ammonium transporter 1;1	3320
+CHLRE_03g159750v5	EAP30/Vps36 family protein	12190
+CHLRE_03g159900v5	protein serine/threonine kinases;ATP bindig;catalytics	7179
+CHLRE_03g159950v5	embryo sac development arrest 7	14788
+CHLRE_03g160100v5	alpha/beta-Hydrolases superfamily protein	6889
+CHLRE_03g160200v5	Oxglutarate/iron-dependent oxgenase	472
+CHLRE_03g160450v5	Transducin/WD40 repeat-like superfamily protein	18643
+CHLRE_03g160500v5	lysyl-tRNA synthetase 1	4567
+CHLRE_03g161000v5	adenosine/AMP deaminase family protein	1488
+CHLRE_03g161050v5	partner of SLD five 1	10732
+CHLRE_03g161400v5	tryptophan synthase beta-subunit 1	1696
+CHLRE_03g161800v5	ATPases;nucleotide bindig;ATP bindig;nucleoside-triphosphatases;transcription factor bindig	14572
+CHLRE_03g162250v5	damged DNA bindig;exodeoxyribonuclease IIIs	2830
+CHLRE_03g162550v5	methylthioadenosine nucleosidase 1	1244
+CHLRE_03g162601v5	phosphatidyglycerolphosphate synthase 1	995
+CHLRE_03g162750v5	RNA-bindig protein-defense related 1	13207
+CHLRE_03g163050v5	Putativeglycosyl hydrolase of unknown function (DUF1680)	9955
+CHLRE_03g163150v5	Putativeglycosyl hydrolase of unknown function (DUF1680)	9955
+CHLRE_03g163200v5	sequence-specific DNA bindig transcription factors;zinc ion bindig;sequence-specific DNA bindig transcription factors	15683
+CHLRE_03g163850v5	Zinc figer (C3HC4-type RING figer) family protein	10638
+CHLRE_03g164050v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	10400
+CHLRE_03g164050v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	10400
+CHLRE_03g164101v5	Small nuclear ribonucleoprotein family protein	12626
+CHLRE_03g164800v5	Protein kinase superfamily protein	8835
+CHLRE_03g164900v5	Protein kinase superfamily protein	8835
+CHLRE_03g164900v5	Protein kinase superfamily protein	8835
+CHLRE_03g165000v5	Small GTP-bindig protein	3596
+CHLRE_03g165215v5	ThiF family protein	8337
+CHLRE_03g165700v5	pyruvate decarboxylase-2	1568
+CHLRE_03g165750v5	nuclear RNA polymerase C1	3018
+CHLRE_03g166050v5	selenium-bindig protein 2	17285
+CHLRE_03g167051v5	pyridoxine biosynthesis 2	8681
+CHLRE_03g167924v5	Protein-tyrosine phosphatase-like, PTPLA	10703
+CHLRE_03g168350v5	Pre-mRNA cleavge complex II protein family	6947
+CHLRE_03g168450v5	TCP-1/cpn60 chaperonin family protein	9500
+CHLRE_03g168550v5	Transmembrane amino acid transporter family protein	15015
+CHLRE_03g168700v5	Haloacid dehalgenase-like hydrolase (HAD) superfamily protein	19269
+CHLRE_03g168850v5	(1 of 1) PTHR33618:SF1 - 39S RIBOSOMAL PROTEIN L53, MITOCHONDRIAL	17434
+CHLRE_03g169150v5	RNA-bindig (RRM/RBD/RNP motifs) family protein	13161
+CHLRE_03g169150v5	RNA-bindig (RRM/RBD/RNP motifs) family protein	13161
+CHLRE_03g169400v5	NAD(P)-bindig Rossmann-fold superfamily protein	8678
+CHLRE_03g170750v5	Alpha-L RNA-bindig motif/Ribosomal protein S4 family protein	14560
+CHLRE_03g171300v5	Aldolase-type TIM barrel family protein	11517
+CHLRE_03g171350v5	SecY protein transport family protein	10956
+CHLRE_03g171461v5	Radical SAM superfamily protein	2495
+CHLRE_03g171950v5	phosphoenolpyruvate carboxylase 4	1595
+CHLRE_03g172000v5	NAD(P)-bindig Rossmann-fold superfamily protein	59
+CHLRE_03g172050v5	basal transcription factor complex subunit-related	3143
+CHLRE_03g172100v5	peptide deformylase 1A	1462
+CHLRE_03g172300v5	phosphate transporter 3;1	15102
+CHLRE_03g172500v5	Alternative oxidase family protein	17893
+CHLRE_03g172550v5	aginine methyltransferase 11	11434
+CHLRE_03g172950v5	homolgue of NAP57	11131
+CHLRE_03g173800v5	pfkB-like carbohydrate kinase family protein	868
+CHLRE_03g174476v5	Cyclin family protein	15161
+CHLRE_03g174750v5	Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein	3768
+CHLRE_03g175000v5	3'-5'-exoribonuclease family protein	12589
+CHLRE_03g175250v5	squalene synthase 1	801
+CHLRE_03g175250v5	squalene synthase 1	801
+CHLRE_03g175400v5	Sgar isomerase (SIS) family protein	1810
+CHLRE_03g175400v5	Sgar isomerase (SIS) family protein	1810
+CHLRE_03g175850v5	apurinic endonuclease-redox protein	10771
+CHLRE_03g176250v5	ATPase, V0/A0 complex, subunit C/D	2146
+CHLRE_03g176550v5	SH1 bindig protein 1	2516
+CHLRE_03g177053v5	cullin-associated and neddylation dissociated	17263
+CHLRE_03g177500v5	HVA22-like protein F	17279
+CHLRE_03g178150v5	calmodulin 6	2183
+CHLRE_03g178300v5	PRP38 family protein	12850
+CHLRE_03g178450v5	GroES-like family protein	4078
+CHLRE_03g178600v5	DNA topoisomerase 1 beta	3163
+CHLRE_03g178650v5	minichromosome maintenance (MCM2/3/5) family protein	2542
+CHLRE_03g179300v5	chromatin remodelig 5	11367
+CHLRE_03g179300v5	chromatin remodelig 5	11367
+CHLRE_03g179500v5	2-oxglutarate (2OG) and Fe(II)-dependent oxgenase superfamily protein	472
+CHLRE_03g179860v5	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	15335
+CHLRE_03g179961v5	DNA polymerase epsilon catalytic subunit	2324
+CHLRE_03g180250v5	myo-inositol-1-phosphate synthase 2	1858
+CHLRE_03g180350v5	cyclin-dependent kinase-subunit 1	2219
+CHLRE_03g180800v5	SIN3-like 4	11644
+CHLRE_03g180850v5	Sec23/Sec24 protein transport family protein	14006
+CHLRE_03g181150v5	Dynein lght chain type 1 family protein	10418
+CHLRE_03g181200v5	3-methylcrotonyl-CoA carboxylase	1969
+CHLRE_03g181300v5	RNA 3'-terminal phosphate cyclase/enolpyruvate transferase, alpha/beta	800
+CHLRE_03g181350v5	Ribosomal protein L17 family protein	2879
+CHLRE_03g181400v5	para-aminobenzoate (PABA) synthase family protein	13950
+CHLRE_03g181500v5	disproportionatig enzyme	705
+CHLRE_03g182100v5	inositol 1,3,4-trisphosphate 5/6-kinase 4	913
+CHLRE_03g182350v5	Tho complex subunit 7/Mft1p	13176
+CHLRE_03g182500v5	SRP72 RNA-bindig domain	3108
+CHLRE_03g182551v5	plastocyanin 1	2638
+CHLRE_03g182800v5	alanineglyoxylate aminotransferase 2	827
+CHLRE_03g182950v5	RNA helicase family protein	12820
+CHLRE_03g183500v5	(1 of 1) PF09805 - Nucleolar protein 12 (25kDa) (Nop25)	14851
+CHLRE_03g184350v5	suppressor of abi3-5	13094
+CHLRE_03g184400v5	nudix hydrolase  1	3574
+CHLRE_03g184651v5	homolg of RAD51 D	10871
+CHLRE_03g184800v5	GDA1/CD39 nucleoside phosphatase family protein	1510
+CHLRE_03g185250v5	starch synthase 2	703
+CHLRE_03g185300v5	arabinose kinase	12446
+CHLRE_03g186200v5	cytidinediphosphate diacyglycerol synthase 2	981
+CHLRE_03g187050v5	phosphate transporter 4;2	12303
+CHLRE_03g187450v5	Ribose 5-phosphate isomerase, type A protein	1807
+CHLRE_03g188200v5	3'-5'-exoribonuclease family protein	12589
+CHLRE_03g188250v5	ADPglucose pyrophosphorylase  1	975
+CHLRE_03g188500v5	SNF7 family protein	12197
+CHLRE_03g188550v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	14806
+CHLRE_03g189250v5	RAB GTPase 11C	7904
+CHLRE_03g189400v5	seryl-tRNA synthetase / serine--tRNA lgase	1875
+CHLRE_03g189550v5	ZIP metal ion transporter family	7238
+CHLRE_03g189650v5	histone acetyltransferase of the CBP family 1	4498
+CHLRE_03g189700v5	Protein of unknown function (DUF179)	7735
+CHLRE_03g189950v5	stress-inducible protein, putative	9553
+CHLRE_03g190100v5	eukaryotic translation initiation factor 3B-2	3253
+CHLRE_03g190500v5	Glycosyl hydrolases family 31  protein	5546
+CHLRE_03g190750v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	943
+CHLRE_03g190800v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	943
+CHLRE_03g190950v5	tubulin alpha-4 chain	7374
+CHLRE_03g191050v5	RAS-related nuclear protein-1	7936
+CHLRE_03g191850v5	indole-3-butyric acid response 1	11147
+CHLRE_03g192550v5	DNA repair-recombination protein (RAD50)	10866
+CHLRE_03g192600v5	Thymidine kinase	857
+CHLRE_03g192850v5	Domain of unknown function (DUF1726) ;Putative ATPase (DUF699)	14521
+CHLRE_03g193350v5	indole-3-butyric acid response 5	4459
+CHLRE_03g193750v5	Glycine cleavge T-protein family	605
+CHLRE_03g193800v5	Class II aminoacyl-tRNA and biotin synthetases superfamily protein	1893
+CHLRE_03g193850v5	Succinyl-CoA lgase, alpha subunit	1899
+CHLRE_03g193950v5	ferredoxin thioredoxin reductase catalytic beta chain family protein	17892
+CHLRE_03g194000v5	Pre-mRNA splicig Prp18-interactig factor	12819
+CHLRE_03g194200v5	pyruvate dehydrgenase E1 beta	162
+CHLRE_03g194250v5	ubiquitin C-terminal hydrolase 3	5609
+CHLRE_03g194300v5	Terpenoid synthases superfamily protein	18163
+CHLRE_03g194400v5	TGF-beta receptor interactig protein 1	3246
+CHLRE_03g194700v5	alpha-xylosidase 1	1187
+CHLRE_03g194800v5	CLP-similar protein 3	14399
+CHLRE_03g194850v5	malate dehydrgenase	26
+CHLRE_03g195600v5	trehalase 1	1194
+CHLRE_03g195650v5	Ribosomal protein S10p/S20e family protein	2946
+CHLRE_03g195750v5	Transducin/WD40 repeat-like superfamily protein	14961
+CHLRE_03g196400v5	Enhancer of polycomb-like transcription factor protein	11322
+CHLRE_03g196450v5	plus-3 domain-containig protein	15178
+CHLRE_03g196850v5	transducin family protein / WD-40 repeat family protein	14549
+CHLRE_03g197000v5	Ribosomal RNA processig Brix domain protein	14847
+CHLRE_03g197350v5	cell division cycle 5	12860
+CHLRE_03g197400v5	HCP-like superfamily protein	14026
+CHLRE_03g197750v5	LOC_Os0g44500glutathione peroxidase, putative, expressed	432
+CHLRE_03g198100v5	BET1P/SFT1P-like protein 14A	8504
+CHLRE_03g199350v5	chromatin remodelig factor18	14440
+CHLRE_03g199400v5	orgin recgnition complex second lagest subunit 2	2604
+CHLRE_03g199423v5	pyrimidine d	254
+CHLRE_03g199647v5	eukaryotic initiation factor 4A-III	13025
+CHLRE_03g199900v5	eukaryotic translation initiation factor 4E	3259
+CHLRE_03g199983v5	protein phosphatase 2A-2	4382
+CHLRE_03g200100v5	UBX domain-containig protein	18726
+CHLRE_03g200543v5	Mitochondrial substrate carrier family protein	15108
+CHLRE_03g200650v5	Glycosyl hydrolase superfamily protein	17525
+CHLRE_03g200991v5	CD inhibitor P21 bindig protein	15262
+CHLRE_03g202000v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	10395
+CHLRE_03g202113v5	purin 7	1923
+CHLRE_03g202400v5	adenine nucleotide transporter 1	14684
+CHLRE_03g202897v5	ubiquitin-conjgatig enzyme 32	10578
+CHLRE_03g203450v5	Ribosomal protein S21e	2971
+CHLRE_03g203850v5	Pseudouridine synthase/archaeosine tranglycosylase-like family protein	958
+CHLRE_03g204250v5	S-adenosyl-l-homocysteine (SAH) hydrolase 2	1251
+CHLRE_03g204350v5	CLP protease R subunit 4	1358
+CHLRE_03g204353v5	GTP-bindig protein 1	7952
+CHLRE_03g204601v5	adenosine kinase 2	856
+CHLRE_03g204752v5	mRNA cappig enzyme family protein	565
+CHLRE_03g204800v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	1551
+CHLRE_03g204801v5	zinc ion bindig	10606
+CHLRE_03g205050v5	diacyglycerol acyltransferase family	14457
+CHLRE_03g205900v5	S-adenosylmethionine decarboxylase	1611
+CHLRE_03g206600v5	dehydratase family	1687
+CHLRE_03g207050v5	Ribosomal L29e protein family	2905
+CHLRE_03g207550v5	elicitor-activatedgene 3-2	83
+CHLRE_03g207700v5	farnesyl diphosphate synthase 2	787
+CHLRE_03g207713v5	isoamylase 3	1214
+CHLRE_03g207800v5	elicitor-activatedgene 3-2	83
+CHLRE_03g207900v5	Cyclin A2;4	6627
+CHLRE_03g207950v5	RNA polymerase I specific transcription initiation factor RRN3 protein	15216
+CHLRE_03g208000v5	Nucleic acid-bindig, OB-fold-like protein	7466
+CHLRE_03g208050v5	Thioesterase superfamily protein	2372
+CHLRE_03g208100v5	Ribonuclease II/R family protein	18758
+CHLRE_03g209393v5	12-oxophytodienoate reductase 2	5894
+CHLRE_03g210513v5	12-oxophytodienoate reductase 2	5894
+CHLRE_03g211073v5	Protein phosphatase 2C family protein	14497
+CHLRE_03g211745v5	AMP-dependent synthetase and lgase family protein	666
+CHLRE_03g213537v5	basic transcription factor 3	1527
+CHLRE_04g211600v5	SNF1 kinase homolg 10	7198
+CHLRE_04g211800v5	Ribosomal protein L14p/L23e family protein	2894
+CHLRE_04g212650v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	6883
+CHLRE_04g213450v5	SNF7 family protein	12191
+CHLRE_04g213904v5	cyclin-dependent kinase E;1	2208
+CHLRE_04g213905v5	Splicig factor, CC1-like	13091
+CHLRE_04g214150v5	thiazole biosynthetic enzyme, chloroplast (ARA6) (THI1) (THI4)	3146
+CHLRE_04g214350v5	DNA-directed DNA polymerases	2320
+CHLRE_04g214500v5	isocitrate dehydrgenase	31
+CHLRE_04g214501v5	polyribonucleotide nucleotidyltransferase, putative	962
+CHLRE_04g214502v5	UDP-Dglucose/UDP-Dgalactose 4-epimerase 5	1784
+CHLRE_04g214503v5	Ribosomal protein L7Ae/L30e/S12e/Gadd45 family protein	2951
+CHLRE_04g214503v5	Ribosomal protein L7Ae/L30e/S12e/Gadd45 family protein	2951
+CHLRE_04g215050v5	beta-hydroxylase 1	15746
+CHLRE_04g215350v5	Transducin/WD40 repeat-like superfamily protein	14552
+CHLRE_04g215400v5	Protein kinase superfamily protein	8869
+CHLRE_04g215750v5	Transducin/WD40 repeat-like superfamily protein	2180
+CHLRE_04g215950v5	Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein	12737
+CHLRE_04g216100v5	lactoyglutathione lyase family protein /glyoxalase I family protein	1759
+CHLRE_04g216300v5	(1 of 1) PF16093 - Proteasome assembly chaperone 4 (PAC4)	11878
+CHLRE_04g216350v5	NAD(P)-linked oxidoreductase superfamily protein	5275
+CHLRE_04g216600v5	rgulatory particle triple-A ATPase 6A	3066
+CHLRE_04g216850v5	tubulin alpha-4 chain	7374
+CHLRE_04g216950v5	3-ketoacyl-acyl carrier protein synthase III	648
+CHLRE_04g217350v5	+ uptake transporter 3	3549
+CHLRE_04g217550v5	eukaryotic translation initiation factor 3C	3252
+CHLRE_04g217921v5	Coatomer, beta subunit	17301
+CHLRE_04g217929v5	sulfite oxidase	387
+CHLRE_04g217932v5	Ribosomal protein L35	2916
+CHLRE_04g217935v5	ARM repeat superfamily protein	11886
+CHLRE_04g217955v5	3-phosphoserine phosphatase	1079
+CHLRE_04g217959v5	3-phosphoserine phosphatase	1079
+CHLRE_04g217959v5	3-phosphoserine phosphatase	1079
+CHLRE_04g218300v5	(1 of 1) PTHR12933 - ORF PROTEIN-RELATED	14774
+CHLRE_04g218650v5	Mitochondrial substrate carrier family protein	15112
+CHLRE_04g218850v5	Ribosomal RNA processig Brix domain protein	14846
+CHLRE_04g219787v5	UbiA prenyltransferase family protein	2548
+CHLRE_04g219900v5	haloacid dehalgenase (HAD) superfamily protein	1094
+CHLRE_04g220350v5	vacuolar proton ATPase A2	2154
+CHLRE_04g220350v5	vacuolar proton ATPase A2	2154
+CHLRE_04g221700v5	Cytochrome c oxidase, subunit III	2262
+CHLRE_04g222750v5	Mitochondrial substrate carrier family protein	15109
+CHLRE_04g223300v5	Mitochondrial substrate carrier family protein	15109
+CHLRE_04g223800v5	Transcriptional coactivator/pterin dehydratase	1724
+CHLRE_04g223800v5	Transcriptional coactivator/pterin dehydratase	1724
+CHLRE_04g223850v5	RNAhelicase-like 8	12614
+CHLRE_04g224150v5	Actin-like ATPase superfamily protein	864
+CHLRE_04g224700v5	peptide transporter  5	14638
+CHLRE_04g225600v5	Mitochondrialglycoprotein family protein	15414
+CHLRE_04g226450v5	Transducin/WD40 repeat-like superfamily protein	12816
+CHLRE_04g226850v5	Saposin-like aspartyl protease family protein	8245
+CHLRE_04g226950v5	26S proteasome rgulatory subunit, putative	6693
+CHLRE_04g227000v5	DNA mismatch repair protein, putative	10858
+CHLRE_04g227350v5	transcription rgulator NOT2/NOT3/NOT5 family protein	12580
+CHLRE_04g228350v5	2-oxoacid dehydrgenases acyltransferase family protein	9699
+CHLRE_04g228800v5	Protein kinase superfamily protein	8850
+CHLRE_04g228900v5	ubiquitin family protein	17618
+CHLRE_04g229350v5	Leucine carboxyl methyltransferase	15451
+CHLRE_04g229700v5	UDPglucose pyrophosphorylase 2	963
+CHLRE_04g229948v5	FMN-linked oxidoreductases superfamily protein	5544
+CHLRE_04g230144v5	log chain base2	654
+CHLRE_04g230928v5	quiescin-sulfhydryl oxidase 2	10758
+CHLRE_04g231026v5	chloroplast sgnal recgnition particle component (CAO)	12271
+CHLRE_04g232104v5	photosystem II lght harvestig complexgene 2.2	8912
+CHLRE_05g232002v5	acyl-CoA oxidase 2	232
+CHLRE_05g232002v5	acyl-CoA oxidase 2	232
+CHLRE_05g232150v5	LOC_Os0g58040glutamate dehydrgenase protein, putative, expressed	261
+CHLRE_05g232200v5	NAD(P)H dehydrgenase B2	17871
+CHLRE_05g232550v5	phosphglycerate/bisphosphglycerate mutase family protein	15634
+CHLRE_05g232750v5	NIMA-related kinase 5	8857
+CHLRE_05g232850v5	cytochrome c oxidase 17	2260
+CHLRE_05g232950v5	microfibrillar-associated protein-related	13110
+CHLRE_05g233100v5	P-loop nucleoside triphosphate hydrolases superfamily protein with CH (Calponin Homolgy) domain	10406
+CHLRE_05g233100v5	P-loop nucleoside triphosphate hydrolases superfamily protein with CH (Calponin Homolgy) domain	10406
+CHLRE_05g233300v5	Tetrapyrrole (Corrin/Porphyrin) Methylases	586
+CHLRE_05g233303v5	UDPglucoseglycoproteinglucosyltransferases;transferases, transferrig hexosylgroups;transferases, transferrigglycosylgroups	11718
+CHLRE_05g233303v5	UDPglucoseglycoproteinglucosyltransferases;transferases, transferrig hexosylgroups;transferases, transferrigglycosylgroups	11718
+CHLRE_05g233305v5	NAD(P)-bindig Rossmann-fold superfamily protein	7071
+CHLRE_05g233305v5	NAD(P)-bindig Rossmann-fold superfamily protein	7071
+CHLRE_05g233900v5	ascorbate peroxidase 4	434
+CHLRE_05g234300v5	26S proteasome, rgulatory subunit Rpn7;Proteasome component (PCI) domain	12175
+CHLRE_05g234550v5	fructose-bisphosphate aldolase 2	1623
+CHLRE_05g234550v5	fructose-bisphosphate aldolase 2	1623
+CHLRE_05g234637v5	ribosomal protein S15A	2957
+CHLRE_05g234638v5	GLN phosphoribosyl pyrophosphate amidotransferase 1	764
+CHLRE_05g234639v5	TCP-1/cpn60 chaperonin family protein	9496
+CHLRE_05g234647v5	Metal-dependent phosphohydrolase	6950
+CHLRE_05g234648v5	PHF5-like protein	12834
+CHLRE_05g234655v5	Leucine-rich repeat (LRR) family protein	17550
+CHLRE_05g234661v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	8900
+CHLRE_05g235500v5	inesin motor family protein	11498
+CHLRE_05g235700v5	saposin B domain-containig protein	12382
+CHLRE_05g235750v5	MUTS homolg 6	8737
+CHLRE_05g236500v5	Neutral/alkaline non-lysosomal ceramidase	12349
+CHLRE_05g237000v5	methionine aminopeptidase 1D	1265
+CHLRE_05g237400v5	diaminopimelate epimerase family protein	1778
+CHLRE_05g237700v5	nucleolar RNA-bindig Nop10p family protein	11130
+CHLRE_05g238322v5	Nucleotidylyl transferase superfamily protein	1867
+CHLRE_05g238332v5	photosystem I subunit D-1	2692
+CHLRE_05g238900v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	14779
+CHLRE_05g239100v5	DHFS-FPGS homolg D	1930
+CHLRE_05g240650v5	DNAJ heat shock N-terminal domain-containig protein	9506
+CHLRE_05g241300v5	small nuclear ribonucleoprotein F	11098
+CHLRE_05g241450v5	sgnal recgnition particle receptor protein, chloroplast (FTSY)	3110
+CHLRE_05g241750v5	pyruvate dehydrgenase kinase	898
+CHLRE_05g241850v5	ATP-citrate lyase A-2	1648
+CHLRE_05g241950v5	voltge dependent anion channel 4	15040
+CHLRE_05g242000v5	ALBINA 1	3404
+CHLRE_05g242300v5	Eukaryotic translation initiation factor 3 subunit 7 (eIF-3)	3251
+CHLRE_05g242350v5	ER-type Ca2+-ATPase 2	1537
+CHLRE_05g242900v5	Sas10/Utp3/C1D family	12592
+CHLRE_05g243050v5	thioredoxin F2	3671
+CHLRE_05g243800v5	photosystem II family protein	8902
+CHLRE_05g244236v5	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	7442
+CHLRE_05g244750v5	AAR2 protein family	13205
+CHLRE_05g245450v5	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	6127
+CHLRE_05g245550v5	Phosphatidylinositol 3- and 4-kinase family protein	888
+CHLRE_05g245900v5	branched-chain aminotransferase 3	826
+CHLRE_05g246050v5	SEC-C motif-containig protein / OTU-like cysteine protease family protein	13717
+CHLRE_05g246050v5	SEC-C motif-containig protein / OTU-like cysteine protease family protein	13717
+CHLRE_05g247050v5	copper transporter 5	14686
+CHLRE_05g247550v5	LOC_Os1g37730glutathione S-transferase, N-terminal domain containig protein, expressed	799
+CHLRE_05g247600v5	MMS ZWEI homolgue 3	10704
+CHLRE_05g248150v5	calcineurin B subunit-related	13510
+CHLRE_05g248300v5	natural resistance associated macrophge protein 4	12347
+CHLRE_05g248500v5	thioredoxin 2	3671
+CHLRE_05g248550v5	zinc figer protein-related	16276
+CHLRE_06g248850v5	Protein kinase superfamily protein	8827
+CHLRE_06g248950v5	ubiquitin-specific protease 18	11855
+CHLRE_06g249250v5	Ribosomal protein L7Ae/L30e/S12e/Gadd45 family protein	12845
+CHLRE_06g249950v5	phosphatidyl inositol monophosphate 5 kinase	889
+CHLRE_06g250200v5	methionine adenosyltransferase 3	789
+CHLRE_06g250250v5	vacuolar ATP synthase subunit C (VATC) / V-ATPase C subunit / vacuolar proton pump C subunit (DET3)	2148
+CHLRE_06g250500v5	pfkB-like carbohydrate kinase family protein	17757
+CHLRE_06g250750v5	ubiquitin-specific protease 3	11842
+CHLRE_06g250800v5	H domain-containig protein	13210
+CHLRE_06g250800v5	H domain-containig protein	13210
+CHLRE_06g250950v5	Zinc figer C-x8-C-x5-C-x3-H type family protein	12836
+CHLRE_06g251100v5	myristoyl-CoA:protein N-myristoyltransferase	671
+CHLRE_06g251300v5	Small nuclear ribonucleoprotein family protein	12623
+CHLRE_06g251350v5	Transducin/WD40 repeat-like superfamily protein	14829
+CHLRE_06g251400v5	NADP-malic enzyme 4	29
+CHLRE_06g251450v5	quinolinate synthase	3517
+CHLRE_06g251500v5	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	18787
+CHLRE_06g251600v5	Translation initiation factor IF2/IF5	3262
+CHLRE_06g251650v5	tonoplast dicarboxylate transporter	14430
+CHLRE_06g251750v5	GINS complex protein	10734
+CHLRE_06g251800v5	ATPase family associated with various cellular activities (AAA)	10755
+CHLRE_06g251951v5	Transducin/WD40 repeat-like superfamily protein	15542
+CHLRE_06g252401v5	Bax inhibitor-1 family protein	6890
+CHLRE_06g252550v5	Dihydrolipoamide acetyltransferase, log form protein	627
+CHLRE_06g252650v5	Aconitase/3-isopropylmalate dehydratase protein	1704
+CHLRE_06g252700v5	hydroxyproline-richglycoprotein family protein	12826
+CHLRE_06g253300v5	Peptidase C12, ubiquitin carboxyl-terminal hydrolase 1	5610
+CHLRE_06g253350v5	Sigle hybrid motif superfamily protein	2437
+CHLRE_06g254150v5	periodic tryptophan protein 2	14558
+CHLRE_06g254450v5	F-box protein 7	10295
+CHLRE_06g254650v5	Zinc figer (CCCH-type/C3HC4-type RING figer) family protein	13127
+CHLRE_06g254700v5	Zinc figer C-x8-C-x5-C-x3-H type family protein	14321
+CHLRE_06g254800v5	RNA-bindig (RRM/RBD/RNP motifs) family protein	12831
+CHLRE_06g255350v5	hydroxyethylthiazole kinase family protein	878
+CHLRE_06g255400v5	Transducin/WD40 repeat-like superfamily protein	12857
+CHLRE_06g255450v5	retinoblastoma-related 1	4681
+CHLRE_06g255950v5	Transducin/WD40 repeat-like superfamily protein	14553
+CHLRE_06g256200v5	histone acetyltransferase of the GNAT family 1	6062
+CHLRE_06g256420v5	Cyclin/Brf1-like TBP-bindig protein	15196
+CHLRE_06g256750v5	fatA acyl-ACP thioesterase	10782
+CHLRE_06g257150v5	Zinc-bindig ribosomal protein family protein	2921
+CHLRE_06g257450v5	ATPase, F0/V0 complex, subunit C protein	2155
+CHLRE_06g257550v5	Mitochondrial substrate carrier family protein	15103
+CHLRE_06g257601v5	Thioredoxin superfamily protein	3386
+CHLRE_06g257900v5	(1 of 1) PTHR15414 - OS-9-RELATED	10088
+CHLRE_06g257950v5	aspartate aminotransferase 1	14455
+CHLRE_06g258733v5	2-isopropylmalate synthase 1	1649
+CHLRE_06g258733v5	2-isopropylmalate synthase 1	1649
+CHLRE_06g259150v5	GTP bindig Elogation factor Tu family protein	2358
+CHLRE_06g259800v5	MIF4G domain-containig protein / MA3 domain-containig protein	13100
+CHLRE_06g259900v5	ATPase, F1 complex,gamma subunit protein	2115
+CHLRE_06g260100v5	UDPgalactose transporter 5	15276
+CHLRE_06g260200v5	Mitochondrial substrate carrier family protein	15100
+CHLRE_06g260450v5	dicarboxylate transport 2.1	3319
+CHLRE_06g260600v5	Calcium-bindig EF-hand family protein	11583
+CHLRE_06g260700v5	AZAguanine resistant1	6901
+CHLRE_06g260800v5	protein bindig	5755
+CHLRE_06g260850v5	(1 of 1) PTHR23183 - NOP14	14766
+CHLRE_06g260950v5	EPS15 homolgy domain 2	12483
+CHLRE_06g261000v5	photosystem II subunit R	3541
+CHLRE_06g261150v5	Radical SAM superfamily protein	1012
+CHLRE_06g261450v5	hgh mobilitygroup B1	10802
+CHLRE_06g261700v5	Ribosomal protein L10 family protein	14815
+CHLRE_06g261800v5	argenate dehydratase 6	5359
+CHLRE_06g262050v5	Galactose mutarotase-like superfamily protein	1785
+CHLRE_06g262100v5	LOC_Os0g56850glutathione reductase, putative, expressed	383
+CHLRE_06g262250v5	Clathrin adaptor complexes medium subunit family protein	12393
+CHLRE_06g262700v5	Cytochrome bd ubiquinol oxidase, 14kDa subunit	417
+CHLRE_06g262900v5	phosphofructokinase 5	850
+CHLRE_06g263289v5	Undecaprenyl pyrophosphate synthetase family protein	11778
+CHLRE_06g263450v5	GTP bindig Elogation factor Tu family protein	3231
+CHLRE_06g263800v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	10706
+CHLRE_06g264200v5	succinate dehydrgenase 2-2	235
+CHLRE_06g264350v5	Ribosomal protein L13 family protein	2871
+CHLRE_06g264600v5	histone H4	11254
+CHLRE_06g264650v5	Histone superfamily protein	11253
+CHLRE_06g264750v5	histone H2A 10	11251
+CHLRE_06g264800v5	Histone superfamily protein	11252
+CHLRE_06g264900v5	Histone superfamily protein	11252
+CHLRE_06g264950v5	histone H2A 10	11251
+CHLRE_06g265000v5	Histone superfamily protein	11253
+CHLRE_06g265050v5	histone H4	11254
+CHLRE_06g265200v5	histone H4	11254
+CHLRE_06g265250v5	Histone superfamily protein	11253
+CHLRE_06g265350v5	histone H2A 10	11251
+CHLRE_06g265400v5	Histone superfamily protein	11252
+CHLRE_06g265450v5	histone H4	11254
+CHLRE_06g265500v5	Histone superfamily protein	11253
+CHLRE_06g265800v5	Ribosomal L28 family	2902
+CHLRE_06g265900v5	Metal-dependent phosphohydrolase	7023
+CHLRE_06g266600v5	histone H4	11254
+CHLRE_06g266650v5	Histone superfamily protein	11253
+CHLRE_06g266700v5	histone H2A 10	11251
+CHLRE_06g266750v5	Histone superfamily protein	11252
+CHLRE_06g267100v5	sgnal recgnition particle-related / SRP-related	3107
+CHLRE_06g267150v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	6883
+CHLRE_06g267500v5	proteasome beta subunit C1	2735
+CHLRE_06g267600v5	Lycopene beta/epsilon cyclase protein	6444
+CHLRE_06g267600v5	Lycopene beta/epsilon cyclase protein	6444
+CHLRE_06g267800v5	Mitochondrial substrate carrier family protein	15119
+CHLRE_06g267800v5	Mitochondrial substrate carrier family protein	15119
+CHLRE_06g267950v5	Histone superfamily protein	11253
+CHLRE_06g268000v5	histone H4	11254
+CHLRE_06g268050v5	histone H2A 10	11251
+CHLRE_06g268100v5	Histone superfamily protein	11252
+CHLRE_06g268150v5	Protein kinase superfamily protein	8857
+CHLRE_06g268250v5	Histone superfamily protein	11252
+CHLRE_06g268300v5	histone H2A 10	11251
+CHLRE_06g268350v5	Histone superfamily protein	11253
+CHLRE_06g268400v5	histone H4	11254
+CHLRE_06g268450v5	Transducin family protein / WD-40 repeat family protein	10752
+CHLRE_06g268750v5	NAD-dependent malic enzyme 2	28
+CHLRE_06g269350v5	GC-rich sequence DNA-bindig factor-like protein	13211
+CHLRE_06g269450v5	eukaryotic translation initiation factor 3G1	3248
+CHLRE_06g269950v5	ATPase, AAA-type, CDC48 protein	13525
+CHLRE_06g270100v5	starch branchig enzyme 2.2	700
+CHLRE_06g270150v5	thylakoid ATP/ADP carrier	14684
+CHLRE_06g270200v5	Phosphoinositide-specific phospholipase C family protein	5857
+CHLRE_06g270250v5	cell division cycle 45	6628
+CHLRE_06g270650v5	mitochondrial ribosomal protein L51/S25/CI-B8 family protein	17424
+CHLRE_06g270850v5	chromatin remodelig 8	10841
+CHLRE_06g270900v5	ATP-dependent RNA helicase, mitochondrial, putative	17675
+CHLRE_06g271050v5	uridine-ribohydrolase 1	1240
+CHLRE_06g271250v5	Histone superfamily protein	11253
+CHLRE_06g271300v5	histone H4	11254
+CHLRE_06g271350v5	histone H2A 10	11251
+CHLRE_06g271800v5	senescence-associatedgene 29	15382
+CHLRE_06g272050v5	Phosphglycerate mutase, 2,3-bisphosphglycerate-independent	15633
+CHLRE_06g272100v5	initiator tRNA phosphoribosyl transferase family protein	15463
+CHLRE_06g272650v5	photosystem I lght harvestig complexgene 5	8911
+CHLRE_06g272800v5	Ribosomal protein S8e family protein	2995
+CHLRE_06g272850v5	Ribosomal protein L10 family protein	2864
+CHLRE_06g272950v5	S18 ribosomal protein	2964
+CHLRE_06g273000v5	HISTIDINE TRIAD NUCLEOTIDE-BINDING 2	2503
+CHLRE_06g273300v5	Threonyl-tRNA synthetase	1868
+CHLRE_06g273413v5	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	14835
+CHLRE_06g273500v5	apyrase 1	14641
+CHLRE_06g273500v5	apyrase 1	14641
+CHLRE_06g273600v5	ubiquitin 5	2977
+CHLRE_06g273750v5	non-intrinsic ABC protein 11	2045
+CHLRE_06g273850v5	Histone superfamily protein	11252
+CHLRE_06g273900v5	histone H2A 10	11251
+CHLRE_06g273950v5	histone H4	11254
+CHLRE_06g274000v5	Histone superfamily protein	11253
+CHLRE_06g274101v5	Histone superfamily protein	11253
+CHLRE_06g274150v5	histone H4	11254
+CHLRE_06g274200v5	histone H2A 10	11251
+CHLRE_06g274250v5	Histone superfamily protein	11252
+CHLRE_06g274300v5	histone H4	11254
+CHLRE_06g274350v5	Histone superfamily protein	11253
+CHLRE_06g274500v5	RNA-bindig (RRM/RBD/RNP motifs) family protein	14396
+CHLRE_06g274700v5	OTU-like cysteine protease family protein	13719
+CHLRE_06g274750v5	Histone superfamily protein	11252
+CHLRE_06g274800v5	histone H2A 10	11251
+CHLRE_06g274850v5	Histone superfamily protein	11253
+CHLRE_06g274900v5	histone H4	11254
+CHLRE_06g275000v5	senescence-associatedgene 29	15382
+CHLRE_06g275050v5	LOC_Os0g44130gammaglutamyl hydrolase precursor, putative, expressed	1307
+CHLRE_06g275100v5	nucleolin like 1	11294
+CHLRE_06g275650v5	PAM domain (PCI/PINT associated module) protein	3033
+CHLRE_06g275700v5	histone H4	11254
+CHLRE_06g275750v5	Histone superfamily protein	11253
+CHLRE_06g275800v5	Histone superfamily protein	11252
+CHLRE_06g275850v5	histone H2A 10	11251
+CHLRE_06g275900v5	wiged-helix DNA-bindig transcription factor family protein	11275
+CHLRE_06g276500v5	histone H2A 10	11251
+CHLRE_06g276550v5	Histone superfamily protein	11252
+CHLRE_06g276600v5	Histone superfamily protein	11253
+CHLRE_06g276650v5	histone H4	11254
+CHLRE_06g276700v5	ureidglycolate amidohydrolase	18151
+CHLRE_06g276800v5	histone H4	11254
+CHLRE_06g276850v5	Histone superfamily protein	11253
+CHLRE_06g276900v5	Histone superfamily protein	11252
+CHLRE_06g276950v5	histone H2A 10	11251
+CHLRE_06g277000v5	DHHC-type zinc figer family protein	18932
+CHLRE_06g277050v5	ARM repeat superfamily protein	14856
+CHLRE_06g277200v5	adenosylmethionine-8-amino-7-oxononanoate transaminases	833
+CHLRE_06g278097v5	Transducin/WD40 repeat-like superfamily protein	14298
+CHLRE_06g278101v5	serine racemase	12235
+CHLRE_06g278135v5	Translation protein SH3-like family protein	2889
+CHLRE_06g278136v5	zinc figer (CCCH-type/C3HC4-type RING figer) family protein	15687
+CHLRE_06g278139v5	RAB GTPASE HOMOLOG B18	7910
+CHLRE_06g278143v5	UDP-Dglucuronate 4-epimerase 1	8679
+CHLRE_06g278151v5	homolg of X-ray repair cross complementig 3 (XRCC3)	10880
+CHLRE_06g278163v5	HOPW1-1-interactig 1	818
+CHLRE_06g278172v5	vesicle-associated membrane protein 711	8515
+CHLRE_06g278175v5	Transducin/WD40 repeat-like superfamily protein	14793
+CHLRE_06g278185v5	UDPglucose dehydrgenase 1	12
+CHLRE_06g278188v5	NADH-ubiquinone oxidoreductase B18 subunit, putative	3963
+CHLRE_06g278198v5	oxidoreductase, 2OG-Fe(II) oxgenase family protein	10765
+CHLRE_06g278202v5	Inositol monophosphatase family protein	10047
+CHLRE_06g278221v5	trehalose-phosphatase/synthase 7	16055
+CHLRE_06g278222v5	receptor for activated C kinase 1C	14753
+CHLRE_06g278225v5	tetratricopeptide repeat (TPR)-containig protein	670
+CHLRE_06g278231v5	Protein kinase superfamily protein	8850
+CHLRE_06g278251v5	DNA photolyase family protein	2295
+CHLRE_06g278254v5	ser/ag-rich protein kinase 4	8832
+CHLRE_06g278256v5	Mov34/MPN/PAD-1 family protein	3038
+CHLRE_06g278269v5	PHD figer family protein	6672
+CHLRE_06g278350v5	prephenate dehydrgenase family protein	15227
+CHLRE_06g278500v5	(1 of 1) 2.1.1.221 - tRNA guanine(9)-N(1))-methyltransferase / tRNA m(1)G(9)-methyltransferase	15445
+CHLRE_06g278750v5	plant uncouplig mitochondrial protein 1	15103
+CHLRE_06g278800v5	Peroxisomal membrane 22 kDa (Mpv17/PMP22) family protein	13348
+CHLRE_06g279000v5	N-terminal nucleophile aminohydrolases (Ntn hydrolases) superfamily protein	2738
+CHLRE_06g279150v5	Class II aminoacyl-tRNA and biotin synthetases superfamily protein	1876
+CHLRE_06g279250v5	partner of Y14-MAGO	14294
+CHLRE_06g279400v5	serine carboxypeptidase-like 48	9645
+CHLRE_06g279750v5	methionine aminopeptidase 1A	1265
+CHLRE_06g280300v5	ubiquitin protein lgase 6	10589
+CHLRE_06g280550v5	RNA recgnition motif (RRM)-containig protein	13107
+CHLRE_06g280850v5	20S proteasome beta subunit G1	2736
+CHLRE_06g281050v5	sortig nexin 1	17917
+CHLRE_06g281200v5	bindig;calmodulin bindig	16743
+CHLRE_06g281350v5	lon protease 4	8675
+CHLRE_06g281750v5	(1 of 1) OG4487 - Uncharacterized conserved protein	11270
+CHLRE_06g282200v5	SNF7 family protein	12194
+CHLRE_06g282500v5	ribosomal protein L23AA	2893
+CHLRE_06g282600v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	14809
+CHLRE_06g283050v5	photosystem I lght harvestig complexgene 1	8907
+CHLRE_06g283750v5	homgentisate prenyltransferase	12501
+CHLRE_06g283950v5	photosystem II lght harvestig complexgene 2.2	8912
+CHLRE_06g284050v5	YEATS family protein	11341
+CHLRE_06g284250v5	photosystem II lght harvestig complexgene 2.2	8912
+CHLRE_06g284400v5	Arabidopsis Hop2 homolg	6695
+CHLRE_06g284450v5	SCP1-like small phosphatase 5	15731
+CHLRE_06g284500v5	3'-5'-exoribonuclease family protein	11600
+CHLRE_06g284700v5	alanine aminotransferas	814
+CHLRE_06g284750v5	Translation elogation factor EF1A/initiation factor IFgamma family protein	3267
+CHLRE_06g284900v5	rotamase CYP 7	1802
+CHLRE_06g285150v5	ascorbate peroxidase 6	434
+CHLRE_06g285200v5	nudix hydrolase homolg 23	18453
+CHLRE_06g285500v5	(1 of 2) PF15346 - Aginine andglutamate-rich 1 (ARGLU)	13173
+CHLRE_06g286250v5	S-adenosylmethionine carrier 1	15111
+CHLRE_06g287000v5	Caleosin-related family protein	17991
+CHLRE_06g288750v5	ATPase E1	9564
+CHLRE_06g289550v5	Ribosomal protein L32e	2912
+CHLRE_06g289950v5	RNA helicase, ATP-dependent, S12/DOB1 protein	12598
+CHLRE_06g290000v5	ureidglycine aminohydrolase	14977
+CHLRE_06g290100v5	syntaxin of plants 61	8498
+CHLRE_06g290500v5	protein kinase family protein / WD-40 repeat family protein	8333
+CHLRE_06g290950v5	ribosomal protein 5B	2989
+CHLRE_06g291200v5	(1 of 1) PTHR13476:SF2 - HISTONE ACETYLTRANSFERASE SUBUNIT NUA4-DOMAIN CONTAINING PROTEIN	11344
+CHLRE_06g291600v5	Protein kinase superfamily protein	894
+CHLRE_06g291600v5	Protein kinase superfamily protein	894
+CHLRE_06g291800v5	polyprenyltransferase 1	6125
+CHLRE_06g292550v5	type one serine/threonine protein phosphatase 4	6269
+CHLRE_06g292800v5	Ubiquitin-conjgatig enzyme family protein	6689
+CHLRE_06g292950v5	polymerase delta 4	3505
+CHLRE_06g293000v5	DNA primase, lage subunit family	2685
+CHLRE_06g293051v5	ammonium transporter 1;1	3320
+CHLRE_06g293700v5	Ribosomal protein L12 family protein	2935
+CHLRE_06g293950v5	serine hydroxymethyltransferase 4	600
+CHLRE_06g294000v5	alpha/beta-Hydrolases superfamily protein	1061
+CHLRE_06g294400v5	Zn-dependent exopeptidases superfamily protein	6171
+CHLRE_06g294750v5	UbiA prenyltransferase family protein	4040
+CHLRE_06g294850v5	ubiquitin carrier protein 1	10573
+CHLRE_06g294950v5	NAD(P)-bindig Rossmann-fold superfamily protein	208
+CHLRE_06g295250v5	Phosphatidic acid phosphatase (PAP2) family protein	7252
+CHLRE_06g295450v5	hydroxypyruvate reductase	15893
+CHLRE_06g295600v5	mRNAadenosine methylase	5925
+CHLRE_06g295700v5	Minichromosome maintenance (MCM2/3/5) family protein	2541
+CHLRE_06g296250v5	Lysyl-tRNA synthetase, class II	4567
+CHLRE_06g296600v5	lumazine-bindig family protein	793
+CHLRE_06g296983v5	SUMO-activatig enzyme 2	10685
+CHLRE_06g297016v5	homolg of xeroderma pgmentosum complementationgroup B 1	10843
+CHLRE_06g297750v5	splicig factor-related	12827
+CHLRE_06g298100v5	Translation initiation factor SUI1 family protein	3113
+CHLRE_06g299600v5	ZRT/IRT-like protein 2	14709
+CHLRE_06g299800v5	AMP-dependent synthetase and lgase family protein	1897
+CHLRE_06g299850v5	ASH1-related protein 2	11426
+CHLRE_06g300100v5	N-acetyglucosaminylphosphatidylinositol de-N-acetylase family protein	3434
+CHLRE_06g300750v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	12874
+CHLRE_06g300800v5	ribosomal protein lage subunit 27	2899
+CHLRE_06g300900v5	embryo defective 1745	18723
+CHLRE_06g302750v5	Transducin/WD40 repeat-like superfamily protein	13137
+CHLRE_06g303650v5	eukaryotic translation initiation factor SUI1 family protein	15027
+CHLRE_06g303900v5	heptahelical protein 4	7297
+CHLRE_06g304100v5	cyclase associated protein 1	17261
+CHLRE_06g304300v5	proteasome alpha subunit F1	2725
+CHLRE_06g304350v5	cytochrome C oxidase 6B	2267
+CHLRE_06g304650v5	phosphatidylinositol 4-OH kinase beta2	888
+CHLRE_06g304750v5	ARF-GAP domain 5	12486
+CHLRE_06g306400v5	1-amino-cyclopropane-1-carboxylate synthase 7	1762
+CHLRE_06g306601v5	anthranilate synthase 2	1657
+CHLRE_06g306750v5	Calcium-bindig EF-hand family protein	13448
+CHLRE_06g306800v5	Protein kinase superfamily protein	8851
+CHLRE_06g306850v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	18655
+CHLRE_06g307150v5	beta-amylase 1	1177
+CHLRE_06g307450v5	SWAP (Suppressor-of-White-APricot)/surp domain-containig protein / ubiquitin family protein	12825
+CHLRE_06g307600v5	NAP1-related protein 2	11290
+CHLRE_06g308150v5	DNAJ heat shock N-terminal domain-containig protein	9531
+CHLRE_06g308250v5	Ribosomal protein S4 (RPS4A) family protein	2987
+CHLRE_06g308350v5	flower-specific, phytochrome-associated protein phosphatase 3	15498
+CHLRE_06g308500v5	carbamoyl phosphate synthetase A	1956
+CHLRE_06g308850v5	Translation initiation factor eIF3 subunit	3245
+CHLRE_06g308900v5	Outer membrane OMP85 family protein	7277
+CHLRE_06g309050v5	NOT2 / NOT3 / NOT5 family	12605
+CHLRE_06g309100v5	heat shock protein 60	4077
+CHLRE_06g309150v5	C2H2 and C2HC zinc figers superfamily protein	13220
+CHLRE_06g310000v5	Adaptin family protein	12400
+CHLRE_06g310050v5	CAAX amino terminal protease family protein	7052
+CHLRE_06g310450v5	Cyclin-like family protein	3124
+CHLRE_06g310700v5	Zinc-bindig ribosomal protein family protein	2929
+CHLRE_06g310750v5	coatomergamma-2 subunit, putative /gamma-2 coat protein, putative /gamma-2 COP, putative	17267
+CHLRE_06g311050v5	Transketolase family protein	167
+CHLRE_06g311400v5	Restriction endonuclease, type II-like superfamily protein	10848
+CHLRE_06g311600v5	riboflavin kinase/FMN hydrolase	861
+CHLRE_06g311900v5	RAB GTPase homolg G3D	7897
+CHLRE_07g312350v5	DNA primases;DNA primases	2684
+CHLRE_07g312400v5	diacyglycerol kinase 2	901
+CHLRE_07g312750v5	Nucleic acid-bindig, OB-fold-like protein	7573
+CHLRE_07g312900v5	HEAT repeat ;HECT-domain (ubiquitin-transferase)	10590
+CHLRE_07g313185v5	RNA polymerase II, Rpb4, core protein	3012
+CHLRE_07g313302v5	RNA polymerase I subunit 43	3027
+CHLRE_07g313700v5	LOC_Os0g02860glutamyl-tRNA synthetase, putative, expressed	1885
+CHLRE_07g314100v5	Ribosomal protein L1p/L10e family	14775
+CHLRE_07g314150v5	zeta-carotene desaturase	514
+CHLRE_07g314550v5	tRNA guanine-N-7) methyltransferase	3439
+CHLRE_07g314600v5	NgB/RpiA/CoA transferase-like superfamily protein	1807
+CHLRE_07g314900v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	13179
+CHLRE_07g314950v5	DNA bindig;DNA-directed RNA polymerases	3025
+CHLRE_07g316050v5	Chaperone DnaJ-domain superfamily protein	3686
+CHLRE_07g316850v5	Minichromosome maintenance (MCM2/3/5) family protein	2212
+CHLRE_07g317908v5	ATP-dependent peptidases;nucleotide bindig;serine-type endopeptidases;DNA helicases;ATP bindig;damged DNA bindig;nucleoside-triphosphatases	4485
+CHLRE_07g318450v5	Preprotein translocase Sec, Sec61-beta subunit protein	9481
+CHLRE_07g318651v5	Flavin containig amine oxidoreductase family protein	11450
+CHLRE_07g318702v5	nucleotide bindig;protein bindig	11806
+CHLRE_07g318750v5	phosphoribosylformyglycinamidine cyclo-lgase, chloroplast / phosphoribosyl-aminoimidazole synthetase / AIR synthase (PUR5)	1933
+CHLRE_07g318800v5	heat shock protein 17.4	13993
+CHLRE_07g319100v5	Glutathione S-transferase family protein	5309
+CHLRE_07g319300v5	Pyruvate phosphate dikinase, PEP/pyruvate bindig domain	8244
+CHLRE_07g319750v5	RNA helicase 1	14807
+CHLRE_07g319900v5	PNAS-3 related	3681
+CHLRE_07g320150v5	DNAJ heat shock family protein	9517
+CHLRE_07g320650v5	transferases, transferrig hexosylgroups	7542
+CHLRE_07g321350v5	Calcineurin-like metallo-phosphoesterase superfamily protein	1113
+CHLRE_07g322176v5	nuclear RNA polymerase A2	3002
+CHLRE_07g322250v5	molybdopterin biosynthesis MoaE family protein	3635
+CHLRE_07g322300v5	RAD3-like DNA-bindig helicase protein	11273
+CHLRE_07g322950v5	NAD kinase 1	858
+CHLRE_07g323050v5	(1 of 1) PTHR16318 - GAMMA-SECRETASE SUBUNIT PEN-2	6170
+CHLRE_07g323150v5	Thioesterase superfamily protein	17362
+CHLRE_07g323750v5	4'-phosphopantetheinyl transferase superfamily	6133
+CHLRE_07g324050v5	cullin 3	3869
+CHLRE_07g324400v5	SNF7 family protein	12193
+CHLRE_07g324600v5	SNARE-like superfamily protein	11827
+CHLRE_07g325400v5	isopropylmalate dehydrgenase 2	52
+CHLRE_07g325500v5	mgnesium-chelatase subunit chlH, chloroplast, putative / g-protoporphyrin IX chelatase, putative (CHLH)	3403
+CHLRE_07g325550v5	diacyglycerol kinase 4	901
+CHLRE_07g325712v5	Ribosomal protein L24e family protein	2896
+CHLRE_07g325713v5	GC-rich sequence DNA-bindig factor-like protein with Tuftelin interactig domain	13103
+CHLRE_07g325716v5	DNA lgase 1	10747
+CHLRE_07g325734v5	nucleoside diphosphate kinase 2	940
+CHLRE_07g325746v5	Ribosomal L38e protein family	2923
+CHLRE_07g325748v5	oxoprolinase 1	1469
+CHLRE_07g326800v5	protein phosphatase 5.2	4460
+CHLRE_07g327400v5	NADH dehydrgenase subunit 9	3936
+CHLRE_07g328150v5	PDI-like 2-3	9584
+CHLRE_07g328150v5	PDI-like 2-3	9584
+CHLRE_07g328400v5	TBP-associated factor 15	13098
+CHLRE_07g328600v5	Transducin/WD40 repeat-like superfamily protein	11804
+CHLRE_07g328850v5	Protein kinase superfamily protein	8857
+CHLRE_07g329150v5	RNA helicase family protein	12818
+CHLRE_07g329150v5	RNA helicase family protein	12818
+CHLRE_07g329700v5	rgulatory particle AAA-ATPase 2A	3062
+CHLRE_07g330100v5	staurosporin and temperature sensitive 3-like b	7151
+CHLRE_07g330250v5	photosystem I subunit H2	2695
+CHLRE_07g330850v5	Nucleotide/sgar transporter family protein	15280
+CHLRE_07g330950v5	SNARE-like superfamily protein	12403
+CHLRE_07g331550v5	phosphoserine aminotransferase	831
+CHLRE_07g331900v5	ribosomal protein S13A	2953
+CHLRE_07g332150v5	complex 1 family protein / LVR family protein	18170
+CHLRE_07g332550v5	sgnal peptide peptidase	9595
+CHLRE_07g332786v5	SIGNAL PEPTIDE PEPTIDASE-LIE 2	9597
+CHLRE_07g332800v5	(1 of 1) PTHR17972 - NUCLEOLAR RNA-ASSOCIATED PROTEIN	14544
+CHLRE_07g333900v5	Cox19-like CHCH family protein	3952
+CHLRE_07g333950v5	vacuolar protein sortig 45	12479
+CHLRE_07g334100v5	GNOM-like 1	18443
+CHLRE_07g334200v5	DEAD-box protein abstrakt, putative	13116
+CHLRE_07g334550v5	photosystem I subunit O	14332
+CHLRE_07g334650v5	breast cancer associated RING 1	10695
+CHLRE_07g334800v5	2Fe-2S ferredoxin-like superfamily protein	2639
+CHLRE_07g334800v5	2Fe-2S ferredoxin-like superfamily protein	2639
+CHLRE_07g335200v5	elogation factor family protein	6207
+CHLRE_07g335300v5	fatty acid biosynthesis 1	9458
+CHLRE_07g336200v5	ubiquitin-specific protease 12	11838
+CHLRE_07g336250v5	(1 of 1) PTHR11567 - ACID PHOSPHATASE-RELATED	13121
+CHLRE_07g336600v5	alpha-mannosidase 1	1230
+CHLRE_07g336600v5	alpha-mannosidase 1	1230
+CHLRE_07g337050v5	peroxin 10	13346
+CHLRE_07g337150v5	replication factor C 2	10755
+CHLRE_07g337516v5	RNA methyltransferase family protein	2493
+CHLRE_07g337650v5	Thiamin diphosphate-bindig fold (THDP-bindig) superfamily protein	161
+CHLRE_07g338000v5	minichromosome maintenance (MCM2/3/5) family protein	2540
+CHLRE_07g338150v5	MEI2-like protein 5	17579
+CHLRE_07g338602v5	Y-family DNA polymerase H	3509
+CHLRE_07g339150v5	TCP-1/cpn60 chaperonin family protein	4077
+CHLRE_07g339250v5	decappig 1	12611
+CHLRE_07g339700v5	non-intrinsic ABC protein 7	9013
+CHLRE_07g339750v5	ferrochelatase 2	1772
+CHLRE_07g340050v5	GTP-bindig family protein	14537
+CHLRE_07g340700v5	senescence-associatedgene 29	15382
+CHLRE_07g340700v5	senescence-associatedgene 29	15382
+CHLRE_07g340850v5	cytochrome P450, family 711, subfamily A, polypeptide 1	1832
+CHLRE_07g341300v5	XAP5 family protein	13119
+CHLRE_07g341600v5	Co-chaperone GrpE family protein	3687
+CHLRE_07g341600v5	Co-chaperone GrpE family protein	3687
+CHLRE_07g341650v5	C2H2 and C2HC zinc figers superfamily protein	12848
+CHLRE_07g341800v5	nuclear factor Y, subunit B11	2326
+CHLRE_07g341850v5	Translation initiation factor 2, small GTP-bindig protein	2519
+CHLRE_07g342050v5	novel plant snare 11	8494
+CHLRE_07g342150v5	Glutamyl-tRNA reductase family protein	2492
+CHLRE_07g342250v5	prefoldin 2	9549
+CHLRE_07g342352v5	DNA directed RNA polymerase, 7 kDa subunit	3009
+CHLRE_07g342920v5	Metallopeptidase M24 family protein	14213
+CHLRE_07g343700v5	Dihydrolipoamide succinyltransferase	658
+CHLRE_07g344050v5	Transducin family protein / WD-40 repeat family protein	14555
+CHLRE_07g344350v5	plastidic type i sgnal peptidase 1	3100
+CHLRE_07g344600v5	D-3-phosphglycerate dehydrgenase	58
+CHLRE_07g344850v5	decappig 2	12613
+CHLRE_07g345300v5	N-acetyglucosamine-1-phosphate uridylyltransferase 2	972
+CHLRE_07g345700v5	Polyketide cyclase / dehydrase and lipid transport protein	18588
+CHLRE_07g346050v5	dicarboxylate diiron protein, putative (Crd1)	4035
+CHLRE_07g346050v5	dicarboxylate diiron protein, putative (Crd1)	4035
+CHLRE_07g347100v5	Galactose mutarotase-like superfamily protein	1792
+CHLRE_07g347300v5	D111/G-patch domain-containig protein	11135
+CHLRE_07g347400v5	D111/G-patch domain-containig protein	11135
+CHLRE_07g348900v5	DNAJ heat shock N-terminal domain-containig protein	9537
+CHLRE_07g349100v5	RNA helicase family protein	12813
+CHLRE_07g349950v5	TATA BOX ASSOCIATED FACTOR II 59	3131
+CHLRE_07g350500v5	ATP bindig;valine-tRNA lgases;aminoacyl-tRNA lgases;nucleotide bindig;ATP bindig;aminoacyl-tRNA lgases	1873
+CHLRE_07g350750v5	Alternative oxidase family protein	17893
+CHLRE_07g351000v5	pre-mRNA-processig protein 40A	12821
+CHLRE_07g351050v5	Ubiquitin-conjgatig enzyme/RWD-like protein	12183
+CHLRE_07g351150v5	NIMA-related kinase 5	8857
+CHLRE_07g351750v5	rRNA processig protein-related	14823
+CHLRE_07g352251v5	RNA helicase family protein	14780
+CHLRE_07g352400v5	myo-inositol polyphosphate 5-phosphatase 2	1099
+CHLRE_07g352550v5	Rhodanese/Cell cycle control phosphatase superfamily protein	18065
+CHLRE_07g352750v5	mgnesium transporter 9	16075
+CHLRE_07g353300v5	Mitochondrial substrate carrier family protein	13354
+CHLRE_07g353350v5	TATA bindig protein associated factor 21kDa subunit	3133
+CHLRE_07g353850v5	EamA-like transporter family	15289
+CHLRE_07g354100v5	radical SAM domain-containig protein / GCN5-related N-acetyltransferase (GNAT) family protein	7739
+CHLRE_07g354301v5	Rhodanese/Cell cycle control phosphatase superfamily protein	18065
+CHLRE_07g354350v5	cytochrome P450, family 711, subfamily A, polypeptide 1	7424
+CHLRE_07g354500v5	heat shock transcription factor A1E	9419
+CHLRE_07g355100v5	zinc transporter 3 precursor	14709
+CHLRE_07g355250v5	WEE1 kinase homolg	6632
+CHLRE_07g355400v5	Protein kinase superfamily protein	8818
+CHLRE_07g355600v5	NADPH-dependent thioredoxin reductase B	384
+CHLRE_07g355650v5	ammonium transporter 1;1	3320
+CHLRE_07g356150v5	Peptidase family M48 family protein	6013
+CHLRE_07g356350v5	Deoxyxylulose-5-phosphate synthase	1662
+CHLRE_07g357200v5	UDPglucose dehydrgenase 1	12
+CHLRE_07g357800v5	cytochrome c bigenesis protein family	6196
+CHLRE_07g357850v5	Ribosomal L22e protein family	2891
+CHLRE_07g357900v5	Calreticulin family protein	8054
+CHLRE_08g358526v5	nucleotide transporter 1	3301
+CHLRE_08g358538v5	lycopene cyclase	6443
+CHLRE_08g358556v5	Ribosomal protein S14p/S29e family protein	2980
+CHLRE_08g358556v5	Ribosomal protein S14p/S29e family protein	2980
+CHLRE_08g358562v5	chaperonin 20	4078
+CHLRE_08g358580v5	carbamoyl phosphate synthetase B	1955
+CHLRE_08g359100v5	methyltransferases;nucleic acid bindig	15430
+CHLRE_08g359350v5	acetyl Co-enzyme a carboxylase biotin carboxylase subunit	1961
+CHLRE_08g359700v5	lipoic acid synthase 1	3644
+CHLRE_08g359750v5	Ribosomal protein S4	2997
+CHLRE_08g359750v5	Ribosomal protein S4	2997
+CHLRE_08g360850v5	AFG1-like ATPase family protein	18798
+CHLRE_08g360900v5	Ribosomal protein S19 family protein	2958
+CHLRE_08g361050v5	cofactor of nitrate reductase and xanthine dehydrgenase 3	3639
+CHLRE_08g362450v5	alpha-amylase-like 2	1176
+CHLRE_08g363500v5	Protein-tyrosine phosphatase-like, PTPLA	10703
+CHLRE_08g363700v5	Leucine-rich repeat (LRR) family protein	18647
+CHLRE_08g363750v5	calcineurin B-like protein 8	6268
+CHLRE_08g364450v5	Acyl-CoA N-acyltransferases (NAT) superfamily protein	670
+CHLRE_08g364800v5	purine biosynthesis 4	1952
+CHLRE_08g365400v5	Ribosomal protein L31	2909
+CHLRE_08g365851v5	carotenoid cleavge dioxgenase 8	17913
+CHLRE_08g366400v5	Rad23 UV excision repair protein family	10839
+CHLRE_08g366400v5	Rad23 UV excision repair protein family	10839
+CHLRE_08g367650v5	Transducin/WD40 repeat-like superfamily protein	14963
+CHLRE_08g368500v5	RNA-bindig (RRM/RBD/RNP motifs) family protein	14838
+CHLRE_08g368900v5	Alanyl-tRNA synthetase, class IIc	1872
+CHLRE_08g368900v5	Alanyl-tRNA synthetase, class IIc	1872
+CHLRE_08g368950v5	3-dehydroquinate synthase, putative	1735
+CHLRE_08g369800v5	deoxyhypusine synthase	809
+CHLRE_08g370450v5	Co-chaperone GrpE family protein	3687
+CHLRE_08g370550v5	FAD-linked oxidases family protein	18204
+CHLRE_08g370601v5	(1 of 1) PTHR17039 - U3 SMALL NUCLEOLAR RIBONUCLEOPROTEIN PROTEIN MPP10	14559
+CHLRE_08g370850v5	RUB1 conjgatig enzyme 1	10579
+CHLRE_08g371957v5	HEAT repeat ;WD domain, G-beta repeat protein protein	7204
+CHLRE_08g372100v5	heat shock cgnate protein 70-1	3283
+CHLRE_08g372400v5	ubiquitin-conjgatig enzyme 33	4554
+CHLRE_08g372450v5	photosystem II subunit Q-2	8901
+CHLRE_08g372500v5	II3 family protein	11373
+CHLRE_08g372550v5	cyclin-dependent kinase B1;1	7760
+CHLRE_08g372800v5	Cleavge and polyadenylation specificity factor (CPSF) A subunit protein	12830
+CHLRE_08g372950v5	4-hydroxy-3-methylbut-2-enyl diphosphate reductase	3527
+CHLRE_08g373050v5	acetyl-CoA carboxylase 1	11262
+CHLRE_08g373100v5	Cytochrome P450 superfamily protein	9837
+CHLRE_08g373250v5	proteasome subunit PAB1	2726
+CHLRE_08g373300v5	CRINLY4 related 3	4417
+CHLRE_08g374050v5	DNA polymerase delta small subunit	2328
+CHLRE_08g375084v5	splicig factor PWI domain-containig protein / RNA recgnition motif (RRM)-containig protein	12822
+CHLRE_08g375084v5	splicig factor PWI domain-containig protein / RNA recgnition motif (RRM)-containig protein	12822
+CHLRE_08g375200v5	MIRO-related GTP-ase 1	7870
+CHLRE_08g375200v5	MIRO-related GTP-ase 1	7870
+CHLRE_08g375500v5	LOC_Os1g03720glucosamine--fructose-6-phosphate aminotransferase 1, putative, expressed	820
+CHLRE_08g375600v5	proline iminopeptidase	1259
+CHLRE_08g375900v5	Eukaryotic translation initiation factor eIF2A family protein	15026
+CHLRE_08g376150v5	diphthamide synthesis DPH2 family protein	17866
+CHLRE_08g376150v5	diphthamide synthesis DPH2 family protein	17866
+CHLRE_08g376350v5	ASF1 like histone chaperone	10753
+CHLRE_08g376350v5	ASF1 like histone chaperone	10753
+CHLRE_08g376700v5	mRNA cappig enzyme family protein	13917
+CHLRE_08g377100v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	939
+CHLRE_08g377200v5	chromatin remodelig factor CHD3 (PICLE)	11643
+CHLRE_08g378000v5	decappig 5	18749
+CHLRE_08g378100v5	(1 of 1) PTHR21726:SF42 - RIBONUCLEASE H2 SUBUNIT C	10745
+CHLRE_08g378150v5	LOC_Os0g22350glucose-6-phosphate 1-dehydrgenase, chloroplast precursor, putative, expressed	36
+CHLRE_08g378200v5	17759 pyridoxin (pyrodoxamine) 5'-phosphate oxidase	275
+CHLRE_08g378850v5	Phosphoribosyltransferase family protein	948
+CHLRE_08g379350v5	Glucose-6-phosphate/phosphate translocator-related	15283
+CHLRE_08g379550v5	phosphate transporter 4;1	8193
+CHLRE_08g379550v5	phosphate transporter 4;1	8193
+CHLRE_08g379700v5	phosphglucosamine mutase-related	1836
+CHLRE_08g380201v5	dehydroquinate dehydratase, putative / shikimate dehydrgenase, putative	13832
+CHLRE_08g380400v5	DNA-bindig HORMA family protein	2537
+CHLRE_08g380600v5	FUS3-complementiggene 2	8287
+CHLRE_08g381516v5	NAD(P)-bindig Rossmann-fold superfamily protein	11168
+CHLRE_08g382500v5	Ribosomal protein S25 family protein	2975
+CHLRE_08g382545v5	co-factor for nitrate, reductase and xanthine dehydrgenase 7	3635
+CHLRE_08g382590v5	actin-related protein 6	11662
+CHLRE_08g382590v5	actin-related protein 6	11662
+CHLRE_08g382650v5	CCAAT-displacement protein alternatively spliced product	9313
+CHLRE_08g383150v5	Acyl-CoA N-acyltransferases (NAT) superfamily protein	17972
+CHLRE_08g383650v5	(1 of 1) PTHR13373:SF21 - NUCLEAR PORE COMPLEX PROTEIN NUP85	14304
+CHLRE_08g385050v5	MAP kinase 9	4371
+CHLRE_08g385200v5	Small nuclear ribonucleoprotein family protein	11097
+CHLRE_08g385850v5	cyclin dependent kinasegroup C2	8819
+CHLRE_09g386113v5	Insulinase (Peptidase family M16) family protein	1408
+CHLRE_09g386350v5	transcript elogation factor IIS	3145
+CHLRE_09g386400v5	ubiquitin activatig enzyme 2	3178
+CHLRE_09g386550v5	ARF-GAP domain 6	12492
+CHLRE_09g386650v5	ADP/ATP carrier 3	5863
+CHLRE_09g386650v5	ADP/ATP carrier 3	5863
+CHLRE_09g386700v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	10393
+CHLRE_09g386731v5	splicig factor-related	13095
+CHLRE_09g386735v5	Dihydrolipoamide acetyltransferase, log form protein	627
+CHLRE_09g386750v5	heat shock protein 81-3	4079
+CHLRE_09g386758v5	chlorsulfuron/imidazolinone resistant 1	1652
+CHLRE_09g387060v5	oganic cation/carnitine transporter4	8202
+CHLRE_09g387171v5	nucleotide-rhamnose synthase/epimerase-reductase	12451
+CHLRE_09g387171v5	nucleotide-rhamnose synthase/epimerase-reductase	12451
+CHLRE_09g387245v5	staurosporin and temperature sensitive 3-like A	7151
+CHLRE_09g387393v5	histone deacetylase 1	6067
+CHLRE_09g387726v5	aspartate aminotransferase 3	14454
+CHLRE_09g387800v5	ferritin 3	522
+CHLRE_09g387875v5	pyrophosphorylase 4	1507
+CHLRE_09g388000v5	cyclin-dependent kinase D1;1	2202
+CHLRE_09g388097v5	outer envelope protein of 80 kDa	7277
+CHLRE_09g388200v5	senescence associatedgene 24	2866
+CHLRE_09g388467v5	GDP dissociation inhibitor family protein / Rab GTPase activator family protein	17255
+CHLRE_09g388615v5	Eukaryotic release factor 1 (eRF1) family protein	6965
+CHLRE_09g388850v5	autoinhibited Ca(2+)-ATPase 9	1537
+CHLRE_09g389208v5	Peroxisomal membrane 22 kDa (Mpv17/PMP22) family protein	13348
+CHLRE_09g389319v5	Peroxisomal membrane 22 kDa (Mpv17/PMP22) family protein	13348
+CHLRE_09g389356v5	permease, cytosine/purines, uracil, thiamine, allantoin family protein	3457
+CHLRE_09g389400v5	FAD/NAD(P)-bindig oxidoreductase family protein	7007
+CHLRE_09g389430v5	phenylalanyl-tRNA synthetase, putative / phenylalanine--tRNA lgase, putative	1889
+CHLRE_09g389550v5	J-domain protein 6	9529
+CHLRE_09g389689v5	semialdehyde dehydrgenase family protein	133
+CHLRE_09g389912v5	transducin family protein / WD-40 repeat family protein	14018
+CHLRE_09g390319v5	SEC7-likeguanine nucleotide exchage family protein	18442
+CHLRE_09g390430v5	SMAD/FHA domain-containig protein	13108
+CHLRE_09g390600v5	Protein phosphatase 2C family protein	17500
+CHLRE_09g390763v5	RAB GTPase homolg B1C	7877
+CHLRE_09g390986v5	tRNA synthetase class II (D,  and N) family protein	1876
+CHLRE_09g391097v5	Ribosomal protein L24e family protein	2896
+CHLRE_09g391097v5	Ribosomal protein L24e family protein	2896
+CHLRE_09g391652v5	Noc2p family	14833
+CHLRE_09g391900v5	Thioredoxin superfamily protein	3671
+CHLRE_09g391949v5	U2 snRNP auxilliary factor, lage subunit, splicig factor	12837
+CHLRE_09g392467v5	copper chaperone	7213
+CHLRE_09g392692v5	mgo nashi family protein	12877
+CHLRE_09g393200v5	mitochondrial HSO70 2	4043
+CHLRE_09g393358v5	Hyaluronan / mRNA bindig family	13199
+CHLRE_09g393600v5	DNA replication protein-related	10735
+CHLRE_09g393691v5	Diacyglycerol kinase family protein	4715
+CHLRE_09g393950v5	cell division protein ftsH, putative	3798
+CHLRE_09g394050v5	DHHC-type zinc figer family protein	18932
+CHLRE_09g394100v5	associated protein 19	12394
+CHLRE_09g394350v5	nucleoporin 155	14312
+CHLRE_09g394436v5	Inoganic H pyrophosphatase family protein	1507
+CHLRE_09g394450v5	RAN bindig protein 1	15306
+CHLRE_09g394584v5	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	3501
+CHLRE_09g394880v5	Tubulin bindig cofactor C domain-containig protein	16810
+CHLRE_09g396000v5	nitrate transporter2.5	2575
+CHLRE_09g396102v5	serine/threonine protein kinase 3	8856
+CHLRE_09g396213v5	PS II oxgen-evolvig complex 1	2716
+CHLRE_09g396250v5	vitamin E pathwaygene 5	18678
+CHLRE_09g396252v5	LOC_Os0g06740glutathione reductase, putative, expressed	383
+CHLRE_09g396300v5	Flavin containig amine oxidoreductase family	231
+CHLRE_09g396363v5	Chaperone DnaJ-domain superfamily protein	9539
+CHLRE_09g396400v5	related to ubiquitin 1	12158
+CHLRE_09g396900v5	nudix hydrolase homolg 19	3426
+CHLRE_09g396950v5	phosphate transporter 4;5	8193
+CHLRE_09g397200v5	TCP-1/cpn60 chaperonin family protein	9498
+CHLRE_09g397216v5	cytochrome P450, family 711, subfamily A, polypeptide 1	1832
+CHLRE_09g397250v5	fatty acid desaturase 5	507
+CHLRE_09g397350v5	RAD3-like DNA-bindig helicase protein	15362
+CHLRE_09g397697v5	Ribosomal protein L4/L1 family	2930
+CHLRE_09g397734v5	cytochrome P450, family 711, subfamily A, polypeptide 1	7424
+CHLRE_09g397845v5	homolg of DNA mismatch repair protein MSH3	8736
+CHLRE_09g397950v5	actin-related protein C3	5756
+CHLRE_09g398067v5	rotamase FBP 1	9571
+CHLRE_09g398104v5	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	19306
+CHLRE_09g398289v5	Phospholipidglycerol acyltransferase family protein	655
+CHLRE_09g398350v5	U-box domain-containig protein	10597
+CHLRE_09g398550v5	cell division cycle 48C	14571
+CHLRE_09g399030v5	phytoene desaturation 1	457
+CHLRE_09g399141v5	phosphate transporter 4;6	8193
+CHLRE_09g399178v5	COP9 sgnalosome 5A	9613
+CHLRE_09g399626v5	(1 of 1) PF04339 - Peptidgalycan biosysnthesis/recgnition (FemAB_like)	9919
+CHLRE_09g399907v5	sterile alpha motif (SAM) domain-containig protein	15340
+CHLRE_09g399911v5	Transducin family protein / WD-40 repeat family protein	3363
+CHLRE_09g400367v5	RNA cyclase family protein	11108
+CHLRE_09g400516v5	LAG1 logevity assurance homolg 3	4710
+CHLRE_09g400553v5	taget of rapamycin	7203
+CHLRE_09g400553v5	taget of rapamycin	7203
+CHLRE_09g400650v5	ribosomal protein S6	2991
+CHLRE_09g400775v5	Iron-sulphur cluster biosynthesis family protein	13628
+CHLRE_09g401022v5	NAD(P)-bindig Rossmann-fold superfamily protein	12448
+CHLRE_09g401150v5	NADH:ubiquinone oxidoreductase, 17.2kDa subunit	18160
+CHLRE_09g401150v5	NADH:ubiquinone oxidoreductase, 17.2kDa subunit	18160
+CHLRE_09g401182v5	Cam interactig protein 111	14575
+CHLRE_09g401300v5	C2H2 and C2HC zinc figers superfamily protein	11095
+CHLRE_09g401330v5	Haloacid dehalgenase-like hydrolase (HAD) superfamily protein	17623
+CHLRE_09g401663v5	(1 of 1) PTHR21738:SF0 - RIBOSOMAL RNA PROCESSING PROTEIN 36 HOMOLOG	14795
+CHLRE_09g401738v5	Haloacid dehalgenase-like hydrolase (HAD) superfamily protein	17619
+CHLRE_09g401886v5	ascorbate peroxidase 3	428
+CHLRE_09g402034v5	co-factor for nitrate, reductase and xanthine dehydrgenase 5	11996
+CHLRE_09g402450v5	rgulatory particle triple-A ATPase 3	3063
+CHLRE_09g402500v5	vacuolar proton ATPase A2	2154
+CHLRE_09g402515v5	Copper amine oxidase family protein	276
+CHLRE_09g403000v5	Nucleotidyltransferase family protein	3514
+CHLRE_09g403219v5	Eukaryotic rpb5 RNA polymerase subunit family protein	3013
+CHLRE_09g403293v5	5-formyltetrahydrofolate cyclolgase	1934
+CHLRE_09g403300v5	transcription factor-related	3144
+CHLRE_09g404400v5	SIN3 associated polypeptide P18	14324
+CHLRE_09g405050v5	vacuolar ATP synthase subunit D (VATD) / V-ATPase D subunit / vacuolar proton pump D subunit (VATPD)	2149
+CHLRE_09g405150v5	Pseudouridine synthase family protein	6173
+CHLRE_09g405200v5	Ribosomal protein L13 family protein	2871
+CHLRE_09g405400v5	PREFOLDIN 1	9548
+CHLRE_09g405550v5	(1 of 1) OG4836 - Uncharacterized conserved protein	17796
+CHLRE_09g405600v5	Taget SNARE coiled-coil domain protein	8505
+CHLRE_09g405850v5	NADH dehydrgenase subunit 7	3935
+CHLRE_09g406000v5	holocarboxylase synthase 1	1942
+CHLRE_09g406050v5	CTP synthase family protein	1937
+CHLRE_09g406200v5	Class II aaRS and biotin synthetases superfamily protein	1881
+CHLRE_09g406350v5	Eukaryotic protein of unknown function (DUF914)	15287
+CHLRE_09g406800v5	Peptidase S24/S26A/S26B/S26C family protein	13280
+CHLRE_09g406851v5	FIZZY-related 3	3364
+CHLRE_09g407700v5	Granulin repeat cysteine protease family protein	16292
+CHLRE_09g408051v5	Mitochondrial transcription termination factor family protein	15032
+CHLRE_09g408200v5	serine/aginine-rich 22	12896
+CHLRE_09g408500v5	diphthamide synthesis DPH2 family protein	7561
+CHLRE_09g408550v5	SUMO-activatig enzyme 1A	10684
+CHLRE_09g408851v5	Metallopeptidase M24 family protein	1262
+CHLRE_09g408851v5	Metallopeptidase M24 family protein	1262
+CHLRE_09g408900v5	(1 of 1) PTHR14324:SF3 - CONDENSIN-2 COMPLEX SUBUNIT H2	11490
+CHLRE_09g409100v5	uroporphyringen-III synthase family protein	1719
+CHLRE_09g409200v5	(1 of 1) PTHR32093:SF13 - SERINE/ARGININE REPETITIVE MATRIX PROTEIN 2	13172
+CHLRE_09g409350v5	RNAse l inhibitor protein 2	6174
+CHLRE_09g410600v5	Protein phosphatase 2C family protein	17499
+CHLRE_09g410650v5	ATP phosphoribosyl transferase 1	765
+CHLRE_09g410650v5	ATP phosphoribosyl transferase 1	765
+CHLRE_09g410700v5	lactate/malate dehydrgenase family protein	51
+CHLRE_09g410750v5	nitrite reductase 1	366
+CHLRE_09g410800v5	nitrate transporter2.5	2575
+CHLRE_09g410850v5	nitrate transporter2.5	2575
+CHLRE_09g410950v5	nitrate reductase 2	10534
+CHLRE_09g411100v5	RNA bindig Plectin/S10 domain-containig protein	2947
+CHLRE_09g411100v5	RNA bindig Plectin/S10 domain-containig protein	2947
+CHLRE_09g411900v5	serine hydroxymethyltransferase 3	600
+CHLRE_09g412100v5	photosystem I subunit F	2694
+CHLRE_09g412300v5	Protein Transporter, Pam16	17805
+CHLRE_09g412750v5	Protein kinase family protein with ARM repeat domain	6228
+CHLRE_09g414000v5	homgentisate phytyltransferase 1	9833
+CHLRE_09g414050v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	4499
+CHLRE_09g414200v5	vacuolar protein sortig 26B	18466
+CHLRE_09g414250v5	ALG6, ALG8glycosyltransferase family	3849
+CHLRE_09g414800v5	serine carboxypeptidase-like 25	16297
+CHLRE_09g414800v5	serine carboxypeptidase-like 25	16297
+CHLRE_09g415200v5	MIF4G domain-containig protein / MA3 domain-containig protein	17583
+CHLRE_09g415800v5	MA3 domain-containig protein	16865
+CHLRE_09g415950v5	Ribosomal protein L6 family	2933
+CHLRE_09g416000v5	Pre-mRNA-splicig factor 3	12843
+CHLRE_09g416050v5	aginosuccinate synthase family	1940
+CHLRE_09g416100v5	Heat shock protein DnaJ, N-terminal with domain of unknown function (DUF1977)	9518
+CHLRE_09g416250v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	10357
+CHLRE_09g416350v5	nucleosome assembly protein 1;2	11279
+CHLRE_09g416750v5	TCP-1/cpn60 chaperonin family protein	9494
+CHLRE_09g417150v5	catalase 2	3781
+CHLRE_09g417200v5	Proteasome component (PCI) domain protein	15030
+CHLRE_10g417650v5	AGAMOUS-like 26	3216
+CHLRE_10g417700v5	ribosomal protein 1	2925
+CHLRE_10g417950v5	Transducin/WD40 repeat-like superfamily protein	14824
+CHLRE_10g418100v5	20S proteasome alpha subunit C1	2728
+CHLRE_10g419750v5	DNA-directed RNA polymerase family protein	3011
+CHLRE_10g419800v5	probable CDP-diacyglycerol--inositol 3-phosphatidyltransferase 2	999
+CHLRE_10g420100v5	DNAJ heat shock family protein	9510
+CHLRE_10g420350v5	Photosystem I reaction centre subunit IV / PsaE protein	2693
+CHLRE_10g420400v5	ARM repeat superfamily protein	14289
+CHLRE_10g420700v5	ATP synthase epsilon chain, mitochondrial	2135
+CHLRE_10g420750v5	Ribosomal protein L7Ae/L30e/S12e/Gadd45 family protein	2908
+CHLRE_10g420900v5	DEA(D/H)-box RNA helicase family protein	13181
+CHLRE_10g421250v5	exocyst subunit exo70 family protein A2	7195
+CHLRE_10g421600v5	threonyl-tRNA synthetase, putative / threonine--tRNA lgase, putative	1868
+CHLRE_10g421650v5	senescence-associatedgene 29	15382
+CHLRE_10g422000v5	N2,N2-dimethyguanosine tRNA methyltransferase	555
+CHLRE_10g422150v5	Serine carboxypeptidase S28 family protein	1285
+CHLRE_10g422201v5	P-type ATPase of Arabidopsis 2	1533
+CHLRE_10g422300v5	Thioredoxin superfamily protein	3564
+CHLRE_10g422600v5	51 kDa subunit of complex I	3942
+CHLRE_10g423450v5	HAL3-like protein A	1598
+CHLRE_10g423500v5	heme oxgenase 3	510
+CHLRE_10g423800v5	u80 family protein	10885
+CHLRE_10g424100v5	pyrophosphorylase 6	1507
+CHLRE_10g424150v5	transcription initiation factor IIAgamma chain / TFIIAgamma (TFIIA-S)	3123
+CHLRE_10g424200v5	DNA polymerase epsilon subunit B2	2325
+CHLRE_10g424400v5	N-terminal nucleophile aminohydrolases (Ntn hydrolases) superfamily protein	2739
+CHLRE_10g424450v5	translocase of the outer mitochondrial membrane 40	11518
+CHLRE_10g424500v5	pfkB-like carbohydrate kinase family protein	852
+CHLRE_10g424775v5	P-type ATP-ase 1	1533
+CHLRE_10g424850v5	pre-mRNA processig ribonucleoprotein bindig rgion-containig protein	12844
+CHLRE_10g424900v5	2-oxglutarate (2OG) and Fe(II)-dependent oxgenase superfamily protein	472
+CHLRE_10g425050v5	transducin family protein / WD-40 repeat family protein	11807
+CHLRE_10g425501v5	HAC13 protein (HAC13)	3125
+CHLRE_10g425800v5	Polynucleotidyl transferase, ribonuclease H-like superfamily protein	13288
+CHLRE_10g426000v5	Ubiquitin related modifier 1	12161
+CHLRE_10g426250v5	Pre-rRNA-processig protein TSR2, conserved rgion	14800
+CHLRE_10g427000v5	Mitochondrial transcription termination factor family protein	15032
+CHLRE_10g427150v5	(1 of 1) OG3068 - mRNA splicig factor	12870
+CHLRE_10g427250v5	profilin 4	5759
+CHLRE_10g427600v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	7767
+CHLRE_10g427700v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	11594
+CHLRE_10g428100v5	N2,N2-dimethyguanosine tRNA methyltransferase	555
+CHLRE_10g428150v5	ABC2 homolg 9	8869
+CHLRE_10g428433v5	MUTM homolg-1	10563
+CHLRE_10g428433v5	MUTM homolg-1	10563
+CHLRE_10g428550v5	Dihydropterin pyrophosphokinase / Dihydropteroate synthase	13941
+CHLRE_10g428750v5	RNA bindig;RNA bindig	14792
+CHLRE_10g428900v5	bacterial hemolysin-related	6442
+CHLRE_10g429050v5	5'-3' exonuclease family protein	10846
+CHLRE_10g429100v5	Class II aaRS and biotin synthetases superfamily protein	1881
+CHLRE_10g429150v5	tryptophan biosynthesis 1	766
+CHLRE_10g429800v5	ABC transporter 1	8869
+CHLRE_10g430050v5	ubiquitin-conjgatig enzyme 22	10583
+CHLRE_10g430400v5	Zinc-bindig ribosomal protein family protein	2922
+CHLRE_10g430950v5	homolg of RAD54	10875
+CHLRE_10g431400v5	tRNAse Z1	784
+CHLRE_10g432000v5	damged DNA bindig protein 1A	10610
+CHLRE_10g432800v5	40s ribosomal protein SA	2998
+CHLRE_10g433000v5	LOC_Os0g01400glycyl-tRNA synthetase 2, chloroplast/mitochondrial precursor, putative, expressed	14164
+CHLRE_10g433100v5	GTP1/OBG family protein	3979
+CHLRE_10g433600v5	methylenetetrahydrofolate reductase 2	297
+CHLRE_10g434300v5	Transducin/WD40 repeat-like superfamily protein	17868
+CHLRE_10g434450v5	NAD(P)-bindig Rossmann-fold superfamily protein	3953
+CHLRE_10g434750v5	ketol-acid reductoisomerase	53
+CHLRE_10g435250v5	carbon-nitrgen hydrolase family protein	1950
+CHLRE_10g435300v5	Zn-dependent exopeptidases superfamily protein	1267
+CHLRE_10g435300v5	Zn-dependent exopeptidases superfamily protein	1267
+CHLRE_10g435550v5	ARM repeat superfamily protein	6072
+CHLRE_10g436050v5	Fe superoxide dismutase 1	4564
+CHLRE_10g436150v5	dephospho-CoA kinase family	859
+CHLRE_10g436350v5	shikimate kinase 1	891
+CHLRE_10g436500v5	Survival protein SurE-like phosphatase/nucleotidase	3787
+CHLRE_10g436600v5	Minichromosome maintenance (MCM2/3/5) family protein	6949
+CHLRE_10g436650v5	DEA(D/H)-box RNA helicase family protein	13179
+CHLRE_10g436900v5	(1 of 1) PTHR13619:SF0 - MITOCHONDRIAL TRANSLOCATOR ASSEMBLY AND MAINTENANCE PROTEIN 41 HOMOLOG	17807
+CHLRE_10g437050v5	(1 of 1) OG3281 - Mitochondrial F1-ATPase assembly protein	7555
+CHLRE_10g437150v5	PENTATRICOPEPTIDE REPEAT 596	17710
+CHLRE_10g437850v5	CAP-bindig protein 20	12883
+CHLRE_10g438050v5	Beta-ketoacyl synthase	9458
+CHLRE_10g438550v5	Bacterial sec-independent translocation protein mttA/Hcf106	3116
+CHLRE_10g438650v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	13800
+CHLRE_10g438700v5	transducin family protein / WD-40 repeat family protein	14556
+CHLRE_10g439050v5	Mitochondrial substrate carrier family protein	14684
+CHLRE_10g439100v5	T-complex protein 1 alpha subunit	9493
+CHLRE_10g439150v5	rgulatory particle triple-A ATPase 5A	3065
+CHLRE_10g439200v5	Cytidine/deoxycytidylate deaminase family protein	15442
+CHLRE_10g439400v5	Amidase family protein	2433
+CHLRE_10g439850v5	transmembrane nine 7	17086
+CHLRE_10g439900v5	heat shock protein 70 (Hsp 70) family protein	9486
+CHLRE_10g440450v5	photosystem II reaction center PSB28 protein	8903
+CHLRE_10g440750v5	DNA GYRASE B2	2470
+CHLRE_10g440900v5	3'-5'-exoribonuclease family protein	12586
+CHLRE_10g441000v5	Transcription elogation factor (TFIIS) family protein	17498
+CHLRE_10g441100v5	GPI transamidase component Gpi16 subunit family protein	5292
+CHLRE_10g441200v5	LA RNA-bindig protein	18757
+CHLRE_10g441400v5	NOP56-like pre RNA processig ribonucleoprotein	14565
+CHLRE_10g441450v5	RR1 family protein	14786
+CHLRE_10g441500v5	(1 of 1) PTHR12931 - UBIQUITIN THIOLESTERASE PROTEIN OTUB	9602
+CHLRE_10g441950v5	Small nuclear ribonucleoprotein family protein	12621
+CHLRE_10g442000v5	(1 of 1) PTHR23271 - HEPATOCELLULAR CARCINOMA-ASSOCIATED ANTIGEN 66	14557
+CHLRE_10g442400v5	G10 family protein	12873
+CHLRE_10g442700v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	11338
+CHLRE_10g442750v5	RING/U-box superfamily protein	19045
+CHLRE_10g442850v5	DNA topoisomerase, type IA, core	3168
+CHLRE_10g443250v5	TCP-1/cpn60 chaperonin family protein	9495
+CHLRE_10g443300v5	Protein kinase superfamily protein	8857
+CHLRE_10g444550v5	sgnal peptide peptidase	4773
+CHLRE_10g444700v5	starch branchig enzyme 2.2	700
+CHLRE_10g444900v5	MATE efflux family protein	3327
+CHLRE_10g445600v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	14569
+CHLRE_10g445650v5	Structural maintenance of chromosomes (SMC) family protein	6669
+CHLRE_10g446400v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	7767
+CHLRE_10g446550v5	vacuolar ATPase subunit F family protein	2151
+CHLRE_10g446700v5	Ankyrin repeat family protein with DHHC zinc figer domain	18932
+CHLRE_10g446900v5	pleiotropic rgulatory locus 1	12862
+CHLRE_10g447100v5	Mitochondrialglycoprotein family protein	15414
+CHLRE_10g447300v5	ubiquitin family protein	11885
+CHLRE_10g448700v5	SWIB/MDM2 domain superfamily protein	11650
+CHLRE_10g450400v5	NADH-ubiquinone oxidoreductase 24 kDa subunit, putative	3943
+CHLRE_10g450879v5	PETER PAN-like protein	14859
+CHLRE_10g451400v5	molybdopterin biosynthesis CNX1 protein / molybdenum cofactor biosynthesis enzyme CNX1 (CNX1)	15376
+CHLRE_10g451900v5	Pyridoxal-5'-phosphate-dependent enzyme family protein	1733
+CHLRE_10g452050v5	lght-harvestig chlorophyll-protein complex I subunit A4	8908
+CHLRE_10g452650v5	translocase inner membrane subunit 17-2	17795
+CHLRE_10g453450v5	Small nuclear ribonucleoprotein family protein	11096
+CHLRE_10g454100v5	Ribosomal RNA processig Brix domain protein	14561
+CHLRE_10g454400v5	zinc figer (C3HC4-type RING figer) family protein	10632
+CHLRE_10g454550v5	cytochrome c oxidase 19-1	18183
+CHLRE_10g454550v5	cytochrome c oxidase 19-1	18183
+CHLRE_10g454650v5	SIN-like family protein	14721
+CHLRE_10g455300v5	Small nuclear ribonucleoprotein family protein	11088
+CHLRE_10g455600v5	orgin of replication complex 1B	2603
+CHLRE_10g455650v5	homocysteine S-methyltransferase 3	547
+CHLRE_10g455850v5	Minichromosome maintenance (MCM2/3/5) family protein	2210
+CHLRE_10g456000v5	Quinone reductase family protein	3809
+CHLRE_10g456050v5	Quinone reductase family protein	3809
+CHLRE_10g456050v5	Quinone reductase family protein	3809
+CHLRE_10g456100v5	Quinone reductase family protein	3809
+CHLRE_10g456200v5	Ribosomal protein S24e family protein	2974
+CHLRE_10g456350v5	ATP bindig microtubule motor family protein	11498
+CHLRE_10g457000v5	plant U-box 49	10598
+CHLRE_10g457500v5	5'-AMP-activated protein kinase beta-2 subunit protein	7199
+CHLRE_10g457550v5	homolg of yeast autophgy 18 (ATG18) B	17908
+CHLRE_10g457750v5	sulfate transporter 4;2	18059
+CHLRE_10g458050v5	D-aminoacid aminotransferase-like PLP-dependent enzymes superfamily protein	826
+CHLRE_10g458500v5	aspartate kinase 1	928
+CHLRE_10g459000v5	Glycine cleavge T-protein family	6980
+CHLRE_10g459200v5	H(+)-ATPase 1	1535
+CHLRE_10g459250v5	Ribosomal protein L35Ae family protein	2917
+CHLRE_10g459500v5	Nucleolar GTP-bindig protein	6943
+CHLRE_10g459600v5	CCAAT-bindig factor	14832
+CHLRE_10g460300v5	Phosphglycerate mutase family protein	15634
+CHLRE_10g460350v5	calcineurin B subunit-related	13510
+CHLRE_10g460532v5	anaphase-promotig complex/cyclosome 2	3349
+CHLRE_10g461000v5	ARM repeat superfamily protein	14772
+CHLRE_10g461050v5	vacuolar ATP synthase subunit A	2145
+CHLRE_10g461250v5	AAA-type ATPase family protein	6027
+CHLRE_10g461750v5	methyltransferase 1	558
+CHLRE_10g461950v5	N-terminal nucleophile aminohydrolases (Ntn hydrolases) superfamily protein	2737
+CHLRE_10g462200v5	sirtuin 1	11416
+CHLRE_10g462250v5	RNA-bindig (RRM/RBD/RNP motifs) family protein	12881
+CHLRE_10g462700v5	Cleavge/polyadenylation specificity factor, 25kDa subunit	14397
+CHLRE_10g462750v5	elogator protein 2	11374
+CHLRE_10g464950v5	tetratricopeptide repeat (TPR)-containig protein	15201
+CHLRE_10g465550v5	Clp ATPase	3696
+CHLRE_10g465900v5	cell division control 2	2206
+CHLRE_10g465950v5	(1 of 1) OG3263 - Nucleic acid bindig protein	12846
+CHLRE_10g466000v5	Cytochrome c oxidase, subunit Vib family protein	18179
+CHLRE_10g466250v5	transducin family protein / WD-40 repeat family protein	14554
+CHLRE_10g466350v5	Protein kinase superfamily protein	14498
+CHLRE_10g466500v5	Lactoyglutathione lyase /glyoxalase I family protein	8234
+CHLRE_10g466750v5	serine acetyltransferase 1;1	640
+CHLRE_10g466750v5	serine acetyltransferase 1;1	640
+CHLRE_10g466850v5	FBP-like peptidyl-prolyl cis-trans isomerase family protein	1802
+CHLRE_10g467200v5	Ataxia telagiectasia-mutated and RAD3-related	6640
+CHLRE_11g467544v5	isopentenyl diphosphate isomerase 1	1823
+CHLRE_11g467547v5	Glutamylglutaminyl-tRNA synthetase, class Ic	1885
+CHLRE_11g467550v5	pyrimidin 4	1465
+CHLRE_11g467567v5	polyubiquitin 10	8770
+CHLRE_11g467568v5	3-phosphoinositide-dependent protein kinase	6276
+CHLRE_11g467569v5	ATP synthase delta-subunitgene	2113
+CHLRE_11g467573v5	photosystem I lght harvestig complexgene 3	8909
+CHLRE_11g467578v5	Ribosomal L28e protein family	2903
+CHLRE_11g467591v5	D111/G-patch domain-containig protein	12840
+CHLRE_11g467644v5	heat shock protein 101	3695
+CHLRE_11g467647v5	COP9 sgnalosome subunit 6B	12179
+CHLRE_11g467654v5	RNA helicase family protein	13117
+CHLRE_11g467654v5	RNA helicase family protein	13117
+CHLRE_11g467654v5	RNA helicase family protein	13117
+CHLRE_11g467655v5	Peptidase S24/S26A/S26B/S26C family protein	9647
+CHLRE_11g467668v5	LYR family of Fe/S cluster bigenesis protein	3965
+CHLRE_11g467680v5	DNAse I-like superfamily protein	18729
+CHLRE_11g467689v5	photosynthetic electron transfer C	2636
+CHLRE_11g467699v5	Sec1/munc18-like (SM) proteins superfamily	15292
+CHLRE_11g467700v5	Uroporphyringen decarboxylase	1599
+CHLRE_11g467705v5	vacuolar proton ATPase A2	2154
+CHLRE_11g467706v5	histone deacetylase of the RPD3/HDA1 superfamily 18	11407
+CHLRE_11g467707v5	ATPase, F1 complex, delta/epsilon subunit	2134
+CHLRE_11g467718v5	DNAJ heat shock N-terminal domain-containig protein	4082
+CHLRE_11g467723v5	3-ketoacyl-acyl carrier protein synthase I	9458
+CHLRE_11g467723v5	3-ketoacyl-acyl carrier protein synthase I	9458
+CHLRE_11g467726v5	lipid transporters	6316
+CHLRE_11g467745v5	spindle pole body component 98	16570
+CHLRE_11g467758v5	shrunken seed protein (SSE1)	13335
+CHLRE_11g467767v5	NADH:ubiquinone oxidoreductase, 17.2kDa subunit	11352
+CHLRE_11g467768v5	2-oxglutarate (2OG) and Fe(II)-dependent oxgenase superfamily protein	10277
+CHLRE_11g467770v5	phosphglycerate kinase 1	927
+CHLRE_11g467778v5	uracil phosphoribosyltransferase	761
+CHLRE_11g467779v5	beta-hexosaminidase 3	12373
+CHLRE_11g467781v5	ABC transporter family protein	6185
+CHLRE_11g467795v5	endoplasmic reticulum-type calcium-transportig ATPase 3	5853
+CHLRE_11g468300v5	secretion-associated RAS super family 2	7953
+CHLRE_11g468377v5	Transducin/WD40 repeat-like superfamily protein	12602
+CHLRE_11g468550v5	vacuolar membrane ATPase 10	2152
+CHLRE_11g468700v5	coenzyme F420 hydrgenase family / dehydrgenase, beta subunit family	18010
+CHLRE_11g468950v5	ubiquinol-cytochrome C reductase UQCRX/QCR9-like family protein	419
+CHLRE_11g475050v5	Tetratricopeptide repeat (TPR)-like superfamily protein	17973
+CHLRE_11g475400v5	Mov34/MPN/PAD-1 family protein	11864
+CHLRE_11g475450v5	Josephin family protein	11863
+CHLRE_11g475900v5	DNAse I-like superfamily protein	12603
+CHLRE_11g476400v5	DNAglycosylase superfamily protein	1247
+CHLRE_11g476750v5	root FNR 1	2641
+CHLRE_11g476800v5	Ribosomal protein L18e/L15 superfamily protein	2876
+CHLRE_11g477300v5	protein phosphatase 2A  subunit A2	3456
+CHLRE_11g477850v5	TUDOR-SN protein 2	15979
+CHLRE_11g478156v5	Adaptin family protein	12392
+CHLRE_11g478156v5	Adaptin family protein	12392
+CHLRE_11g478240v5	Proteasome component (PCI) domain protein	12178
+CHLRE_11g478950v5	U3 ribonucleoprotein (Utp) family protein	14567
+CHLRE_11g478966v5	U3 ribonucleoprotein (Utp) family protein	14567
+CHLRE_11g479050v5	F506- and rapamycin-bindig protein 15 kD-2	9569
+CHLRE_11g479250v5	RAN GTPase activatig protein 2	14319
+CHLRE_11g479300v5	Helicase protein with RING/U-box domain	15083
+CHLRE_11g479300v5	Helicase protein with RING/U-box domain	15083
+CHLRE_11g479500v5	ribosomal protein L4	2926
+CHLRE_11g479600v5	mgnesium/proton exchager	5849
+CHLRE_11g479600v5	mgnesium/proton exchager	5849
+CHLRE_11g479650v5	carboxyl terminus of HSC70-interactig protein	9561
+CHLRE_11g479750v5	chloroplast sgnal recgnition particle 54 kDa subunit	3106
+CHLRE_11g479850v5	cyclophilin 59	12735
+CHLRE_11g480150v5	Ribosomal protein S11 family protein	2955
+CHLRE_11g480800v5	PIN domain-like family protein	14773
+CHLRE_11g481450v5	ATPase, F0 complex, subunit B/B', bacterial/chloroplast	2109
+CHLRE_11g481500v5	HIS HF	1663
+CHLRE_11g481550v5	Transcription factor TFIIE, alpha subunit	3136
+CHLRE_11g481900v5	ENTH/VHS family protein	15559
+CHLRE_11g482483v5	RNA helicase, ATP-dependent, S12/DOB1 protein	12599
+CHLRE_11g482483v5	RNA helicase, ATP-dependent, S12/DOB1 protein	12599
+CHLRE_11g482841v5	Ribonuclease III family protein	11145
+CHLRE_11g482850v5	tagetig protein for XLP2	16812
+CHLRE_11g482900v5	RAB GTPASE HOMOLOG B18	7910
+CHLRE_12g483550v5	beta vacuolar processig enzyme	1369
+CHLRE_12g483950v5	Lactate/malate dehydrgenase family protein	26
+CHLRE_12g484000v5	acetyl-CoA carboxylase carboxyl transferase subunit beta	1963
+CHLRE_12g484050v5	Ribosomal protein L36e family protein	2920
+CHLRE_12g484100v5	RNApolymerase 14 kDa subunit	3020
+CHLRE_12g484150v5	SIT4 phosphatase-associated family protein	15501
+CHLRE_12g484150v5	SIT4 phosphatase-associated family protein	15501
+CHLRE_12g484350v5	homolg of yeast sucrose nonfermentig 4	7200
+CHLRE_12g484600v5	DNA methyltransferase-2	15336
+CHLRE_12g485150v5	LOC_Os0g45590glyceraldehyde-3-phosphate dehydrgenase, putative, expressed	134
+CHLRE_12g485550v5	Aldolase superfamily protein	1640
+CHLRE_12g485800v5	FtsH extracellular protease family	3798
+CHLRE_12g486100v5	nuclear encoded CLP protease 5	1358
+CHLRE_12g486209v5	DNAJ heat shock N-terminal domain-containig protein	9533
+CHLRE_12g486250v5	ADP-ribosylation factor A1E	7937
+CHLRE_12g486300v5	photosystem I subunit l	2699
+CHLRE_12g486900v5	FMN-linked oxidoreductases superfamily protein	5542
+CHLRE_12g487100v5	methionyl-tRNA synthetase / methionine--tRNA lgase / MetRS (cpMetRS)	1874
+CHLRE_12g487600v5	cleavge and polyadenylation specificity factor 100	14402
+CHLRE_12g487850v5	ADP-ribosylation factor B1B	7977
+CHLRE_12g488000v5	Glycosyl hydrolases family 32 protein	1193
+CHLRE_12g488350v5	carotenoid cleavge dioxgenase 7	464
+CHLRE_12g489050v5	cytidinediphosphate diacyglycerol synthase 4	981
+CHLRE_12g489153v5	Ribosomal protein L31e family protein	2910
+CHLRE_12g489700v5	ornithine carbamoyltransferase	611
+CHLRE_12g490000v5	Eukaryotic translation initiation factor 2 subunit 1	3237
+CHLRE_12g490350v5	4-hydroxy-3-methylbut-2-enyl diphosphate synthase	3526
+CHLRE_12g491050v5	Ferritin/ribonucleotide reductase-like family protein	10808
+CHLRE_12g491500v5	E1 C-terminal related 1	10686
+CHLRE_12g492300v5	NADH-ubiquinone oxidoreductase 20 kDa subunit, mitochondrial	3940
+CHLRE_12g492950v5	ribonucleotide reductase 1	10807
+CHLRE_12g493400v5	structural maintenance of chromosome 3	6675
+CHLRE_12g493950v5	Ribosomal protein S13/S18 family	2952
+CHLRE_12g494050v5	Ribosomal protein L6 family	2940
+CHLRE_12g494100v5	splicig factor, putative	12828
+CHLRE_12g494450v5	small subunit ribosomal protein 16	2959
+CHLRE_12g494750v5	chloroplast 30S ribosomal protein S20, putative	2968
+CHLRE_12g494850v5	adenosine monophosphate kinase	939
+CHLRE_12g494900v5	protein phosphatase X 2	15423
+CHLRE_12g495300v5	Aldolase-type TIM barrel family protein	1814
+CHLRE_12g495951v5	cyclophilin 20-2	3768
+CHLRE_12g495951v5	cyclophilin 20-2	3768
+CHLRE_12g496200v5	ARM repeat superfamily protein	14288
+CHLRE_12g496450v5	ribosomal RNA processig 4	3679
+CHLRE_12g496750v5	Alpha-helical ferredoxin	3941
+CHLRE_12g496800v5	Protein of unknown function (DUF498/DUF598)	9008
+CHLRE_12g497750v5	Haloacid dehalgenase-like hydrolase (HAD) superfamily protein	1087
+CHLRE_12g498050v5	cleavge and polyadenylation specificity factor 73-I	14403
+CHLRE_12g498100v5	eukaryotic translation initiation factor 3E	3250
+CHLRE_12g498250v5	Ribosomal S17 family protein	2962
+CHLRE_12g498350v5	(1 of 1) OG2548 - SWAP mRNA splicig rgulator	13168
+CHLRE_12g498550v5	mgnesium-protoporphyrin IX methyltransferase	3428
+CHLRE_12g498600v5	GTP bindig Elogation factor Tu family protein	3231
+CHLRE_12g498750v5	lipase 1	14452
+CHLRE_12g498850v5	Cysteine proteinases superfamily protein	8568
+CHLRE_12g498900v5	Ribosomal protein S7e family protein	2993
+CHLRE_12g499400v5	Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein	12733
+CHLRE_12g499900v5	Calcineurin-like metallo-phosphoesterase superfamily protein	18467
+CHLRE_12g500150v5	aldehyde dehydrgenase 2B7	128
+CHLRE_12g500350v5	serine/threonine phosphatase 7	4460
+CHLRE_12g500500v5	sterol methyltransferase 3	8242
+CHLRE_12g500500v5	sterol methyltransferase 3	8242
+CHLRE_12g500950v5	CLP protease P4	1358
+CHLRE_12g501200v5	E3 ubiquitin lgase SCF complex subunit SP1/AS1 family protein	3094
+CHLRE_12g502200v5	Trimeric LpxA-like enzyme	3240
+CHLRE_12g502350v5	RECQ helicase L2	10899
+CHLRE_12g502750v5	prefoldin 6	4798
+CHLRE_12g502800v5	Transducin/WD40 repeat-like superfamily protein	14768
+CHLRE_12g503000v5	phosphate starvation-inducedgene 3	13783
+CHLRE_12g503150v5	toprim domain-containig protein	17680
+CHLRE_12g503300v5	phosphoribosylaminoimidazole carboxylase, putative / AIR carboxylase, putative	11808
+CHLRE_12g503400v5	PRP38 family protein	12849
+CHLRE_12g503550v5	isoprenoid F	1770
+CHLRE_12g503800v5	Rubisco methyltransferase family protein	19199
+CHLRE_12g504200v5	Ribosomal protein S12/S23 family protein	2973
+CHLRE_12g504500v5	histone H2A 10	11251
+CHLRE_12g504550v5	Histone superfamily protein	11252
+CHLRE_12g504600v5	histone H4	11254
+CHLRE_12g504650v5	Histone superfamily protein	11253
+CHLRE_12g504700v5	Histone superfamily protein	11252
+CHLRE_12g504750v5	histone H2A 10	11251
+CHLRE_12g504800v5	Histone superfamily protein	11253
+CHLRE_12g504850v5	histone H4	11254
+CHLRE_12g504950v5	uricase / urate oxidase / nodulin 35, putative	365
+CHLRE_12g505200v5	DEA(D/H)-box RNA helicase family protein	14777
+CHLRE_12g505350v5	autoinhibited Ca(2+)-ATPase 9	1537
+CHLRE_12g505450v5	histone H4	11254
+CHLRE_12g505500v5	Histone superfamily protein	11253
+CHLRE_12g505550v5	histone H2A 10	11251
+CHLRE_12g505600v5	Histone superfamily protein	11252
+CHLRE_12g505700v5	TATA bindig protein 1	3120
+CHLRE_12g505750v5	RNA polymerases M/15 d subunit	3017
+CHLRE_12g505900v5	(1 of 2) PTHR13132 - ALPHA- 1,6 -FUCOSYLTRANSFERASE	17496
+CHLRE_12g506050v5	Tetratricopeptide repeat (TPR)-like superfamily protein	14408
+CHLRE_12g506200v5	Histone superfamily protein	11252
+CHLRE_12g506250v5	histone H2A 10	11251
+CHLRE_12g506300v5	Histone superfamily protein	11253
+CHLRE_12g506350v5	histone H4	11254
+CHLRE_12g506450v5	histone H4	11254
+CHLRE_12g506500v5	Histone superfamily protein	11253
+CHLRE_12g507250v5	ribonuclease II family protein	18681
+CHLRE_12g507300v5	Ribosomal protein S8e family protein	14842
+CHLRE_12g507400v5	log-chain acyl-CoA synthetase 6	1897
+CHLRE_12g507450v5	syntaxin of plants 41	8489
+CHLRE_12g507559v5	DNAJ heat shock N-terminal domain-containig protein	4082
+CHLRE_12g507650v5	Molecular chaperone Hsp40/DnaJ family protein	3686
+CHLRE_12g507650v5	Molecular chaperone Hsp40/DnaJ family protein	3686
+CHLRE_12g508150v5	chromatin-remodelig protein 11	11654
+CHLRE_12g508200v5	RNA-bindig H domain-containig protein	6961
+CHLRE_12g508550v5	Phosphoenolpyruvate carboxylase family protein	606
+CHLRE_12g508700v5	Nucleotide-diphospho-sgar transferases superfamily protein	2367
+CHLRE_12g509050v5	PsbP-like protein 1	2717
+CHLRE_12g509600v5	Cytidine/deoxycytidylate deaminase family protein	15441
+CHLRE_12g509650v5	phytoene desaturase 3	2293
+CHLRE_12g510050v5	dicarboxylate diiron protein, putative (Crd1)	4035
+CHLRE_12g510100v5	Peptidase family C54 protein	8342
+CHLRE_12g510450v5	Nucleic acid-bindig, OB-fold-like protein	2979
+CHLRE_12g510650v5	hgh cyclic electron flow 1	3841
+CHLRE_12g511150v5	NAD-dependentglycerol-3-phosphate dehydrgenase family protein	6
+CHLRE_12g511200v5	NADH-ubiquinone oxidoreductase-related	3938
+CHLRE_12g511400v5	PENTATRICOPEPTIDE REPEAT 596	17710
+CHLRE_12g511850v5	shggy-like kinase 13	3083
+CHLRE_12g512250v5	Polynucleotidyl transferase, ribonuclease H fold protein with HRDC domain	12591
+CHLRE_12g512300v5	lipoxgenase 1	15718
+CHLRE_12g512550v5	Trm112p-like protein	15448
+CHLRE_12g512600v5	ribosomal protein L18	2883
+CHLRE_12g513150v5	DE domain-containig chromatin associated protein	17046
+CHLRE_12g513254v5	DNA repair metallo-beta-lactamase family protein	15340
+CHLRE_12g513500v5	Tetratricopeptide repeat (TPR)-like superfamily protein	12867
+CHLRE_12g513701v5	hydrolases, actig on acid anhydrides, in phosphorus-containig anhydrides;ATP-dependent helicases;nucleic acid bindig;ATP bindig;RNA bindig;helicases	14808
+CHLRE_12g513750v5	Glutaredoxin family protein	3676
+CHLRE_12g513950v5	non-intrinsic ABC protein 6	9015
+CHLRE_12g514450v5	proline-rich spliceosome-associated (PSP) family protein	12829
+CHLRE_12g514500v5	Nucleic acid-bindig, OB-fold-like protein	2949
+CHLRE_12g514650v5	Protein kinase superfamily protein	8857
+CHLRE_12g514750v5	Citrate synthase family protein	1647
+CHLRE_12g514800v5	Maf-like protein	6287
+CHLRE_12g514850v5	Chaperone protein htpG family protein	9487
+CHLRE_12g514900v5	Tim10/DDP family zinc figer protein	17778
+CHLRE_12g515150v5	Domain of unknown function (DUF543)	17784
+CHLRE_12g515650v5	eukaryotic translation initiation factor 3	15028
+CHLRE_12g515850v5	proliferatig cellular nuclear antgen 1	4802
+CHLRE_12g516200v5	Ribosomal protein S5/Elogation factor G/III/V family protein	3234
+CHLRE_12g516350v5	cytochrome c oxidase 10	2257
+CHLRE_12g516550v5	UDP-Glycosyltransferase superfamily protein	3842
+CHLRE_12g517150v5	5'adenylylphosphosulfate reductase 2	5907
+CHLRE_12g517400v5	Ras-related small GTP-bindig family protein	7889
+CHLRE_12g517600v5	Protein kinase superfamily protein	4733
+CHLRE_12g517700v5	NAD(P)-bindig Rossmann-fold superfamily protein	13606
+CHLRE_12g517900v5	Albino or Glassy Yellow 1	3070
+CHLRE_12g518200v5	DNAJ heat shock N-terminal domain-containig protein	9584
+CHLRE_12g518300v5	(1 of 1) OG3407 - Uncharacterized conserved protein	12871
+CHLRE_12g518650v5	3beta-hydroxysteroid-dehydrgenase/decarboxylase isoform 1	7748
+CHLRE_12g519000v5	phosphoribosylanthranilate isomerase 1	1817
+CHLRE_12g519150v5	related to PC1	12169
+CHLRE_12g519180v5	elogation factor Ts family protein	2357
+CHLRE_12g519180v5	elogation factor Ts family protein	2357
+CHLRE_12g519180v5	elogation factor Ts family protein	2357
+CHLRE_12g519350v5	prohibitin 3	17080
+CHLRE_12g519700v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	3978
+CHLRE_12g520150v5	RNA helicase family protein	12818
+CHLRE_12g520250v5	hydroxyproline-richglycoprotein family protein	15174
+CHLRE_12g520350v5	aldehyde dehydrgenase 12A1	294
+CHLRE_12g520500v5	Ribosomal protein L10 family protein	2941
+CHLRE_12g520550v5	transportin 1	18752
+CHLRE_12g521200v5	replication factor C1	10754
+CHLRE_12g521250v5	esterase/lipase/thioesterase family protein	13617
+CHLRE_12g521450v5	nuclear-encoded CLP protease P7	1358
+CHLRE_12g521700v5	Glycgen/starch synthases, ADPglucose type	703
+CHLRE_12g522350v5	Nucleotidylyl transferase superfamily protein	1867
+CHLRE_12g522450v5	transducin family protein / WD-40 repeat family protein	14005
+CHLRE_12g522550v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	10394
+CHLRE_12g522600v5	cytochrome c-2	8738
+CHLRE_12g522850v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	12835
+CHLRE_12g522950v5	septum site-determinig protein (MIND)	3609
+CHLRE_12g523050v5	1-phosphatidylinositol-4-phosphate 5-kinases;zinc ion bindig;1-phosphatidylinositol-3-phosphate 5-kinases	889
+CHLRE_12g523150v5	prefoldin 5	4797
+CHLRE_12g523200v5	Transducin/WD40 repeat-like superfamily protein	10752
+CHLRE_12g523300v5	Ribophorin I	12666
+CHLRE_12g523850v5	Insulinase (Peptidase family M16) protein	17732
+CHLRE_12g524000v5	sucrose phosphate synthase 1F	696
+CHLRE_12g524200v5	Microsomal sgnal peptidase 25 kDa subunit (SPC25)	12947
+CHLRE_12g524350v5	(1 of 1) PTHR12900 - MITOTIC AND DNA DAMAGE CHECPOINT PROTEIN HUS1	10903
+CHLRE_12g524650v5	sirtuin 2	11414
+CHLRE_12g524700v5	Haloacid dehalgenase-like hydrolase (HAD) superfamily protein	18551
+CHLRE_12g525200v5	homolg of nucleolar protein NOP56	14564
+CHLRE_12g525500v5	Spc97 / Spc98 family of spindle pole body (SBP) component	16569
+CHLRE_12g525650v5	chloroplastic NIFS-like cysteine desulfurase	11717
+CHLRE_12g526750v5	RNA-bindig (RRM/RBD/RNP motifs) family protein	12876
+CHLRE_12g526800v5	6-phosphgluconate dehydrgenase family protein	33
+CHLRE_12g526850v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	14810
+CHLRE_12g526950v5	TBP-associated factor 5	3130
+CHLRE_12g527300v5	replication factor C subunit 3	10756
+CHLRE_12g527500v5	WD-40 repeat family protein	4508
+CHLRE_12g527600v5	WW domain-containig protein	12865
+CHLRE_12g527950v5	UDP-Glycosyltransferase superfamily protein	2563
+CHLRE_12g528200v5	DNA replication helicase, putative	10742
+CHLRE_12g528450v5	L-aspartate oxidase	278
+CHLRE_12g528550v5	3-oxo-5-alpha-steroid 4-dehydrgenase family protein	12343
+CHLRE_12g528700v5	tryptophan synthase alpha chain	1695
+CHLRE_12g528750v5	Ribosomal protein L11 family protein	2870
+CHLRE_12g528900v5	RNA bindig	7565
+CHLRE_12g528950v5	pumilio 24	14844
+CHLRE_12g529100v5	ATPase, F0/V0 complex, subunit C protein	3661
+CHLRE_12g529150v5	HOPW1-1-interactig 2	17506
+CHLRE_12g529400v5	ribosomal protein S27	2978
+CHLRE_12g529500v5	FtsJ-like methyltransferase family protein	14857
+CHLRE_12g529600v5	nuclear RNA polymerase A1	2999
+CHLRE_12g529651v5	Ribosomal protein L7Ae/L30e/S12e/Gadd45 family protein	2936
+CHLRE_12g529950v5	MIF4G domain-containig protein / MA3 domain-containig protein	3260
+CHLRE_12g530100v5	Acid phosphatase/vanadium-dependent haloperoxidase-related protein	9775
+CHLRE_12g530300v5	FBP-like peptidyl-prolyl cis-trans isomerase family protein	1802
+CHLRE_12g530500v5	1) 17402 - small subunit ribosomal protein S23 (MRPS23)	(1 of
+CHLRE_12g530700v5	TBP-associated factor 12	3126
+CHLRE_12g531550v5	eukaryotic translation initiation factor 2 beta subunit	3238
+CHLRE_12g531700v5	AMP deaminase, putative / myoadenylate deaminase, putative	1490
+CHLRE_12g532500v5	Sodium Bile acid symporter family	3453
+CHLRE_12g532550v5	Ribosomal protein L13 family protein	2872
+CHLRE_12g532750v5	endonuclease/exonuclease/phosphatase family protein	10772
+CHLRE_12g533000v5	photolyase 1	1669
+CHLRE_12g533050v5	GTP-bindig family protein	14538
+CHLRE_12g533550v5	Pyruvate kinase family protein	873
+CHLRE_12g533800v5	Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein	9567
+CHLRE_12g534350v5	3-hydroxyacyl-CoA dehydrgenase family protein	74
+CHLRE_12g534800v5	LOC_Os0g51410glycine dehydrgenase, putative, expressed	281
+CHLRE_12g535750v5	nitrilase-like protein 1	12251
+CHLRE_12g535851v5	Ribosomal protein L2 family	2938
+CHLRE_12g535900v5	ADP-ribosylation factor 3	7942
+CHLRE_12g535950v5	NADH-ubiquinone dehydrgenase, mitochondrial, putative	3934
+CHLRE_12g536000v5	aminophospholipid ATPase 3	14802
+CHLRE_12g536050v5	aminophospholipid ATPase 3	14802
+CHLRE_12g537100v5	valyl-tRNA synthetase / valine--tRNA lgase (VALRS)	1873
+CHLRE_12g537200v5	2-oxglutarate dehydrgenase, E1 component	164
+CHLRE_12g537400v5	Protein kinase superfamily protein	8850
+CHLRE_12g537581v5	AICARFT/IMPCHase bienzyme family protein	602
+CHLRE_12g537641v5	MBOAT (membrane bound O-acyl transferase) family protein	13519
+CHLRE_12g537800v5	Ribosomal protein L30/L7 family protein	2937
+CHLRE_12g538100v5	Glutathione S-transferase family protein	7393
+CHLRE_12g538150v5	nucleotide-sensitive chloride conductance rgulator (ICln) family protein	5019
+CHLRE_12g538350v5	frataxin homolg	19054
+CHLRE_12g538400v5	RNA polymerase Rpb7 N-terminal domain-containig protein	3022
+CHLRE_12g538500v5	transducin family protein / WD-40 repeat family protein	14546
+CHLRE_12g538750v5	Small nuclear ribonucleoprotein family protein	12620
+CHLRE_12g539000v5	phosphorylethanolamine cytidylyltransferase 1	967
+CHLRE_12g539100v5	DEA(D/H)-box RNA helicase family protein	14811
+CHLRE_12g539900v5	Thiamin diphosphate-bindig fold (THDP-bindig) superfamily protein	166
+CHLRE_12g540350v5	Cell differentiation, Rcd1-like protein	12606
+CHLRE_12g540400v5	Cell differentiation, Rcd1-like protein	12606
+CHLRE_12g540927v5	minichromosome maintenance 9	10738
+CHLRE_12g541800v5	Prolyl olgopeptidase family protein	1322
+CHLRE_12g542000v5	D-Tyr-tRNA(Tyr) deacylase family protein	7560
+CHLRE_12g542100v5	Prolyl olgopeptidase family protein	1322
+CHLRE_12g542250v5	tubulin beta chain 2	7375
+CHLRE_12g542300v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	15918
+CHLRE_12g542450v5	18422 P-loop containig nucleoside triphosphate hydrolases superfamily protein	13983
+CHLRE_12g542800v5	nuclear RNA polymerase C2	3021
+CHLRE_12g542850v5	RmlC-like cupins superfamily protein	8967
+CHLRE_12g542950v5	(1 of 1) PTHR13000 - NUCLEOPORIN P54	14308
+CHLRE_12g543100v5	eukaryotic initiation factor 3gamma subunit family protein	3256
+CHLRE_12g543350v5	GroES-like zinc-bindig dehydrgenase family protein	121
+CHLRE_12g543350v5	GroES-like zinc-bindig dehydrgenase family protein	121
+CHLRE_12g543350v5	GroES-like zinc-bindig dehydrgenase family protein	121
+CHLRE_12g543400v5	GroES-like zinc-bindig dehydrgenase family protein	121
+CHLRE_12g543450v5	RING/U-box superfamily protein	3868
+CHLRE_12g545000v5	actin-related protein 7	16615
+CHLRE_12g545101v5	xanthine dehydrgenase 1	106
+CHLRE_12g546000v5	Mitochondrial ribosomal protein L37	17435
+CHLRE_12g546050v5	1-deoxy-D-xylulose 5-phosphate reductoisomerase	99
+CHLRE_12g546250v5	Sgnal recgnition particle, SRP9/SRP14 subunit	3109
+CHLRE_12g546650v5	ubiquitin carrier protein 7	10575
+CHLRE_12g548000v5	ARM repeat superfamily protein	14550
+CHLRE_12g548152v5	Mitochondrial substrate carrier family protein	15084
+CHLRE_12g548400v5	photosystem II lght harvestig complexgene 2.2	8913
+CHLRE_12g548950v5	photosystem II lght harvestig complexgene 2.2	8913
+CHLRE_12g549550v5	tubulin beta chain 2	7375
+CHLRE_12g549700v5	RNA-bindig H domain-containig protein	11884
+CHLRE_12g549750v5	casein kinase 1-like protein 2	2218
+CHLRE_12g550400v5	Glutaredoxin family protein	3676
+CHLRE_12g550600v5	Peroxisomal membrane 22 kDa (Mpv17/PMP22) family protein	13347
+CHLRE_12g550700v5	Formyl transferase	601
+CHLRE_12g550800v5	DNA-directed DNA polymerases	3515
+CHLRE_12g550800v5	DNA-directed DNA polymerases	3515
+CHLRE_12g550850v5	photosystem II subunit P-1	2717
+CHLRE_12g550900v5	Patched family protein	12385
+CHLRE_12g552200v5	alphaglucan phosphorylase 2	688
+CHLRE_12g553050v5	mitotic phosphoprotein N' end (MPPN) family protein	14313
+CHLRE_12g553250v5	phosphofructokinase 5	850
+CHLRE_12g554200v5	membrin 11	8496
+CHLRE_12g554700v5	Synaptobrevin family protein	8517
+CHLRE_12g554953v5	electron transfer flavoprotein beta	3521
+CHLRE_12g555250v5	LYR family of Fe/S cluster bigenesis protein	3950
+CHLRE_12g555450v5	inositol polyphosphate kinase 2 alpha	915
+CHLRE_12g555550v5	villin 3	5768
+CHLRE_12g556050v5	ribosomal protein L9	2939
+CHLRE_12g556400v5	nuclear factor Y, subunit C4	8066
+CHLRE_12g556450v5	Mediator complex, subunit Med10	15151
+CHLRE_12g556600v5	aldehyde dehydrgenase 11A3	131
+CHLRE_12g556650v5	Transducin/WD40 repeat-like superfamily protein	3351
+CHLRE_12g556911v5	DNA repair and meiosis protein (Mre11)	10865
+CHLRE_12g557000v5	Ubiquitin-like superfamily protein	8336
+CHLRE_12g557100v5	protein-l-isoaspartate methyltransferase 1	573
+CHLRE_12g557252v5	ELMO/CED-12 family protein	18985
+CHLRE_12g557400v5	DNA repair protein Rad4 family	10838
+CHLRE_12g557600v5	adenylate kinase 1	939
+CHLRE_12g557800v5	double-stranded DNA-bindig family protein	6875
+CHLRE_12g557900v5	C-8,7 sterol isomerase	1824
+CHLRE_12g557950v5	Chaperone DnaJ-domain superfamily protein	9528
+CHLRE_12g558000v5	Translation elogation  factor EF1B/ribosomal protein S6 family protein	2990
+CHLRE_12g558100v5	protein aginine methyltransferase 10	11434
+CHLRE_12g558450v5	spermidine synthase 1	797
+CHLRE_12g558650v5	NgB/RpiA/CoA transferase-like superfamily protein	3680
+CHLRE_12g559800v5	microsomalglutathione s-transferase, putative	799
+CHLRE_12g559850v5	Transducin/WD40 repeat-like superfamily protein	12880
+CHLRE_12g560150v5	RAB GTPase homolg 1A	7874
+CHLRE_12g560300v5	RNA-bindig (RRM/RBD/RNP motifs) family protein	12741
+CHLRE_12g560300v5	RNA-bindig (RRM/RBD/RNP motifs) family protein	12741
+CHLRE_12g560300v5	RNA-bindig (RRM/RBD/RNP motifs) family protein	12741
+CHLRE_12g560550v5	formyltransferase, putative	604
+CHLRE_12g560800v5	IAA-leucine resistant (ILR)-like 1	14664
+CHLRE_12g560950v5	photosystem I subunit G	8905
+CHLRE_12g561000v5	Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein	3768
+CHLRE_13g562550v5	Pyridine nucleotide-disulphide oxidoreductase family protein	18914
+CHLRE_13g562950v5	anaphase promotig complex 6	3353
+CHLRE_13g563733v5	MAP kinase kinase 6	4368
+CHLRE_13g563733v5	MAP kinase kinase 6	4368
+CHLRE_13g563850v5	proteinaceous RNase P 3	18213
+CHLRE_13g564250v5	eukaryotic translation initiation factor 3A	3254
+CHLRE_13g564950v5	Ribosomal protein S5/Elogation factor G/III/V family protein	14536
+CHLRE_13g565450v5	L-Aspartase-like family protein	1756
+CHLRE_13g565550v5	DNA-directed RNA polymerase, RBP11-like	3008
+CHLRE_13g565650v5	solanesyl diphosphate synthase 1	5356
+CHLRE_13g565750v5	Translation elogation factor EF1A/initiation factor IFgamma family protein	14416
+CHLRE_13g565750v5	Translation elogation factor EF1A/initiation factor IFgamma family protein	14416
+CHLRE_13g565800v5	reversiblyglycosylated polypeptide 1	13379
+CHLRE_13g565850v5	Coatomer, alpha subunit	5236
+CHLRE_13g566000v5	10-formyltetrahydrofolate synthetase	1938
+CHLRE_13g566050v5	probable small nuclear ribonucleoprotein G	11099
+CHLRE_13g566150v5	tRNA/rRNA methyltransferase (SpoU) family protein	15507
+CHLRE_13g566650v5	AMP-dependent synthetase and lgase family protein	1897
+CHLRE_13g566650v5	AMP-dependent synthetase and lgase family protein	1897
+CHLRE_13g566700v5	U2 small nuclear ribonucleoprotein B	11094
+CHLRE_13g567100v5	Lgalactono-1,4-lactone dehydrgenase	225
+CHLRE_13g567450v5	wiged-helix DNA-bindig transcription factor family protein	11275
+CHLRE_13g567550v5	Protein kinase superfamily protein	8857
+CHLRE_13g567550v5	Protein kinase superfamily protein	8857
+CHLRE_13g567650v5	Serine carboxypeptidase S28 family protein	1285
+CHLRE_13g567700v5	histone H2A protein 9	11251
+CHLRE_13g567750v5	splicig factor Prp18 family protein	12817
+CHLRE_13g567800v5	Protein phosphatase 2A rgulatory B subunit family protein	11584
+CHLRE_13g567850v5	H/ACA ribonucleoprotein complex, subunit Gar1/Naf1 protein	11128
+CHLRE_13g567950v5	ADPglucose pyrophosphorylase lage subunit 1	975
+CHLRE_13g568150v5	mraW methylase family protein	3438
+CHLRE_13g568400v5	FTSH protease 4	8955
+CHLRE_13g568450v5	phrgmoplast orientig kinesin 2	11498
+CHLRE_13g568600v5	histidine acid phosphatase family protein	3103
+CHLRE_13g568600v5	histidine acid phosphatase family protein	3103
+CHLRE_13g568600v5	histidine acid phosphatase family protein	3103
+CHLRE_13g568650v5	Ribosomal protein S3Ae	2984
+CHLRE_13g568700v5	SWAP (Suppressor-of-White-APricot)/surp domain-containig protein	13123
+CHLRE_13g568750v5	Ubiquitin system component Cue protein	18667
+CHLRE_13g568800v5	NADH-ubiquinone oxidoreductase-related	3949
+CHLRE_13g568900v5	Ribosomal protein L22p/L17e family protein	2880
+CHLRE_13g569200v5	Sgnal recgnition particle, SRP54 subunit protein	3106
+CHLRE_13g569850v5	ammonium transporter 1;1	3320
+CHLRE_13g569950v5	Histone superfamily protein	11253
+CHLRE_13g570000v5	histone H4	11254
+CHLRE_13g570000v5	histone H4	11254
+CHLRE_13g570050v5	Histone superfamily protein	11252
+CHLRE_13g570100v5	histone H2A 10	11251
+CHLRE_13g570550v5	cytidine deaminase 1	1489
+CHLRE_13g571000v5	(1 of 1) PTHR31051:SF1 - PROTEASOME ASSEMBLY CHAPERONE 3	11877
+CHLRE_13g571450v5	membrane-associated prgesterone bindig protein 2	17278
+CHLRE_13g571650v5	RNA polymerases N / 8 kDa subunit	3007
+CHLRE_13g571850v5	anaphase promotig complex 10	3357
+CHLRE_13g572000v5	Tetrapyrrole (Corrin/Porphyrin) Methylases	7056
+CHLRE_13g572200v5	Tryptophan/tyrosine permease	3834
+CHLRE_13g572500v5	Uncharacterised conserved protein (UCP030210)	9680
+CHLRE_13g572900v5	Zincin-like metalloproteases family protein	1414
+CHLRE_13g572900v5	Zincin-like metalloproteases family protein	1414
+CHLRE_13g573050v5	embryo sac development arrest 14	14769
+CHLRE_13g573351v5	Ribosomal protein S5 domain 2-like superfamily protein	2960
+CHLRE_13g573450v5	cleavge and polyadenylation specificity factor 160	14401
+CHLRE_13g573800v5	uridine kinase/uracil phosphoribosyltransferase 1	876
+CHLRE_13g573950v5	zinc transporter 3 precursor	14709
+CHLRE_13g574800v5	reduced lateral root formation	326
+CHLRE_13g574800v5	reduced lateral root formation	326
+CHLRE_13g575000v5	cytochrome c bigenesis protein family	7399
+CHLRE_13g575300v5	Protein kinase family protein with ARM repeat domain	8876
+CHLRE_13g575950v5	homolg of histone chaperone HIRA	11293
+CHLRE_13g576250v5	Transcription factor IIIC, subunit 5	15202
+CHLRE_13g576300v5	(1 of 1) PTHR12889 - GAMMA-SECRETASE SUBUNIT APH-1	6172
+CHLRE_13g576400v5	D-aminoacid aminotransferase-like PLP-dependent enzymes superfamily protein	18482
+CHLRE_13g576650v5	histidine biosynthesis bifunctional protein (HISIE)	11755
+CHLRE_13g577450v5	FAD-dependent oxidoreductase family protein	111
+CHLRE_13g577500v5	Vesicle transport v-SNARE family protein	8493
+CHLRE_13g577550v5	damged DNA bindig 2	10140
+CHLRE_13g577950v5	SNF7 family protein	12198
+CHLRE_13g578100v5	Protein of unknown function (DUF3414)	14310
+CHLRE_13g578150v5	Ribonuclease E inhibitor RraA/Dimethylmenaquinone methyltransferase	2553
+CHLRE_13g578451v5	tRNA synthetase class I (I, L, M and V) family protein	1869
+CHLRE_13g578750v5	pyrimidine 1	207
+CHLRE_13g580300v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	12608
+CHLRE_13g580600v5	aginine-tRNA protein transferase 1	685
+CHLRE_13g580650v5	phosphotyrosyl phosphatase activator (PTPA) family protein	17605
+CHLRE_13g580700v5	allantoate amidohydrolase	2083
+CHLRE_13g580900v5	Serine/threonine-protein kinase Rio1	7178
+CHLRE_13g581450v5	26S proteasome, rgulatory subunit Rpn7;Proteasome component (PCI) domain	3037
+CHLRE_13g582350v5	NAD(P)-bindig Rossmann-fold superfamily protein	12164
+CHLRE_13g583250v5	Transducin/WD40 repeat-like superfamily protein	15361
+CHLRE_13g583550v5	plastid transcriptionally active 4	3969
+CHLRE_13g584750v5	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	18162
+CHLRE_13g584750v5	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	18162
+CHLRE_13g585150v5	Translation initiation factor IF6	3264
+CHLRE_13g585301v5	mongalactosyl diacyglycerol synthase 1	3715
+CHLRE_13g585900v5	peptidase M1 family protein	1254
+CHLRE_13g586000v5	AMP-dependent synthetase and lgase family protein	18660
+CHLRE_13g586600v5	cytochrome B561-1	8360
+CHLRE_13g586916v5	SC35-like splicig factor 30A	12900
+CHLRE_13g587000v5	rRNA processig protein-related	14782
+CHLRE_13g587050v5	eukaryotic release factor 1-3	3265
+CHLRE_13g587200v5	transferases, transferrig acylgroups	5283
+CHLRE_13g587450v5	NgB/RpiA/CoA transferase-like superfamily protein	1934
+CHLRE_13g588550v5	syntaxin of plants 132	8486
+CHLRE_13g589700v5	vacuolar protein sortig-associated protein 20.2	12195
+CHLRE_13g590500v5	fatty acid desaturase 6	10255
+CHLRE_13g590750v5	Histone superfamily protein	11252
+CHLRE_13g590800v5	histone H2A 10	11251
+CHLRE_13g590900v5	anaphase-promotig complex/cyclosome 11	3358
+CHLRE_13g590900v5	anaphase-promotig complex/cyclosome 11	3358
+CHLRE_13g591150v5	histone H2A 10	11251
+CHLRE_13g591200v5	Histone superfamily protein	11252
+CHLRE_13g591400v5	pantothenate kinase 2	9680
+CHLRE_13g592150v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	12858
+CHLRE_13g592200v5	NADH-dependentglutamate synthase 1	264
+CHLRE_13g592300v5	Aldolase-type TIM barrel family protein	5543
+CHLRE_13g592450v5	Coatomer epsilon subunit	17268
+CHLRE_13g592500v5	phosphoadenosine phosphosulfate (PAPS) reductase family protein	953
+CHLRE_13g602350v5	Aldolase-type TIM barrel family protein	1609
+CHLRE_13g602400v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	10401
+CHLRE_13g602700v5	SPA1-related 4	16240
+CHLRE_13g602850v5	RNA-bindig (RRM/RBD/RNP motifs) family protein	12897
+CHLRE_13g602901v5	cofactor of nitrate reductase and xanthine dehydrgenase 2	3639
+CHLRE_13g603400v5	zinc ion bindig;DNA bindig;helicases;ATP bindig;nucleic acid bindig	15710
+CHLRE_13g603900v5	tRNA synthetase beta subunit family protein	1890
+CHLRE_13g604700v5	cardiolipin synthase	8744
+CHLRE_13g605150v5	maganese superoxide dismutase 1	4564
+CHLRE_13g605650v5	aldehyde dehydrgenase 10A8	130
+CHLRE_13g606000v5	elogation factor family protein	6207
+CHLRE_13g606050v5	Tyrosyl-tRNA synthetase, class Ib, bacterial/mitochondrial	1866
+CHLRE_13g606850v5	Transducin family protein / WD-40 repeat family protein	14548
+CHLRE_13g607050v5	mercaptopyruvate sulfurtransferase 1	1011
+CHLRE_13g607450v5	Dihydroxyacetone kinase	863
+CHLRE_13g607500v5	U70 homolg	10884
+CHLRE_14g610000v5	Protein of unknown function (DUF3743)	18633
+CHLRE_14g610950v5	20S proteasome beta subunit D1	2734
+CHLRE_14g611150v5	small nuclear ribonucleoprotein associated protein B	11086
+CHLRE_14g611850v5	transmembrane nine 1	17087
+CHLRE_14g612000v5	Protein kinase family protein with ARM repeat domain	17545
+CHLRE_14g612450v5	ribosomal protein L15	2876
+CHLRE_14g612500v5	Prenyltransferase family protein	5954
+CHLRE_14g613350v5	ubiquitin fusion dgradation 1	14016
+CHLRE_14g614050v5	Microtubule associated protein (MAP65/ASE1) family protein	16732
+CHLRE_14g614100v5	dolichyl-diphosphoolgosaccharide-proteinglycosyltransferase 48kDa subunit family protein	12670
+CHLRE_14g614300v5	Aldolase-type TIM barrel family protein	88
+CHLRE_14g614400v5	DNA/RNA helicase protein	15711
+CHLRE_14g614900v5	LOC_Os0g09000glutaminyl-tRNA synthetase, putative, expressed	1886
+CHLRE_14g614900v5	LOC_Os0g09000glutaminyl-tRNA synthetase, putative, expressed	1886
+CHLRE_14g615000v5	methionine sulfoxide reductase B 2	7305
+CHLRE_14g615050v5	3-oxo-5-alpha-steroid 4-dehydrgenase family protein	10258
+CHLRE_14g615100v5	methionine sulfoxide reductase B 2	7305
+CHLRE_14g615500v5	Actin-like ATPase superfamily protein	1409
+CHLRE_14g616100v5	F506 BINDING PROTEIN 53	14826
+CHLRE_14g616200v5	mannosyltransferase family protein	5284
+CHLRE_14g616750v5	peroxin 5	13342
+CHLRE_14g617900v5	Ribosomal L29 family protein	2918
+CHLRE_14g619133v5	succinate dehydrgenase 1-1	234
+CHLRE_14g619550v5	20S proteasome alpha subunit G1	2727
+CHLRE_14g619550v5	20S proteasome alpha subunit G1	2727
+CHLRE_14g620300v5	Glutamine amidotransferase type 1 family protein	1658
+CHLRE_14g620350v5	GTP cyclohydrolase II	14652
+CHLRE_14g620400v5	Sgnal peptidase subunit	12948
+CHLRE_14g621000v5	crooked neck protein, putative / cell cycle protein, putative	12869
+CHLRE_14g621450v5	ribosomal protein L5 B	2932
+CHLRE_14g621650v5	catalytics;transferases;[acyl-carrier-protein] S-malonyltransferases;bindig	645
+CHLRE_14g621751v5	UDP-sgar pyrophosphorylase	12447
+CHLRE_14g622850v5	RAS associated with diabetes protein 51	4482
+CHLRE_14g623300v5	flavodoxin family protein / radical SAM domain-containig protein	15449
+CHLRE_14g623800v5	Acyl-CoA N-acyltransferases (NAT) superfamily protein	670
+CHLRE_14g624500v5	Ribosomal protein S5 domain 2-like superfamily protein	12590
+CHLRE_14g625300v5	cation exchager 9	13754
+CHLRE_14g625400v5	rgulatory particle triple-A 1A	3061
+CHLRE_14g625450v5	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	12502
+CHLRE_14g625802v5	histone mono-ubiquitination 2	10696
+CHLRE_14g626634v5	Met-10+ like family protein / kelch repeat-containig protein	15450
+CHLRE_14g626700v5	ferredoxin 1	2639
+CHLRE_14g626950v5	nicotinate/nicotinamide mononucleotide adenyltransferase	6210
+CHLRE_14g627488v5	GLU-ADT subunit B	2434
+CHLRE_14g627850v5	Dihydrodipicolinate reductase, bacterial/plant	215
+CHLRE_14g627900v5	Splicig factor 3B subunit 5/RDS3 complex subunit 10	12832
+CHLRE_14g628800v5	SITE-1 protease	8653
+CHLRE_14g629300v5	ubiquitin-specific protease 23	11855
+CHLRE_14g629550v5	THUMP domain-containig protein	6963
+CHLRE_14g629920v5	ammonium transporter 1;1	3320
+CHLRE_14g630100v5	breast basic conserved 1	2873
+CHLRE_14g630400v5	NAD(P)-linked oxidoreductase superfamily protein	17744
+CHLRE_14g630847v5	Aldolase superfamily protein	616
+CHLRE_14g630859v5	6-phosphgluconate dehydrgenase family protein	20
+CHLRE_14g631900v5	(1 of 1) PTHR12439 - PLACENTAL PROTEIN 11-RELATED	14648
+CHLRE_14g632767v5	protein tyrosine phosphatases;protein tyrosine phosphatases	1104
+CHLRE_14g632775v5	rgulatory particle non-ATPase subunit 5B	3035
+CHLRE_14g632783v5	cyclin H;1	6634
+CHLRE_14g632950v5	transcription rgulators	12604
+CHLRE_14g633650v5	pre-mRNA splicig factor-related	12855
+CHLRE_15g635350v5	protein aginine methyltransferase 4B	5931
+CHLRE_15g635350v5	protein aginine methyltransferase 4B	5931
+CHLRE_15g635600v5	nascent polypeptide-associated complex subunit alpha-like protein 3	3626
+CHLRE_15g635800v5	Structural maintenance of chromosomes (SMC) family protein	6636
+CHLRE_15g636300v5	tubulin foldig cofactor B	17262
+CHLRE_15g637100v5	ubiquitin family protein	4523
+CHLRE_15g638500v5	Cytochrome C1 family	413
+CHLRE_15g639150v5	LETM1-like protein	17800
+CHLRE_15g639150v5	LETM1-like protein	17800
+CHLRE_15g640250v5	nonsense-mediated mRNA decay NMD3 family protein	7562
+CHLRE_15g640250v5	nonsense-mediated mRNA decay NMD3 family protein	7562
+CHLRE_15g641200v5	Mitochondrial substrate carrier family protein	15103
+CHLRE_15g641250v5	Calcium-bindig EF-hand family protein	6268
+CHLRE_15g643550v5	Aldolase-type TIM barrel family protein	6215
+CHLRE_16g648100v5	actin-related protein C1B	5757
+CHLRE_16g648200v5	cytochrome P450, family 711, subfamily A, polypeptide 1	1832
+CHLRE_16g648350v5	Methylenetetrahydrofolate reductase family protein	318
+CHLRE_16g648500v5	Histone superfamily protein	11253
+CHLRE_16g649466v5	cation exchager 2	7300
+CHLRE_16g649600v5	pumilio 23	14790
+CHLRE_16g649900v5	Histone superfamily protein	11253
+CHLRE_16g649950v5	histone H4	11254
+CHLRE_16g650200v5	folate transporter 1	15115
+CHLRE_16g650250v5	histone H4	11254
+CHLRE_16g650300v5	Histone superfamily protein	11253
+CHLRE_16g650550v5	Nucleoside diphosphate kinase family protein	940
+CHLRE_16g650550v5	Nucleoside diphosphate kinase family protein	940
+CHLRE_16g650800v5	translocase of the inner mitochondrial membrane 13	17781
+CHLRE_16g651500v5	Proteasome component (PCI) domain protein	12180
+CHLRE_16g651750v5	tRNA synthetase class I (I, L, M and V) family protein	1870
+CHLRE_16g652100v5	methionine aminopeptidase 2B	1265
+CHLRE_16g652550v5	Translation protein SH3-like family protein	2895
+CHLRE_16g652850v5	Nucleotide-diphospho-sgar transferases superfamily protein	729
+CHLRE_16g652950v5	transducin family protein / WD-40 repeat family protein	11274
+CHLRE_16g653601v5	Ribosomal protein L33 family protein	2913
+CHLRE_16g654350v5	DNA/RNA-bindig protein in17, conserved rgion	13102
+CHLRE_16g654500v5	eukaryotic translation initiation factor 2	3249
+CHLRE_16g655400v5	Transducin family protein / WD-40 repeat family protein	17985
+CHLRE_16g656250v5	U1 small nuclear ribonucleoprotein-70	11093
+CHLRE_16g656400v5	sulfoquinovosyldiacyglycerol 1	6118
+CHLRE_16g656700v5	kinesin 5	10405
+CHLRE_16g657000v5	TBP-associated factor II 15	3134
+CHLRE_16g657300v5	cyclopropyl isomerase	8246
+CHLRE_16g657800v5	carotenoid cleavge dioxgenase 7	464
+CHLRE_16g657850v5	DnaJ / Sec63 Brl domains-containig protein	9540
+CHLRE_16g658600v5	(1 of 1) PTHR14281:SF0 - INETOCHORE PROTEIN SPC25	11550
+CHLRE_16g658650v5	Myosin family protein with Dil domain	10357
+CHLRE_16g659050v5	mgnesium ion bindig;thiamin pyrophosphate bindig;hydro-lyases;catalytics;2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthases	14759
+CHLRE_16g660150v5	Ribosomal protein S10p/S20e family protein	2969
+CHLRE_16g660350v5	zinc ion bindig;nucleic acid bindig;hydrolases, actig on acid anhydrides, in phosphorus-containig anhydrides	15363
+CHLRE_16g660800v5	translocase inner membrane subunit 44-2	17804
+CHLRE_16g661050v5	Ribosomal protein L34e superfamily protein	2915
+CHLRE_16g661100v5	Protein kinase superfamily protein	8829
+CHLRE_16g661350v5	Rubisco methyltransferase family protein	592
+CHLRE_16g662000v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	17679
+CHLRE_16g662300v5	Small nuclear ribonucleoprotein family protein	12622
+CHLRE_16g662800v5	WD-40 repeat family protein / small nuclear ribonucleoprotein Prp4p-related	12662
+CHLRE_16g662902v5	NgB/RpiA/CoA transferase-like superfamily protein	3754
+CHLRE_16g663100v5	Glycosyl transferase family 4 protein	1001
+CHLRE_16g663350v5	CLP protease rgulatory subunit X	3544
+CHLRE_16g663500v5	rgulatory particle non-ATPase 10	3029
+CHLRE_16g663800v5	Nucleotide/sgar transporter family protein	15283
+CHLRE_16g663900v5	hydroxymethylbilane synthase	1749
+CHLRE_16g663950v5	sterol 1	227
+CHLRE_16g664250v5	Pyridoxal-5'-phosphate-dependent enzyme family protein	1738
+CHLRE_16g664301v5	helicases;ATP-dependent helicases;nucleic acid bindig;ATP bindig;DNA-directed DNA polymerases;DNA bindig	2349
+CHLRE_16g664550v5	serine transhydroxymethyltransferase 1	600
+CHLRE_16g664600v5	GRIM-19 protein	11353
+CHLRE_16g664700v5	Surfeit locus 1 cytochrome c oxidase bigenesis protein	14998
+CHLRE_16g665000v5	Proteasome maturation factor UMP1	11599
+CHLRE_16g665400v5	Small nuclear ribonucleoprotein family protein	11087
+CHLRE_16g665600v5	casein kinase alpha 1	3097
+CHLRE_16g665650v5	GTP-bindig protein, HflX	3665
+CHLRE_16g665950v5	minichromosome maintenance 8	10737
+CHLRE_16g666000v5	(1 of 1) PTHR13403 - SNURPORTIN1  RNUT1 PROTEIN   RNA, U TRANSPORTER 1	13151
+CHLRE_16g666100v5	2-thiocytidine tRNA biosynthesis protein, TtcA	14168
+CHLRE_16g666301v5	Ribosomal protein S30 family protein	2983
+CHLRE_16g666334v5	seed imbibition 2	6617
+CHLRE_16g666334v5	seed imbibition 2	6617
+CHLRE_16g667750v5	DNA-directed RNA polymerase II	3015
+CHLRE_16g667850v5	DUTP-PYROPHOSPHATASE-LIE 1	1520
+CHLRE_16g669550v5	cystathionine beta-lyase	1760
+CHLRE_16g669800v5	protein-serine kinase 1	4345
+CHLRE_16g669950v5	(1 of 1) PTHR12154 - GLYCOSYL TRANSFERASE-RELATED	7441
+CHLRE_16g670261v5	ARM repeat superfamily protein	15305
+CHLRE_16g670300v5	Tetratricopeptide repeat (TPR)-like superfamily protein	13217
+CHLRE_16g670617v5	(1 of 1) PTHR12150:SF13 - DUF171 FAMILY PROTEIN	9142
+CHLRE_16g670800v5	tubulin foldig cofactor A (IESEL)	17292
+CHLRE_16g670950v5	Cytochrome c	8906
+CHLRE_16g671000v5	NAD(P)H dehydrgenase C1	17872
+CHLRE_16g671100v5	Proteasome component (PCI) domain protein	12177
+CHLRE_16g671250v5	sodium hydrgen exchager 5	12041
+CHLRE_16g671750v5	ABI3-interactig protein 3	9550
+CHLRE_16g672041v5	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	15429
+CHLRE_16g672150v5	RNA recgnition motif (RRM)-containig protein	13165
+CHLRE_16g672385v5	HISTIDINE BIOSYNTHESIS 6B	817
+CHLRE_16g672650v5	Mitochondrial substrate carrier family protein	15104
+CHLRE_16g672750v5	bindig to TOMV RNA 1L (log form)	14944
+CHLRE_16g672753v5	cyclin-dependent kinase-activatig kinase assembly factor-related / CD-activatig kinase assembly factor-related	10842
+CHLRE_16g672753v5	cyclin-dependent kinase-activatig kinase assembly factor-related / CD-activatig kinase assembly factor-related	10842
+CHLRE_16g672800v5	Glucose-1-phosphate adenylyltransferase family protein	966
+CHLRE_16g673001v5	fatty acid desaturase A	10704
+CHLRE_16g673109v5	mitochondrial acyl carrier protein 2	3955
+CHLRE_16g673150v5	histone deacetylase 9	6067
+CHLRE_16g673281v5	phytanoyl-CoA dioxgenase (PhyH) family protein	477
+CHLRE_16g673600v5	Protein kinase superfamily protein	8850
+CHLRE_16g673650v5	lght harvestig complex of photosystem II 5	8916
+CHLRE_16g673700v5	(1 of 2) PTHR12858 - RIBOSOME BIOGENESIS PROTEIN	14799
+CHLRE_16g673852v5	phosphoenolpyruvate carboxylase 1	1595
+CHLRE_16g673900v5	RNA polymerase III subunit RPC82 family protein	3023
+CHLRE_16g674000v5	Transducin/WD40 repeat-like superfamily protein	11805
+CHLRE_16g674250v5	RNA-bindig (RRM/RBD/RNP motifs) family protein	12893
+CHLRE_16g674964v5	RmlC-like cupins superfamily protein	6911
+CHLRE_16g675301v5	Transducin/WD40 repeat-like superfamily protein	13124
+CHLRE_16g675350v5	tripeptidyl peptidase ii	1280
+CHLRE_16g675602v5	Olgosaccharyltransferase complex/mgnesium transporter family protein	12669
+CHLRE_16g675637v5	small ubiquitin-like modifier 1	12160
+CHLRE_16g675650v5	aldehyde dehydrgenase  6B2	140
+CHLRE_16g675749v5	small ubiquitin-like modifier 1	12160
+CHLRE_16g675850v5	11729 acyl-CoA dehydrgenase-related	249
+CHLRE_16g676050v5	Actin-like ATPase superfamily protein	18584
+CHLRE_16g676197v5	26S proteasome rgulatory subunit S2 1A	3028
+CHLRE_16g676309v5	Protein kinase superfamily protein	8850
+CHLRE_16g676314v5	translation initiation factor 3 subunit H1	3247
+CHLRE_16g676400v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	12811
+CHLRE_16g676757v5	phosphate transporter 2;1	14640
+CHLRE_16g676757v5	phosphate transporter 2;1	14640
+CHLRE_16g677000v5	heat shock protein 91	9489
+CHLRE_16g677026v5	Transketolase family protein	162
+CHLRE_16g677450v5	Galactose mutarotase-like superfamily protein	1792
+CHLRE_16g677500v5	APS-kinase 2	860
+CHLRE_16g677700v5	structural constituent of nuclear pore	14306
+CHLRE_16g677950v5	ARP protein (REF)	7119
+CHLRE_16g678100v5	Vacuolar protein sortig-associated protein VPS28 family protein	12184
+CHLRE_16g678213v5	alpha/beta-Hydrolases superfamily protein	1074
+CHLRE_16g678850v5	hydroxymethyglutaryl-CoA synthase / HMG-CoA synthase / 3-hydroxy-3-methyglutaryl coenzyme A synthase	1641
+CHLRE_16g679200v5	peroxisome 1	13338
+CHLRE_16g679450v5	PIN domain-like family protein	14566
+CHLRE_16g679500v5	NADH-ubiquinone oxidoreductase B8 subunit, putative	3946
+CHLRE_16g679550v5	Serine protease inhibitor (SERPIN) family protein	13963
+CHLRE_16g679600v5	U2 small nuclear ribonucleoprotein A	11092
+CHLRE_16g679669v5	Nucleotide-diphospho-sgar transferases superfamily protein	991
+CHLRE_16g679900v5	5'-3' exoribonuclease 3	12619
+CHLRE_16g679950v5	ATPase family associated with various cellular activities (AAA)	10756
+CHLRE_16g680000v5	delta subunit of Mt ATP synthase	2137
+CHLRE_16g680117v5	receptor homolgy rgion transmembrane domain rig H2 motif protein 1	15692
+CHLRE_16g680230v5	secE/sec61gamma protein transport protein	7342
+CHLRE_16g680900v5	RNA polymerase II lage subunit	3006
+CHLRE_16g680944v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	14539
+CHLRE_16g681238v5	tRNA modification GTPase, putative	3650
+CHLRE_16g681578v5	anaphase-promotig complex subunit 8	3355
+CHLRE_16g681750v5	autoinhibited Ca(2+)-ATPase 9	1537
+CHLRE_16g681750v5	autoinhibited Ca(2+)-ATPase 9	1537
+CHLRE_16g681850v5	uridine kinase/uracil phosphoribosyltransferase 1	876
+CHLRE_16g682050v5	Expressed protein	6928
+CHLRE_16g682050v5	Expressed protein	6928
+CHLRE_16g682100v5	NAD(P)-bindig Rossmann-fold superfamily protein	8081
+CHLRE_16g682300v5	Ribosomal protein S26e family protein	2976
+CHLRE_16g682350v5	IBR domain-containig protein	11968
+CHLRE_16g682350v5	IBR domain-containig protein	11968
+CHLRE_16g682369v5	heavy metal atpase 5	17686
+CHLRE_16g682587v5	Cytochrome c oxidase bigenesis protein Cmc1-like	18172
+CHLRE_16g682900v5	CLP protease proteolytic subunit 2	1358
+CHLRE_16g683437v5	ubiquitin-protein lgases	16278
+CHLRE_16g683500v5	RNA helicase 36	14778
+CHLRE_16g683750v5	Peroxisomal membrane 22 kDa (Mpv17/PMP22) family protein	13348
+CHLRE_16g683850v5	PLC-like phosphodiesterases superfamily protein	1126
+CHLRE_16g683900v5	PLC-like phosphodiesterases superfamily protein	1126
+CHLRE_16g683950v5	sgnal recgnition particle receptor alpha subunit family protein	13431
+CHLRE_16g684155v5	zinc ion bindig	11271
+CHLRE_16g685200v5	nucleotide bindig;nucleic acid bindig;RNA bindig	14787
+CHLRE_16g685217v5	hydroxyproline-richglycoprotein family protein	14307
+CHLRE_16g685277v5	Clathrin adaptor complexes medium subunit family protein	11826
+CHLRE_16g685550v5	O-acetylserine (thiol) lyase isoform C	1738
+CHLRE_16g685900v5	protein aginine methyltransferase 3	11436
+CHLRE_16g685901v5	cellular apoptosis susceptibility protein, putative / importin-alpha re-exporter, putative	18423
+CHLRE_16g686000v5	SWAP (Suppressor-of-White-APricot)/surp domain-containig protein / D111/G-patch domain-containig protein	13096
+CHLRE_16g686200v5	trehalose-6-phosphate synthase	16055
+CHLRE_16g686552v5	(1 of 1) 3.6.1.12 - dCTP diphosphatase / Deoxycytidine-triphosphatase	16904
+CHLRE_16g686900v5	(1 of 1) PTHR13282:SF6 - PROTEIN FAM32A	13120
+CHLRE_16g686950v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	11269
+CHLRE_16g687000v5	iron rgulated 1	14685
+CHLRE_16g687301v5	DNA bindig;ATP bindig;nucleic acid bindig;bindig;helicases;ATP bindig;DNA bindig;helicases	15192
+CHLRE_16g687350v5	acyl-CoA oxidase 3	232
+CHLRE_16g687500v5	actin related protein 2	17260
+CHLRE_16g687518v5	NgB/RpiA/CoA transferase-like superfamily protein	3239
+CHLRE_16g687900v5	photosystem I lght harvestig complexgene 5	8911
+CHLRE_16g687950v5	electron transfer flavoprotein alpha	3522
+CHLRE_16g688302v5	Wound-responsive family protein	8999
+CHLRE_16g688750v5	RED family protein	13109
+CHLRE_16g689050v5	acyl-CoA oxidase 5	232
+CHLRE_16g689647v5	Stabilizer of iron transporter SufD / Polynucleotidyl transferase	11593
+CHLRE_16g689650v5	Ubiquitin-like superfamily protein	8341
+CHLRE_16g689871v5	tRNA synthetase class I (I, L, M and V) family protein	1870
+CHLRE_16g690150v5	ALG6, ALG8glycosyltransferase family	3848
+CHLRE_16g690200v5	inner membrane protein OXA1-like	3217
+CHLRE_16g690500v5	Ribosomal protein L7Ae/L30e/S12e/Gadd45 family protein	11129
+CHLRE_16g691000v5	elogation factor P (EF-P) family protein	2356
+CHLRE_16g691500v5	SEC14 cytosolic factor family protein / phosphglyceride transfer family protein	18470
+CHLRE_16g691552v5	alternative NAD(P)H dehydrgenase 2	17871
+CHLRE_16g691750v5	Acetamidase/Formamidase family protein	1455
+CHLRE_16g691900v5	Pseudouridine synthase family protein	6173
+CHLRE_16g692050v5	syntaxin of plants  32	8490
+CHLRE_16g692400v5	MRG family protein	11339
+CHLRE_16g692550v5	MUTS-like protein 4	8740
+CHLRE_16g692751v5	PDI-like 5-1	13984
+CHLRE_16g693202v5	sulfite reductase	392
+CHLRE_16g693700v5	ubiquitin-conjgatig enzyme 10	6689
+CHLRE_16g693750v5	Transducin/WD40 repeat-like superfamily protein	11462
+CHLRE_16g694204v5	leo1-like family protein	15177
+CHLRE_16g694850v5	aginine biosynthesis protein AgJ family	620
+CHLRE_16g695050v5	multifunctional protein 2	10527
+CHLRE_16g695100v5	acyl-CoA oxidase 4	232
+CHLRE_16g695300v5	nuclear matrix protein-related	12878
+CHLRE_16g695950v5	Mitochondrial substrate carrier family protein	15113
+CHLRE_17g696250v5	eukaryotic translation initiation factor 4G	3260
+CHLRE_17g696250v5	eukaryotic translation initiation factor 4G	3260
+CHLRE_17g696400v5	Ribosomal protein L12/ ATP-dependent Clp protease adaptor protein ClpS family protein	6891
+CHLRE_17g696850v5	HVA22-like protein	17279
+CHLRE_17g697350v5	modifier of snc1,4	12861
+CHLRE_17g697450v5	RNA polymerase I-associated factor PAF67	15029
+CHLRE_17g697624v5	3'-5'-exoribonuclease family protein	12587
+CHLRE_17g697650v5	Prolyl olgopeptidase family protein	1354
+CHLRE_17g697934v5	u70-bindig family protein	18156
+CHLRE_17g697934v5	u70-bindig family protein	18156
+CHLRE_17g698000v5	ATP synthase alpha/beta family protein	2133
+CHLRE_17g698266v5	FRAGILE HISTIDINE TRIAD	1522
+CHLRE_17g698650v5	LOC_Os0g05810gammaglutamyltranspeptidase 1 precursor, putative, expressed	18592
+CHLRE_17g698800v5	Pex2/Pex12 N-terminal domain-containig protein / zinc figer (C3HC4-type RING figer) family protein	6664
+CHLRE_17g698950v5	RNase L inhibitor protein-related	9140
+CHLRE_17g699100v5	Patatin-like phospholipase family protein	14674
+CHLRE_17g699850v5	PLC-like phosphodiesterases superfamily protein	1126
+CHLRE_17g700100v5	Tautomerase/MIF superfamily protein	7253
+CHLRE_17g701200v5	Ribosomal protein L14	2875
+CHLRE_17g701200v5	Ribosomal protein L14	2875
+CHLRE_17g701350v5	Polynucleotidyl transferase, ribonuclease H-like superfamily protein	10743
+CHLRE_17g701350v5	Polynucleotidyl transferase, ribonuclease H-like superfamily protein	10743
+CHLRE_17g701500v5	DNAJ homolgue 3	9503
+CHLRE_17g701650v5	Ribosomal L27e protein family	2901
+CHLRE_17g701700v5	Plant stearoyl-acyl-carrier-protein desaturase family protein	3921
+CHLRE_17g701700v5	Plant stearoyl-acyl-carrier-protein desaturase family protein	3921
+CHLRE_17g702750v5	NAD(P)-bindig Rossmann-fold superfamily protein	4708
+CHLRE_17g703250v5	UDP-N-acetyglucosamine (UAA) transporter family	15281
+CHLRE_17g703700v5	ATP citrate lyase (ACL) family protein	1900
+CHLRE_17g704850v5	adenine phosphoribosyltransferase 5	759
+CHLRE_17g705000v5	calmodulin-domain protein kinase 9	13412
+CHLRE_17g705400v5	proteasome alpha subunit A1	2730
+CHLRE_17g705550v5	THO complex,  subunit 5	13174
+CHLRE_17g706300v5	RAD3-like DNA-bindig helicase protein	10844
+CHLRE_17g706650v5	EAP30/Vps36 family protein	12188
+CHLRE_17g707050v5	RNA bindig (RRM/RBD/RNP motifs) family protein	13093
+CHLRE_17g707300v5	Phospholipidglycerol acyltransferase family protein	13510
+CHLRE_17g708150v5	Histone superfamily protein	11253
+CHLRE_17g708200v5	histone H4	11254
+CHLRE_17g708250v5	ADP-ribosylation factor-like A1D	7955
+CHLRE_17g708300v5	rgulatory particle non-ATPase 12A	3031
+CHLRE_17g708550v5	histone H2A 10	11251
+CHLRE_17g708600v5	Histone superfamily protein	11252
+CHLRE_17g708650v5	histone H4	11254
+CHLRE_17g708700v5	Histone superfamily protein	11253
+CHLRE_17g708800v5	LOC_Os1g42350glutathione synthetase, chloroplast precursor, putative, expressed	1920
+CHLRE_17g709050v5	Histone superfamily protein	11253
+CHLRE_17g709100v5	histone H4	11254
+CHLRE_17g709150v5	Histone superfamily protein	11252
+CHLRE_17g709200v5	histone H2A 10	11251
+CHLRE_17g709350v5	syntaxin of plants 51	8503
+CHLRE_17g709550v5	Zinc figer (C2H2 type) family protein / transcription factor jumonji (jmj) family protein	6709
+CHLRE_17g709950v5	Mo25 family protein	8272
+CHLRE_17g710100v5	Transducin/WD40 repeat-like superfamily protein	14863
+CHLRE_17g710150v5	AAA-type ATPase family protein	3064
+CHLRE_17g710400v5	histone H2A 10	11251
+CHLRE_17g710450v5	Histone superfamily protein	11252
+CHLRE_17g710500v5	histone H4	11254
+CHLRE_17g710550v5	Histone superfamily protein	11253
+CHLRE_17g711050v5	calmodulin bindig;purine nucleotide bindig	15456
+CHLRE_17g711150v5	fatty acid desaturase 2	10256
+CHLRE_17g711700v5	histone H2A 10	11251
+CHLRE_17g711750v5	Histone superfamily protein	11252
+CHLRE_17g711800v5	histone H4	11254
+CHLRE_17g711850v5	Histone superfamily protein	11253
+CHLRE_17g712100v5	monodehydroascorbate reductase 1	8232
+CHLRE_17g712350v5	CAAX amino terminal protease family protein	7052
+CHLRE_17g713400v5	histone H2A 10	11251
+CHLRE_17g713450v5	Histone superfamily protein	11252
+CHLRE_17g713500v5	histone H4	11254
+CHLRE_17g713550v5	Histone superfamily protein	11253
+CHLRE_17g713650v5	MUTS-homolgue 5	8741
+CHLRE_17g713850v5	Trimeric LpxA-like enzymes superfamily protein	640
+CHLRE_17g713900v5	Transducin/WD40 repeat-like superfamily protein	8266
+CHLRE_17g713950v5	Histone superfamily protein	11253
+CHLRE_17g714000v5	histone H4	11254
+CHLRE_17g714050v5	Histone superfamily protein	11252
+CHLRE_17g714100v5	histone H2A 10	11251
+CHLRE_17g714150v5	+ uptake transporter 3	3549
+CHLRE_17g714200v5	+ uptake transporter 3	3549
+CHLRE_17g714450v5	+ uptake transporter 3	3549
+CHLRE_17g714500v5	histone H2A 10	11251
+CHLRE_17g714550v5	Histone superfamily protein	11252
+CHLRE_17g714600v5	histone H4	11254
+CHLRE_17g714650v5	Histone superfamily protein	11253
+CHLRE_17g715250v5	biotin carboxyl carrier protein 2	2160
+CHLRE_17g715350v5	ARF-GAP domain 9	12493
+CHLRE_17g715350v5	ARF-GAP domain 9	12493
+CHLRE_17g715750v5	Transducin/WD40 repeat-like superfamily protein	14004
+CHLRE_17g715900v5	thymidylate synthase 2	13998
+CHLRE_17g716400v5	Zinc figer protein 622	14816
+CHLRE_17g717200v5	TatD related DNase	3424
+CHLRE_17g717300v5	dual specificity protein phosphatase 1	14165
+CHLRE_17g717350v5	isopentenyltransferase 9	791
+CHLRE_17g717800v5	Nucleoporin interactig component (Nup93/Nic96-like) family protein	14309
+CHLRE_17g718300v5	CHY-type/CTCHY-type/RING-type Zinc figer protein	10144
+CHLRE_17g718350v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	12272
+CHLRE_17g718650v5	Transducin/WD40 repeat-like superfamily protein	14841
+CHLRE_17g718850v5	Replication factor-A protein 1-related	7466
+CHLRE_17g719000v5	DEAD/DEAH box RNA helicase family protein	12812
+CHLRE_17g719250v5	CBS domain-containig protein with a domain of unknown function (DUF21)	16302
+CHLRE_17g719450v5	Protein kinase superfamily protein	8850
+CHLRE_17g719900v5	catalytics;carbohydrate kinases;phosphglucan, water dikinases	15535
+CHLRE_17g720050v5	FTSH protease 8	3798
+CHLRE_17g720250v5	lght harvestig complex photosystem II	8915
+CHLRE_17g720950v5	3-oxo-5-alpha-steroid 4-dehydrgenase family protein	12345
+CHLRE_17g721500v5	UDP-Glycosyltransferase superfamily protein	13679
+CHLRE_17g721600v5	Ubiquitin C-terminal hydrolases superfamily protein	12847
+CHLRE_17g721950v5	RING/U-box superfamily protein	11968
+CHLRE_17g722150v5	3-ketoacyl-CoA synthase 4	15397
+CHLRE_17g722200v5	mitochondrial ribosomal protein L11	2867
+CHLRE_17g722500v5	Mannose-P-dolichol utilization defect 1 protein	9660
+CHLRE_17g722800v5	Insulinase (Peptidase family M16) protein	1412
+CHLRE_17g723150v5	endoplasmic reticulum oxidoreductins 2	10950
+CHLRE_17g723350v5	sulfate transporter 4;2	18059
+CHLRE_17g723550v5	myo-inositol monophosphatase like 2	18649
+CHLRE_17g723650v5	peroxisomal 3-ketoacyl-CoA thiolase 3	7513
+CHLRE_17g724150v5	dynamin-related protein 3A	17065
+CHLRE_17g724200v5	RNA recgnition motif (RRM)-containig protein	11090
+CHLRE_17g724300v5	photosystem I subunit	2698
+CHLRE_17g724350v5	20S proteasome alpha subunit E1	2729
+CHLRE_17g724600v5	Pheophorbide a oxgenase family protein with Rieske [2Fe-2S] domain	13071
+CHLRE_17g724600v5	Pheophorbide a oxgenase family protein with Rieske [2Fe-2S] domain	13071
+CHLRE_17g724700v5	Pheophorbide a oxgenase family protein with Rieske [2Fe-2S] domain	13071
+CHLRE_17g724850v5	Transducin family protein / WD-40 repeat family protein	14848
+CHLRE_17g725050v5	Ubiquitin-like superfamily protein	13113
+CHLRE_17g725050v5	Ubiquitin-like superfamily protein	13113
+CHLRE_17g725100v5	DNA topoisomerase, type IA, core	3165
+CHLRE_17g725150v5	ATP bindig cassette subfamily B19	5658
+CHLRE_17g725200v5	ATP bindig cassette subfamily B19	5658
+CHLRE_17g725350v5	calmodulin-bindig protein	8288
+CHLRE_17g725450v5	DDB1-CUL4 associated factor 1	11789
+CHLRE_17g725650v5	Sodium Bile acid symporter family	3453
+CHLRE_17g726050v5	ubiquitin-specific protease 6	11843
+CHLRE_17g726250v5	ATP12 protein-related	7556
+CHLRE_17g726500v5	orgin recgnition complex subunit 4	2606
+CHLRE_17g726650v5	(1 of 1) PTHR13243 - HSPC111 PROTEIN-RELATED	14839
+CHLRE_17g726750v5	3-deoxy-D-arabino-heptulosonate 7-phosphate synthase 1	1626
+CHLRE_17g727650v5	ABC transporter of the mitochondrion 3	5663
+CHLRE_17g727700v5	DEAD box RNA helicase (RH3)	16911
+CHLRE_17g727950v5	26S proteasome rgulatory complex, non-ATPase subcomplex, Rpn2/Psmd1 subunit	3032
+CHLRE_17g728100v5	Peptidase M20/M25/M40 family protein	14664
+CHLRE_17g728150v5	SNARE-like superfamily protein	8516
+CHLRE_17g728200v5	sequence-specific DNA bindig transcription factors;DNA bindig;DNA bindig	11664
+CHLRE_17g728800v5	isocitrate dehydrgenase 1	30
+CHLRE_17g728950v5	cytidine/deoxycytidylate deaminase family protein	11752
+CHLRE_17g729250v5	bindig;RNA bindig	14327
+CHLRE_17g729800v5	63 kDa inner membrane family protein	3217
+CHLRE_17g730200v5	peroxin 7	13341
+CHLRE_17g730950v5	P-loop containig nucleoside triphosphate hydrolases superfamily protein	10394
+CHLRE_17g731050v5	non-intrinsic ABC protein 9	12608
+CHLRE_17g731350v5	NAD(P)-bindig Rossmann-fold superfamily protein	79
+CHLRE_17g731850v5	short-chain dehydrgenase-reductase B	13237
+CHLRE_17g732300v5	Mevalonategalactokinase family protein	18674
+CHLRE_17g732802v5	fumarylacetoacetase, putative	1555
+CHLRE_17g732850v5	electron transport SCO1/SenC family protein	7152
+CHLRE_17g733208v5	Splicig factor, CC1-like	13091
+CHLRE_17g733650v5	biotin F	652
+CHLRE_17g734000v5	Coiled-coil domain-containig protein 55 (DUF2040)	13206
+CHLRE_17g734100v5	adenylosuccinate synthase	1939
+CHLRE_17g734150v5	TIP41-like family protein	17607
+CHLRE_17g734200v5	Pyridoxal phosphate (PLP)-dependent transferases superfamily protein	10206
+CHLRE_17g734400v5	cullin 1	3347
+CHLRE_17g734500v5	vacuolar ATP synthase subunit E1	2150
+CHLRE_17g734516v5	Proteasome component (PCI) domain protein	3039
+CHLRE_17g734548v5	pyruvate orthophosphate dikinase	1006
+CHLRE_17g734628v5	zinc figer (C2H2 type) family protein	14821
+CHLRE_17g734644v5	FAD/NAD(P)-bindig oxidoreductase family protein	511
+CHLRE_17g735400v5	vacuolar protein sortig-associated protein 2.3	12192
+CHLRE_17g735950v5	transthyretin-like protein	13484
+CHLRE_17g736400v5	sister-chromatid cohesion protein 3	6671
+CHLRE_17g736650v5	Peptidase M1 family protein	1256
+CHLRE_17g737250v5	Ribosomal protein S5/Elogation factor G/III/V family protein	12852
+CHLRE_17g738300v5	60S acidic ribosomal protein family	2942
+CHLRE_17g739100v5	RING/U-box superfamily protein	10666
+CHLRE_17g740510v5	CDC27  family protein	3350
+CHLRE_17g741000v5	Translocon-associated protein (TRAP), alpha subunit	13249
+CHLRE_17g741200v5	end bindig protein 1C	10436
+CHLRE_17g741450v5	TCP-1/cpn60 chaperonin family protein	4077
+CHLRE_17g741850v5	RNA-bindig (RRM/RBD/RNP motifs) family protein	12898
+CHLRE_17g744147v5	U5 small nuclear ribonucleoprotein helicase, putative	12854
+CHLRE_17g744447v5	phosphate deficiency response 2	14950
+CHLRE_17g744947v5	tRNA/rRNA methyltransferase (SpoU) family protein	3437
+CHLRE_17g746247v5	SET domain-containig protein	11430
+CHLRE_17g746347v5	uracil dnaglycosylase	3648
+CHLRE_17g746347v5	uracil dnaglycosylase	3648
+CHLRE_17g746597v5	serine carboxypeptidase-like 20	16296
+CHLRE_17g746597v5	serine carboxypeptidase-like 20	16296
+CHLRE_17g746647v5	pumilio 3	17943
+CHLRE_17g746647v5	pumilio 3	17943
+CHLRE_17g747197v5	Arp2/3 complex, 34 kD subunit p34-Arc	5758
+CHLRE_17g747197v5	Arp2/3 complex, 34 kD subunit p34-Arc	5758
+CHLRE_17g747297v5	Peptidyl-tRNA hydrolase II (PTH2) family protein	4794
+CHLRE_18g748947v5	Nucleotide-sgar transporter family protein	15285
+CHLRE_18g749447v5	aspartate kinase-homoserine dehydrgenase ii	12524
+CHLRE_18g749447v5	aspartate kinase-homoserine dehydrgenase ii	12524
+CHLRE_18g749497v5	Glycinamide ribonucleotide (GAR) synthetase	1945
+CHLRE_18g749847v5	mitochondrial lipoamide dehydrgenase 1	382
+CHLRE_18g749847v5	mitochondrial lipoamide dehydrgenase 1	382
+CHLRE_19g750247v5	15-cis-zeta-carotene isomerase	15744
+CHLRE_19g750547v5	NAD(P)H dehydrgenase B2	17871
+CHLRE_19g750547v5	NAD(P)H dehydrgenase B2	17871
+CHLRE_19g750547v5	NAD(P)H dehydrgenase B2	17871
+CHLRE_19g750547v5	NAD(P)H dehydrgenase B2	17871
+CHLRE_19g750597v5	calcium-dependent protein kinase 34	13412
+CHLRE_19g751197v5	ARM repeat superfamily protein	14794
+CHLRE_24g755347v5	RNA helicase family protein	12815
+CHLRE_24g755447v5	Cwf15 / Cwc15 cell cycle control family protein	12863
+CHLRE_24g755647v5	cleavge and polyadenylation specificity factor 30	14404
+CHLRE_26g756797v5	N-terminal nucleophile aminohydrolases (Ntn hydrolases) superfamily protein	2732
+CHLRE_48g761197v5	Ribosomal protein L3 family protein	2906
+CHLRE_50g761397v5	pseudouridine synthase and archaeosine tranglycosylase (PUA) domain-containig protein	7575
+CHLRE_50g761447v5	NOL1/NOP2/sun family protein / antitermination NusB domain-containig protein	3500

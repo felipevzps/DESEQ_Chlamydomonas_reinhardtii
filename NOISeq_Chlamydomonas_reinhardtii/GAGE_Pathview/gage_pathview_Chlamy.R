@@ -1,4 +1,4 @@
-setwd('/home/felipe/Documents/DESEQ_Chlamydomonas_reinhardtii/NOISeq_Chlamydomonas_reinhardtii/GAGE_Pathview')
+setwd('/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/NOISeq_Chlamydomonas_reinhardtii/GAGE_Pathview')
 
 
 if (!require("BiocManager", quietly = TRUE))
@@ -15,7 +15,7 @@ rm(list=ls())
 #Example: Basic Analysis - https://bioconductor.org/packages/2.13/bioc/vignettes/gage/inst/doc/gage.pdf
 
 #Matriz com count
-matrix_tpm=read.table('gseChlamy_counts.salmon_quantmerge_oficial.txt', header=TRUE)
+matrix_tpm=read.table('gseChlamy_counts.salmon_quantmerge_modID.txt', header=TRUE)
 cn=colnames(matrix_tpm)
 hn=grep('CONTROLE', cn, ignore.case = T)
 #adh=grep('ADH', cn, ignore.case = T)
@@ -27,14 +27,38 @@ print(hn)
 print(dcis)
 
 #data(kegg.gs)
+#head(kegg.gs)
 #data(go.gs)
 
-kegg.gs=read.table('gse_onlyKvalues_formatado_invertido.Creinhardtii_281_v5.6.annotation_info.txt', sep = "\t")
-
+kegg.gs=read.csv('gse_onlyKvalues_formatado_todasLinhasPreenchidas.Creinhardtii_281_v5.6.annotation_info.txt', sep="\t", header = FALSE)
+kegg.gs
 lapply(kegg.gs[1:3], head)
+## TEMOS ISSO
+#$V1
+#[1] "CHLRE_01g000300v5" "CHLRE_01g000600v5" "CHLRE_01g000650v5" "CHLRE_01g002200v5" "CHLRE_01g002300v5" "CHLRE_01g002350v5"
+
+#$V2
+#[1] "alpha/beta-Hydrolases superfamily protein"                           "WD-40 repeat family protein / notchless protein, putative"          
+#[3] "Copper amine oxidase family protein"                                 "RNA polymerase Rpb6"                                                
+#[5] "Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein" "NAD(P)-bindig Rossmann-fold superfamily protein"                    
+
+#$V3
+#[1] "13535" "14855" "276"   "3014"  "1802"  "4532" 
+
+## PRECISA FICAR ASSIM
+#$`hsa00010 Glycolysis / Gluconeogenesis`
+#[1] "10327" "124"   "125"   "126"   "127"   "128"  
+
+#$`hsa00020 Citrate cycle (TCA cycle)`
+#[1] "1431" "1737" "1738" "1743" "2271" "3417"
+
+#$`hsa00030 Pentose phosphate pathway`
+#[1] "2203"   "221823" "226"    "229"    "22934"  "230" 
+
+
 
 #UHUU! Tem anotacao da chlamy
-#kegg.gsets("cre")
+kegg.gsets("cre")
 
 kg.hsa=kegg.gsets("cre")
 
@@ -43,10 +67,10 @@ kegg.gs=kg.hsa$kg.sets[kg.hsa$sigmet.idx]
 #save(kegg.gs, file="kegg.sigmet.gsets.RData")
 
 print(kegg.gs)
-gseCre.kegg.p <- gage(matrix_tpm, gsets = kegg.gs,
-                        ref = hn, samp=dcis)
+gseCre.kegg.p <- gage(matrix_tpm, gsets = kegg.gs,ref = hn, samp=dcis)
 
-go.gs #only yhe first 1000 entries
+
+# go.gs #only yhe first 1000 entries
 gse16873.go.p <- gage(gse16873, gsets = go.gs,
                       ref = hn, samp=dcis)
 

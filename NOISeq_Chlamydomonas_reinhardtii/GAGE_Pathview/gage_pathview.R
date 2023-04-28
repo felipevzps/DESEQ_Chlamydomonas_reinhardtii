@@ -1,4 +1,4 @@
-setwd('/home/felipe/Documents/DESEQ_Chlamydomonas_reinhardtii/NOISeq_Chlamydomonas_reinhardtii/GAGE_Pathview')
+setwd('/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/NOISeq_Chlamydomonas_reinhardtii/GAGE_Pathview')
 
 
 if (!require("BiocManager", quietly = TRUE))
@@ -10,16 +10,20 @@ BiocManager::install("gageData")
 library(gage)
 #library(help=gage)
 
+rm(list=ls())
+
 #Example: Basic Analysis - https://bioconductor.org/packages/2.13/bioc/vignettes/gage/inst/doc/gage.pdf
 
 #Matriz com count
 data(gse16873)
+print(gse16873)
 cn=colnames(gse16873)
+#pegar condicoes da matriz com count (hn, adh, dcis)
 hn=grep('HN', cn, ignore.case = T)
 adh=grep('ADH', cn, ignore.case = T)
 dcis=grep('DCIS', cn, ignore.case = T)
 
-#Posicao das samples na Matriz com count
+#Posicao das samples na Matriz com count (condicao dcis)
 print(dcis)
 
 data(kegg.gs)
