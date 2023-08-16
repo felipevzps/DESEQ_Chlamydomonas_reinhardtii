@@ -1,0 +1,125 @@
+                                                                   p.geomean    stat.mean        p.val        q.val set.size
+cre00196 Photosynthesis - antenna proteins                      0.0008232582  3.629958669 2.800979e-19 2.716950e-17       21
+cre00195 Photosynthesis                                         0.0015483717  3.183864341 3.325070e-17 1.612659e-15       33
+cre00860 Porphyrin metabolism                                   0.0484620131  1.676334031 1.553101e-06 5.021694e-05       45
+cre00020 Citrate cycle (TCA cycle)                              0.0868823324  1.377615591 6.472305e-05 1.569534e-03       33
+cre00620 Pyruvate metabolism                                    0.1456820051  1.059742993 1.477789e-03 2.866910e-02       51
+cre01240 Biosynthesis of cofactors                              0.1514642437  1.022362877 1.960865e-03 3.170065e-02      149
+cre00190 Oxidative phosphorylation                              0.2291429850  0.736265224 1.893110e-02 2.623309e-01       71
+cre00910 Nitrogen metabolism                                    0.2488000156  0.691247886 2.765597e-02 3.353286e-01       17
+cre00730 Thiamine metabolism                                    0.2606023010  0.650667153 3.530416e-02 3.805004e-01       13
+cre00640 Propanoate metabolism                                  0.2784283420  0.595380638 4.857471e-02 4.378053e-01       20
+cre04141 Protein processing in endoplasmic reticulum            0.2556960789  0.574047425 5.335429e-02 4.378053e-01       78
+cre01210 2-Oxocarboxylic acid metabolism                        0.2777184152  0.574094418 5.416148e-02 4.378053e-01       29
+cre00900 Terpenoid backbone biosynthesis                        0.3225253987  0.461742582 9.840068e-02 7.342205e-01       22
+cre04016 MAPK signaling pathway - plant                         0.3498673672  0.385611467 1.395180e-01 8.002448e-01       27
+cre00290 Valine, leucine and isoleucine biosynthesis            0.3446738056  0.391573149 1.407836e-01 8.002448e-01       11
+cre03040 Spliceosome                                            0.3385346542  0.376320002 1.445194e-01 8.002448e-01       97
+cre00053 Ascorbate and aldarate metabolism                      0.3520696634  0.373924703 1.484314e-01 8.002448e-01       22
+cre04146 Peroxisome                                             0.3574554811  0.366817323 1.511932e-01 8.002448e-01       43
+cre03050 Proteasome                                             0.3481668802  0.359918794 1.567490e-01 8.002448e-01       36
+cre00785 Lipoic acid metabolism                                 0.3649527631  0.344007160 1.686067e-01 8.021516e-01       21
+cre00513 Various types of N-glycan biosynthesis                 0.3796881404  0.309209793 1.955293e-01 8.021516e-01       15
+cre00970 Aminoacyl-tRNA biosynthesis                            0.3790678018  0.305409454 1.956380e-01 8.021516e-01       38
+cre00480 Glutathione metabolism                                 0.3745391128  0.305268655 1.960575e-01 8.021516e-01       34
+cre00510 N-Glycan biosynthesis                                  0.3898960198  0.279372668 2.175463e-01 8.021516e-01       23
+cre00564 Glycerophospholipid metabolism                         0.3888595147  0.277394193 2.180186e-01 8.021516e-01       33
+cre03060 Protein export                                         0.3908749824  0.258669425 2.346225e-01 8.021516e-01       29
+cre00240 Pyrimidine metabolism                                  0.3994560046  0.250661436 2.404664e-01 8.021516e-01       35
+cre00052 Galactose metabolism                                   0.3998532496  0.253431430 2.409534e-01 8.021516e-01       15
+cre01212 Fatty acid metabolism                                  0.4015659137  0.249822726 2.415507e-01 8.021516e-01       35
+cre00061 Fatty acid biosynthesis                                0.4050408094  0.239918488 2.512633e-01 8.021516e-01       22
+cre00780 Biotin metabolism                                      0.4174492153  0.212155033 2.784535e-01 8.021516e-01       13
+cre00260 Glycine, serine and threonine metabolism               0.4100790231  0.174542614 3.123092e-01 8.021516e-01       35
+cre00770 Pantothenate and CoA biosynthesis                      0.4334378570  0.163464049 3.248720e-01 8.021516e-01       15
+cre00330 Arginine and proline metabolism                        0.4393810213  0.153113511 3.335233e-01 8.021516e-01       38
+cre00071 Fatty acid degradation                                 0.4526819731  0.119768142 3.694091e-01 8.021516e-01       17
+cre00670 One carbon pool by folate                              0.4426911281  0.114018914 3.764779e-01 8.021516e-01       14
+cre00514 Other types of O-glycan biosynthesis                   0.4536110388  0.112769633 3.767151e-01 8.021516e-01       18
+cre00380 Tryptophan metabolism                                  0.4557392531  0.112702422 3.771034e-01 8.021516e-01       15
+cre00360 Phenylalanine metabolism                               0.4565304996  0.111138958 3.788536e-01 8.021516e-01       14
+cre00760 Nicotinate and nicotinamide metabolism                 0.4575637686  0.106910756 3.828412e-01 8.021516e-01       18
+cre00561 Glycerolipid metabolism                                0.4636622256  0.091897295 3.987761e-01 8.021516e-01       20
+cre00340 Histidine metabolism                                   0.4709914888  0.074591605 4.187143e-01 8.021516e-01       10
+cre03020 RNA polymerase                                         0.4712994653  0.069362316 4.230824e-01 8.021516e-01       24
+cre00350 Tyrosine metabolism                                    0.4775287222  0.057192906 4.367668e-01 8.021516e-01       16
+cre01232 Nucleotide metabolism                                  0.4770802816  0.054984061 4.384613e-01 8.021516e-01       44
+cre04122 Sulfur relay system                                    0.4781539393  0.056089623 4.386846e-01 8.021516e-01       10
+cre00790 Folate biosynthesis                                    0.4796350983  0.051653132 4.427095e-01 8.021516e-01       19
+cre04144 Endocytosis                                            0.4708896975  0.050006416 4.441008e-01 8.021516e-01       55
+cre00906 Carotenoid biosynthesis                                0.4836891550  0.040412831 4.555240e-01 8.021516e-01       12
+cre01040 Biosynthesis of unsaturated fatty acids                0.4850805041  0.038242179 4.578866e-01 8.021516e-01       12
+cre03018 RNA degradation                                        0.4808354735  0.032790635 4.632579e-01 8.021516e-01       47
+cre04075 Plant hormone signal transduction                      0.4872163217  0.031622432 4.652482e-01 8.021516e-01       11
+cre00600 Sphingolipid metabolism                                0.4877058321  0.030975194 4.658760e-01 8.021516e-01       12
+cre00562 Inositol phosphate metabolism                          0.4897665954  0.025284293 4.718080e-01 8.021516e-01       23
+cre02010 ABC transporters                                       0.4919044251  0.018945508 4.788531e-01 8.021516e-01       25
+cre03022 Basal transcription factors                            0.4925002003  0.018851563 4.790310e-01 8.021516e-01       19
+cre03008 Ribosome biogenesis in eukaryotes                      0.4900309809  0.011965907 4.866199e-01 8.021516e-01       47
+cre00592 alpha-Linolenic acid metabolism                        0.4977901287  0.004923284 4.945957e-01 8.021516e-01       10
+cre00400 Phenylalanine, tyrosine and tryptophan biosynthesis    0.4983180021  0.003460145 4.961489e-01 8.021516e-01       21
+cre03015 mRNA surveillance pathway                              0.4865109274  0.001769516 4.980485e-01 8.021516e-01       40
+cre00040 Pentose and glucuronate interconversions               0.5018030532 -0.010368731 5.113086e-01 8.021516e-01       13
+cre00563 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis 0.5044473006 -0.011587639 5.127155e-01 8.021516e-01       10
+cre00280 Valine, leucine and isoleucine degradation             0.5085674999 -0.022449332 5.249266e-01 8.082203e-01       17
+cre04130 SNARE interactions in vesicular transport              0.5175857842 -0.047110219 5.520584e-01 8.310502e-01       15
+cre00410 beta-Alanine metabolism                                0.5228382947 -0.059190327 5.651391e-01 8.310502e-01       13
+cre00500 Starch and sucrose metabolism                          0.5229456313 -0.062741271 5.700510e-01 8.310502e-01       48
+cre00130 Ubiquinone and other terpenoid-quinone biosynthesis    0.5252261529 -0.066819396 5.740244e-01 8.310502e-01       21
+cre00740 Riboflavin metabolism                                  0.5348242966 -0.089473049 5.977092e-01 8.432154e-01       12
+cre00100 Steroid biosynthesis                                   0.5288375440 -0.091795389 5.998130e-01 8.432154e-01       10
+cre01250 Biosynthesis of nucleotide sugars                      0.5295651107 -0.138683184 6.518962e-01 9.001934e-01       32
+cre04136 Autophagy - other                                      0.5586903418 -0.151568894 6.633356e-01 9.001934e-01       16
+cre03250 Viral life cycle - HIV-1                               0.5584694153 -0.156673582 6.681848e-01 9.001934e-01       14
+cre00520 Amino sugar and nucleotide sugar metabolism            0.5419628588 -0.171471615 6.852367e-01 9.005958e-01       32
+cre04070 Phosphatidylinositol signaling system                  0.5679594466 -0.182415361 6.953646e-01 9.005958e-01       28
+cre03420 Nucleotide excision repair                             0.5679766563 -0.182866469 6.963369e-01 9.005958e-01       42
+cre03440 Homologous recombination                               0.5781254474 -0.204441858 7.148514e-01 9.123761e-01       15
+cre03410 Base excision repair                                   0.6088576603 -0.283661305 7.862815e-01 9.905104e-01       25
+cre00230 Purine metabolism                                      0.6573153830 -0.407875969 8.750627e-01 1.000000e+00       64
+cre03430 Mismatch repair                                        0.6624890530 -0.438497786 8.877959e-01 1.000000e+00       15
+cre03030 DNA replication                                        0.6914304213 -0.522828004 9.281439e-01 1.000000e+00       30
+cre00270 Cysteine and methionine metabolism                     0.6905296488 -0.524624743 9.301986e-01 1.000000e+00       50
+cre00920 Sulfur metabolism                                      0.6981584705 -0.529222951 9.313483e-01 1.000000e+00       24
+cre00250 Alanine, aspartate and glutamate metabolism            0.7359963466 -0.657257608 9.671753e-01 1.000000e+00       28
+cre00450 Selenocompound metabolism                              0.7483204222 -0.680809138 9.710657e-01 1.000000e+00       14
+cre00010 Glycolysis / Gluconeogenesis                           0.7622754729 -0.721663181 9.786722e-01 1.000000e+00       47
+cre00220 Arginine biosynthesis                                  0.7705713187 -0.760200744 9.830487e-01 1.000000e+00       21
+cre01110 Biosynthesis of secondary metabolites                  0.7974059342 -0.842733259 9.913795e-01 1.000000e+00      418
+cre03013 Nucleocytoplasmic transport                            0.7952298746 -0.855484005 9.919254e-01 1.000000e+00       47
+cre00630 Glyoxylate and dicarboxylate metabolism                0.8182844694 -0.919928989 9.949571e-01 1.000000e+00       41
+cre01230 Biosynthesis of amino acids                            0.8169548062 -0.934087208 9.957824e-01 1.000000e+00      116
+cre04145 Phagosome                                              0.6359727826 -0.966021345 9.962093e-01 1.000000e+00       29
+cre04120 Ubiquitin mediated proteolysis                         0.8425458599 -1.038275369 9.982397e-01 1.000000e+00       49
+cre00051 Fructose and mannose metabolism                        0.8589691412 -1.115922333 9.988278e-01 1.000000e+00       15
+cre00030 Pentose phosphate pathway                              0.8896511744 -1.254532803 9.997351e-01 1.000000e+00       25
+cre01200 Carbon metabolism                                      0.8941125204 -1.257959586 9.998018e-01 1.000000e+00      139
+cre00710 Carbon fixation in photosynthetic organisms            0.9252927303 -1.472499431 9.999779e-01 1.000000e+00       40
+cre03010 Ribosome                                               0.9999982409 -7.616489607 1.000000e+00 1.000000e+00      127
+cre03450 Non-homologous end-joining                                       NA          NaN           NA           NA        4
+cre04712 Circadian rhythm - plant                                         NA          NaN           NA           NA        5
+cre00062 Fatty acid elongation                                            NA          NaN           NA           NA        7
+cre00073 Cutin, suberine and wax biosynthesis                             NA          NaN           NA           NA        2
+cre00232 Caffeine metabolism                                              NA          NaN           NA           NA        2
+cre00261 Monobactam biosynthesis                                          NA          NaN           NA           NA        7
+cre00300 Lysine biosynthesis                                              NA          NaN           NA           NA        8
+cre00310 Lysine degradation                                               NA          NaN           NA           NA        8
+cre00440 Phosphonate and phosphinate metabolism                           NA          NaN           NA           NA        2
+cre00460 Cyanoamino acid metabolism                                       NA          NaN           NA           NA        4
+cre00470 D-Amino acid metabolism                                          NA          NaN           NA           NA        7
+cre00511 Other glycan degradation                                         NA          NaN           NA           NA        2
+cre00523 Polyketide sugar unit biosynthesis                               NA          NaN           NA           NA        2
+cre00524 Neomycin, kanamycin and gentamicin biosynthesis                  NA          NaN           NA           NA        2
+cre00543 Exopolysaccharide biosynthesis                                   NA          NaN           NA           NA        2
+cre00565 Ether lipid metabolism                                           NA          NaN           NA           NA        4
+cre00590 Arachidonic acid metabolism                                      NA          NaN           NA           NA        7
+cre00591 Linoleic acid metabolism                                         NA          NaN           NA           NA        2
+cre00650 Butanoate metabolism                                             NA          NaN           NA           NA        8
+cre00660 C5-Branched dibasic acid metabolism                              NA          NaN           NA           NA        5
+cre00750 Vitamin B6 metabolism                                            NA          NaN           NA           NA        8
+cre00909 Sesquiterpenoid and triterpenoid biosynthesis                    NA          NaN           NA           NA        2
+cre00950 Isoquinoline alkaloid biosynthesis                               NA          NaN           NA           NA        8
+cre00960 Tropane, piperidine and pyridine alkaloid biosynthesis           NA          NaN           NA           NA        8
+cre00966 Glucosinolate biosynthesis                                       NA          NaN           NA           NA        3
+cre00999 Biosynthesis of various plant secondary metabolites              NA          NaN           NA           NA        2
+cre01100 Metabolic pathways                                               NA          NaN           NA           NA      908
