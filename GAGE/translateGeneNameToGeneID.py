@@ -10,9 +10,9 @@ with open('GAGE/Chlamydomonas_reinhardtii.Chlamydomonas_reinhardtii_v5.5.55.gff3
                 for attr in attributes:
                     key, value = attr.strip().split('=')
                     if key == 'ID' and value.startswith('gene:'):
-                        gene_id = value[5:] # Remove 'gene:' prefix, single quotes, and extra whitespace
+                        gene_id = value[5:] # Remove 'gene:' prefix
                     elif key == 'Name':
-                        gene_name = value # Remove single quotes and extra whitespace
+                        gene_name = value
                 if gene_name and gene_id:
                     translate_gene_name[gene_id] = gene_name
 
