@@ -3,7 +3,9 @@
 
 rm(list=ls())
 
-setwd('/home/felipe/Documents/DESEQ_Chlamydomonas_reinhardtii/GAGE')
+getwd()
+
+setwd('/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/GAGE')
 
 if (!require("BiocManager", quietly = TRUE))
   install.packages("BiocManager")
@@ -11,7 +13,8 @@ if (!require("BiocManager", quietly = TRUE))
 BiocManager::install("gage")
 library(gage)
 
-matrix_tpm=read.table('cre_quantmerge_mod_ID.txt', header = T, sep = "\t")
+matrix_tpm=read.table('cre_quantmerge.translatedGeneName.txt', header = T, sep = "\t")
+
 # Remover linhas duplicadas com base na coluna "Name"
 matrix_tpm <- matrix_tpm[!duplicated(matrix_tpm$Name), ]
 matrix_tpm
