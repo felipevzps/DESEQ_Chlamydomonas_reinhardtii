@@ -49,14 +49,17 @@ head(gseCre.kegg.p$greater[, 1:5],4)
 head(gseCre.kegg.p$less[, 1:5],4)
 head(gseCre.kegg.p$stats[, 1:5],400)
 
+# Heatmaps -> arquivo gseCre.kegg.sig.gs.heatmap.pdf
+gseCre.kegg.sig <- sigGeneSet(gseCre.kegg.p, outname = "gseCre.kegg.sig") 
+
 # Capture pathways perturbed towards both directions - only for KEGGs
 gseCre.kegg.p.kegg.2d.p <- gage(matrix_tpm, gsets = kegg.gs,ref = hn, samp=dcis, same.dir = F, compare = "unpaired")
 
 head(gseCre.kegg.p.kegg.2d.p$greater[,1:5],4)
 head(gseCre.kegg.p.kegg.2d.p$stats[,1:5],4)
 
-# Heatmaps -> arquivo gseCre.kegg.teste.gs.heatmap.pdf
-gseCre.kegg.sig <- sigGeneSet(gseCre.kegg.p, outname = "gseCre.kegg.sig") 
+# Heatmaps -> arquivo gseCre.kegg.2d.sig.gs.2d.heatmap.pdf
+gseCre.kegg.2d.sig <- sigGeneSet(gseCre.kegg.p.kegg.2d.p, outname = "gseCre.kegg.2d.sig") 
 
 #tutorial pagina 11 -- continuar estudando.. nao sei direito o que isso faz
 gseCre.kegg.esg.up <- esset.grp(gseCre.kegg.p$greater, matrix_tpm, gsets = kegg.gs, ref=hn, samp=dcis,
