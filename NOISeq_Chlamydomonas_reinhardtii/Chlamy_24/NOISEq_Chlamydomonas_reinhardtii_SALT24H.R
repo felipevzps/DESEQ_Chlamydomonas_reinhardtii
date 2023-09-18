@@ -10,14 +10,21 @@ library(tidyverse)
 
 #tutorial: https://rstudio-pubs-static.s3.amazonaws.com/525119_64c1fe6e1a514b89a1ef26d23bf4aae3.html
 
-setwd("/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/NOISeq_Chlamydomonas_reinhardtii")
+setwd("/home/felipe/Documents/DESEQ_Chlamydomonas_reinhardtii/NOISeq_Chlamydomonas_reinhardtii/Chlamy_24")
+#PC CENA
+#setwd("/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/NOISeq_Chlamydomonas_reinhardtii")
 
 experimentalMatrix<-read.csv("target_without_LOM1.24.1_LOM1.24.2_LOM2.24.1_LOM2.24.3_SALT24H.csv",header=TRUE)
 rownames(experimentalMatrix)<-experimentalMatrix$SampleName
 experimentalMatrix
 
-files <- paste("/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/DESeq2/", experimentalMatrix$SampleName, "/quant.sf",sep="")
-tx2gene<-read.delim("transcript2gene.txt",header=FALSE)
+#PC CENA
+#files <- paste("/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/DESeq2/", experimentalMatrix$SampleName, "/quant.sf",sep="")
+files <- paste("/home/felipe/Documents/DESEQ_Chlamydomonas_reinhardtii/DESeq2/", experimentalMatrix$SampleName, "/quant.sf",sep="")
+#PC CENA
+#tx2gene<-read.delim("transcript2gene.txt",header=FALSE)
+tx2gene<-read.delim("/home/felipe/Documents/DESEQ_Chlamydomonas_reinhardtii/DESeq2/transcript2gene.txt",header=FALSE)
+
 names(files) <- experimentalMatrix$SampleName
 all(file.exists(files))
 
@@ -103,6 +110,8 @@ mynoiseqTech.deg = degenes(mynoiseqTech, q = 0.8, M = NULL)
 #Plot expression with DEGs highlighted in red
 par(mfrow = c(1, 1))
 DE.plot(mynoiseqTech, q = 0.8, graphic = "expr", log.scale = TRUE)
+DE.plot(mynoiseqTech, q = 0.8, graphic = "MD", log.scale = TRUE, title(main = "differential expression (24h)", xlab = "log-fold change", ylab = "absolute value of the difference in expression between conditions"))
+
 
 #export results to archive or for downstream analyses
 #recall that for this particular output, the object mynoiseq.deg was filtered for q>= 0.8. For the complete gene list, use the `degenes` function above and set q = 0.
