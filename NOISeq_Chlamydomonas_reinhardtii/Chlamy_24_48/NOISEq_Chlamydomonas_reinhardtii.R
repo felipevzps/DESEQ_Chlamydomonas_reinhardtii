@@ -108,7 +108,7 @@ mynoiseqTech.deg = degenes(mynoiseqTech, q = 0.8, M = NULL)
 #Plot expression with DEGs highlighted in red
 par(mfrow = c(1, 1))
 DE.plot(mynoiseqTech, q = 0.8, graphic = "expr", log.scale = TRUE)
-DE.plot(mynoiseqTech, q = 0.8, graphic = "MD", log.scale = TRUE, title(main = "teste", xlab = "log-fold change", ylab = "absolute value of the difference in expression between conditions"))
+DE.plot(mynoiseqTech, q = 0.8, graphic = "MD", log.scale = TRUE, title(main = "differential expression (24h vs 48h)", xlab = "log-fold change", ylab = "absolute value of the difference in expression between conditions"))
 ?DE.plot
 
 
