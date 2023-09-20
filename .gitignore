@@ -1,0 +1,9 @@
+1_raw_reads/
+2_fastqc_raw_reads/
+3_trimmed_reads/
+4_fastqc_trimmed_reads/
+5_kraken/
+6_reads_quantfication/
+Creinhardtii_281_v5.6.annotation_info.txt
+DESeq2/gseChlamy_counts.salmon_quantmerge.txt
+OnlyTranscript_GO.Creinhardtii_281_v5.6.annotation_info.txt
