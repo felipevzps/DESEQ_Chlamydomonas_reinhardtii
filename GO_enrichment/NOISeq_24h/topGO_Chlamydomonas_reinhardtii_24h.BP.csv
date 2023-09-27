@@ -1,0 +1,1497 @@
+GO.ID,Term,Annotated,Significant,Expected,classic
+1,GO:0000003,reproduction,1,1,1,1
+2,GO:0000041,transition metal ion transport,7,7,7,1
+3,GO:0000045,autophagosome assembly,1,1,1,1
+4,GO:0000054,ribosomal subunit export from nucleus,1,1,1,1
+5,GO:0000055,ribosomal large subunit export from nucl...,1,1,1,1
+6,GO:0000070,mitotic sister chromatid segregation,7,7,7,1
+7,GO:0000075,cell cycle checkpoint signaling,1,1,1,1
+8,GO:0000079,regulation of cyclin-dependent protein s...,2,2,2,1
+9,GO:0000087,mitotic M phase,1,1,1,1
+10,GO:0000096,sulfur amino acid metabolic process,11,11,11,1
+11,GO:0000097,sulfur amino acid biosynthetic process,8,8,8,1
+12,GO:0000103,sulfate assimilation,3,3,3,1
+13,GO:0000105,histidine biosynthetic process,7,7,7,1
+14,GO:0000154,rRNA modification,2,2,2,1
+15,GO:0000160,phosphorelay signal transduction system,19,19,19,1
+16,GO:0000162,tryptophan biosynthetic process,3,3,3,1
+17,GO:0000226,microtubule cytoskeleton organization,16,16,16,1
+18,GO:0000245,spliceosomal complex assembly,2,2,2,1
+19,GO:0000255,allantoin metabolic process,1,1,1,1
+20,GO:0000256,allantoin catabolic process,1,1,1,1
+21,GO:0000266,mitochondrial fission,1,1,1,1
+22,GO:0000271,polysaccharide biosynthetic process,9,9,9,1
+23,GO:0000272,polysaccharide catabolic process,3,3,3,1
+24,GO:0000278,mitotic cell cycle,11,11,11,1
+25,GO:0000279,M phase,1,1,1,1
+26,GO:0000280,nuclear division,8,8,8,1
+27,GO:0000288,nuclear-transcribed mRNA catabolic proce...,1,1,1,1
+28,GO:0000290,deadenylation-dependent decapping of nuc...,1,1,1,1
+29,GO:0000302,response to reactive oxygen species,2,2,2,1
+30,GO:0000303,response to superoxide,2,2,2,1
+31,GO:0000305,response to oxygen radical,2,2,2,1
+32,GO:0000375,RNA splicing, via transesterification re...,18,18,18,1
+33,GO:0000377,RNA splicing, via transesterification re...,18,18,18,1
+34,GO:0000387,spliceosomal snRNP assembly,2,2,2,1
+35,GO:0000394,RNA splicing, via endonucleolytic cleava...,3,3,3,1
+36,GO:0000398,mRNA splicing, via spliceosome,18,18,18,1
+37,GO:0000413,protein peptidyl-prolyl isomerization,25,25,25,1
+38,GO:0000723,telomere maintenance,6,6,6,1
+39,GO:0000724,double-strand break repair via homologou...,3,3,3,1
+40,GO:0000725,recombinational repair,3,3,3,1
+41,GO:0000737,DNA catabolic process, endonucleolytic,1,1,1,1
+42,GO:0000819,sister chromatid segregation,7,7,7,1
+43,GO:0000902,cell morphogenesis,2,2,2,1
+44,GO:0000910,cytokinesis,3,3,3,1
+45,GO:0000917,division septum assembly,2,2,2,1
+46,GO:0000918,division septum site selection,1,1,1,1
+47,GO:0000956,nuclear-transcribed mRNA catabolic proce...,2,2,2,1
+48,GO:0001505,regulation of neurotransmitter levels,4,4,4,1
+49,GO:0001510,RNA methylation,3,3,3,1
+50,GO:0001522,pseudouridine synthesis,13,13,13,1
+51,GO:0001539,cilium or flagellum-dependent cell motil...,1,1,1,1
+52,GO:0001578,microtubule bundle formation,1,1,1,1
+53,GO:0001659,temperature homeostasis,294,294,294,1
+54,GO:0001932,regulation of protein phosphorylation,7,7,7,1
+55,GO:0001934,positive regulation of protein phosphory...,2,2,2,1
+56,GO:0002097,tRNA wobble base modification,2,2,2,1
+57,GO:0002098,tRNA wobble uridine modification,2,2,2,1
+58,GO:0002181,cytoplasmic translation,3,3,3,1
+59,GO:0002182,cytoplasmic translational elongation,3,3,3,1
+60,GO:0002250,adaptive immune response,1,1,1,1
+61,GO:0002252,immune effector process,1,1,1,1
+62,GO:0002376,immune system process,8,8,8,1
+63,GO:0002437,inflammatory response to antigenic stimu...,1,1,1,1
+64,GO:0002438,acute inflammatory response to antigenic...,1,1,1,1
+65,GO:0002443,leukocyte mediated immunity,1,1,1,1
+66,GO:0002449,lymphocyte mediated immunity,1,1,1,1
+67,GO:0002460,adaptive immune response based on somati...,1,1,1,1
+68,GO:0002524,hypersensitivity,1,1,1,1
+69,GO:0002526,acute inflammatory response,1,1,1,1
+70,GO:0003006,developmental process involved in reprod...,1,1,1,1
+71,GO:0003333,amino acid transmembrane transport,7,7,7,1
+72,GO:0003341,cilium movement,1,1,1,1
+73,GO:0005975,carbohydrate metabolic process,132,132,132,1
+74,GO:0005976,polysaccharide metabolic process,12,12,12,1
+75,GO:0005977,glycogen metabolic process,4,4,4,1
+76,GO:0005978,glycogen biosynthetic process,3,3,3,1
+77,GO:0005980,glycogen catabolic process,1,1,1,1
+78,GO:0005984,disaccharide metabolic process,1,1,1,1
+79,GO:0005991,trehalose metabolic process,1,1,1,1
+80,GO:0005992,trehalose biosynthetic process,1,1,1,1
+81,GO:0005996,monosaccharide metabolic process,15,15,15,1
+82,GO:0006002,fructose 6-phosphate metabolic process,2,2,2,1
+83,GO:0006003,fructose 2,6-bisphosphate metabolic proc...,2,2,2,1
+84,GO:0006006,glucose metabolic process,7,7,7,1
+85,GO:0006011,UDP-glucose metabolic process,1,1,1,1
+86,GO:0006012,galactose metabolic process,3,3,3,1
+87,GO:0006013,mannose metabolic process,1,1,1,1
+88,GO:0006014,D-ribose metabolic process,2,2,2,1
+89,GO:0006020,inositol metabolic process,2,2,2,1
+90,GO:0006021,inositol biosynthetic process,1,1,1,1
+91,GO:0006022,aminoglycan metabolic process,5,5,5,1
+92,GO:0006023,aminoglycan biosynthetic process,1,1,1,1
+93,GO:0006024,glycosaminoglycan biosynthetic process,1,1,1,1
+94,GO:0006026,aminoglycan catabolic process,2,2,2,1
+95,GO:0006029,proteoglycan metabolic process,1,1,1,1
+96,GO:0006030,chitin metabolic process,4,4,4,1
+97,GO:0006032,chitin catabolic process,2,2,2,1
+98,GO:0006040,amino sugar metabolic process,4,4,4,1
+99,GO:0006066,alcohol metabolic process,19,19,19,1
+100,GO:0006067,ethanol metabolic process,2,2,2,1
+101,GO:0006069,ethanol oxidation,2,2,2,1
+102,GO:0006071,glycerol metabolic process,5,5,5,1
+103,GO:0006072,glycerol-3-phosphate metabolic process,7,7,7,1
+104,GO:0006073,cellular glucan metabolic process,10,10,10,1
+105,GO:0006074,(1->3)-beta-D-glucan metabolic process,3,3,3,1
+106,GO:0006075,(1->3)-beta-D-glucan biosynthetic proces...,3,3,3,1
+107,GO:0006081,cellular aldehyde metabolic process,7,7,7,1
+108,GO:0006082,organic acid metabolic process,206,206,206,1
+109,GO:0006083,acetate metabolic process,2,2,2,1
+110,GO:0006084,acetyl-CoA metabolic process,3,3,3,1
+111,GO:0006085,acetyl-CoA biosynthetic process,3,3,3,1
+112,GO:0006086,acetyl-CoA biosynthetic process from pyr...,1,1,1,1
+113,GO:0006089,lactate metabolic process,2,2,2,1
+114,GO:0006090,pyruvate metabolic process,20,20,20,1
+115,GO:0006091,generation of precursor metabolites and ...,96,96,96,1
+116,GO:0006094,gluconeogenesis,4,4,4,1
+117,GO:0006096,glycolytic process,20,20,20,1
+118,GO:0006097,glyoxylate cycle,1,1,1,1
+119,GO:0006098,pentose-phosphate shunt,8,8,8,1
+120,GO:0006099,tricarboxylic acid cycle,11,11,11,1
+121,GO:0006101,citrate metabolic process,1,1,1,1
+122,GO:0006102,isocitrate metabolic process,1,1,1,1
+123,GO:0006108,malate metabolic process,9,9,9,1
+124,GO:0006112,energy reserve metabolic process,4,4,4,1
+125,GO:0006119,oxidative phosphorylation,4,4,4,1
+126,GO:0006122,mitochondrial electron transport, ubiqui...,2,2,2,1
+127,GO:0006123,mitochondrial electron transport, cytoch...,1,1,1,1
+128,GO:0006139,nucleobase-containing compound metabolic...,677,677,677,1
+129,GO:0006144,purine nucleobase metabolic process,4,4,4,1
+130,GO:0006145,purine nucleobase catabolic process,1,1,1,1
+131,GO:0006147,guanine catabolic process,1,1,1,1
+132,GO:0006163,purine nucleotide metabolic process,83,83,83,1
+133,GO:0006164,purine nucleotide biosynthetic process,57,57,57,1
+134,GO:0006165,nucleoside diphosphate phosphorylation,25,25,25,1
+135,GO:0006166,purine ribonucleoside salvage,3,3,3,1
+136,GO:0006168,adenine salvage,1,1,1,1
+137,GO:0006177,GMP biosynthetic process,1,1,1,1
+138,GO:0006182,cGMP biosynthetic process,4,4,4,1
+139,GO:0006183,GTP biosynthetic process,5,5,5,1
+140,GO:0006188,IMP biosynthetic process,6,6,6,1
+141,GO:0006189,'de novo' IMP biosynthetic process,4,4,4,1
+142,GO:0006206,pyrimidine nucleobase metabolic process,7,7,7,1
+143,GO:0006207,'de novo' pyrimidine nucleobase biosynth...,5,5,5,1
+144,GO:0006208,pyrimidine nucleobase catabolic process,1,1,1,1
+145,GO:0006220,pyrimidine nucleotide metabolic process,9,9,9,1
+146,GO:0006221,pyrimidine nucleotide biosynthetic proce...,8,8,8,1
+147,GO:0006222,UMP biosynthetic process,1,1,1,1
+148,GO:0006228,UTP biosynthetic process,5,5,5,1
+149,GO:0006241,CTP biosynthetic process,5,5,5,1
+150,GO:0006259,DNA metabolic process,120,120,120,1
+151,GO:0006260,DNA replication,28,28,28,1
+152,GO:0006261,DNA-templated DNA replication,9,9,9,1
+153,GO:0006265,DNA topological change,3,3,3,1
+154,GO:0006269,DNA replication, synthesis of RNA primer,1,1,1,1
+155,GO:0006270,DNA replication initiation,5,5,5,1
+156,GO:0006275,regulation of DNA replication,1,1,1,1
+157,GO:0006278,RNA-templated DNA biosynthetic process,14,14,14,1
+158,GO:0006281,DNA repair,67,67,67,1
+159,GO:0006282,regulation of DNA repair,1,1,1,1
+160,GO:0006284,base-excision repair,4,4,4,1
+161,GO:0006289,nucleotide-excision repair,9,9,9,1
+162,GO:0006298,mismatch repair,7,7,7,1
+163,GO:0006302,double-strand break repair,8,8,8,1
+164,GO:0006303,double-strand break repair via nonhomolo...,1,1,1,1
+165,GO:0006304,DNA modification,6,6,6,1
+166,GO:0006305,DNA alkylation,5,5,5,1
+167,GO:0006306,DNA methylation,5,5,5,1
+168,GO:0006308,DNA catabolic process,1,1,1,1
+169,GO:0006310,DNA recombination,32,32,32,1
+170,GO:0006325,chromatin organization,29,29,29,1
+171,GO:0006334,nucleosome assembly,25,25,25,1
+172,GO:0006338,chromatin remodeling,29,29,29,1
+173,GO:0006351,transcription, DNA-templated,218,218,218,1
+174,GO:0006352,DNA-templated transcription, initiation,14,14,14,1
+175,GO:0006354,DNA-templated transcription, elongation,6,6,6,1
+176,GO:0006355,regulation of transcription, DNA-templat...,177,177,177,1
+177,GO:0006357,regulation of transcription by RNA polym...,5,5,5,1
+178,GO:0006359,regulation of transcription by RNA polym...,1,1,1,1
+179,GO:0006364,rRNA processing,17,17,17,1
+180,GO:0006366,transcription by RNA polymerase II,16,16,16,1
+181,GO:0006367,transcription initiation from RNA polyme...,7,7,7,1
+182,GO:0006368,transcription elongation from RNA polyme...,4,4,4,1
+183,GO:0006370,7-methylguanosine mRNA capping,1,1,1,1
+184,GO:0006376,mRNA splice site selection,2,2,2,1
+185,GO:0006378,mRNA polyadenylation,2,2,2,1
+186,GO:0006379,mRNA cleavage,2,2,2,1
+187,GO:0006383,transcription by RNA polymerase III,1,1,1,1
+188,GO:0006388,tRNA splicing, via endonucleolytic cleav...,3,3,3,1
+189,GO:0006396,RNA processing,111,111,111,1
+190,GO:0006397,mRNA processing,38,38,38,1
+191,GO:0006399,tRNA metabolic process,63,63,63,1
+192,GO:0006400,tRNA modification,10,10,10,1
+193,GO:0006401,RNA catabolic process,3,3,3,1
+194,GO:0006402,mRNA catabolic process,3,3,3,1
+195,GO:0006403,RNA localization,2,2,2,1
+196,GO:0006405,RNA export from nucleus,1,1,1,1
+197,GO:0006406,mRNA export from nucleus,1,1,1,1
+198,GO:0006412,translation,215,215,215,1
+199,GO:0006413,translational initiation,14,14,14,1
+200,GO:0006414,translational elongation,12,12,12,1
+201,GO:0006415,translational termination,1,1,1,1
+202,GO:0006417,regulation of translation,7,7,7,1
+203,GO:0006418,tRNA aminoacylation for protein translat...,36,36,36,1
+204,GO:0006419,alanyl-tRNA aminoacylation,1,1,1,1
+205,GO:0006420,arginyl-tRNA aminoacylation,1,1,1,1
+206,GO:0006421,asparaginyl-tRNA aminoacylation,1,1,1,1
+207,GO:0006422,aspartyl-tRNA aminoacylation,1,1,1,1
+208,GO:0006423,cysteinyl-tRNA aminoacylation,1,1,1,1
+209,GO:0006424,glutamyl-tRNA aminoacylation,2,2,2,1
+210,GO:0006425,glutaminyl-tRNA aminoacylation,1,1,1,1
+211,GO:0006426,glycyl-tRNA aminoacylation,1,1,1,1
+212,GO:0006427,histidyl-tRNA aminoacylation,1,1,1,1
+213,GO:0006428,isoleucyl-tRNA aminoacylation,2,2,2,1
+214,GO:0006429,leucyl-tRNA aminoacylation,1,1,1,1
+215,GO:0006430,lysyl-tRNA aminoacylation,3,3,3,1
+216,GO:0006431,methionyl-tRNA aminoacylation,2,2,2,1
+217,GO:0006432,phenylalanyl-tRNA aminoacylation,2,2,2,1
+218,GO:0006433,prolyl-tRNA aminoacylation,2,2,2,1
+219,GO:0006434,seryl-tRNA aminoacylation,2,2,2,1
+220,GO:0006435,threonyl-tRNA aminoacylation,2,2,2,1
+221,GO:0006436,tryptophanyl-tRNA aminoacylation,1,1,1,1
+222,GO:0006437,tyrosyl-tRNA aminoacylation,1,1,1,1
+223,GO:0006438,valyl-tRNA aminoacylation,3,3,3,1
+224,GO:0006446,regulation of translational initiation,1,1,1,1
+225,GO:0006448,regulation of translational elongation,5,5,5,1
+226,GO:0006457,protein folding,119,119,119,1
+227,GO:0006464,cellular protein modification process,460,460,460,1
+228,GO:0006465,signal peptide processing,3,3,3,1
+229,GO:0006468,protein phosphorylation,319,319,319,1
+230,GO:0006470,protein dephosphorylation,36,36,36,1
+231,GO:0006473,protein acetylation,3,3,3,1
+232,GO:0006475,internal protein amino acid acetylation,3,3,3,1
+233,GO:0006476,protein deacetylation,3,3,3,1
+234,GO:0006479,protein methylation,4,4,4,1
+235,GO:0006486,protein glycosylation,10,10,10,1
+236,GO:0006487,protein N-linked glycosylation,4,4,4,1
+237,GO:0006488,dolichol-linked oligosaccharide biosynth...,1,1,1,1
+238,GO:0006490,oligosaccharide-lipid intermediate biosy...,1,1,1,1
+239,GO:0006491,N-glycan processing,2,2,2,1
+240,GO:0006497,protein lipidation,4,4,4,1
+241,GO:0006498,N-terminal protein lipidation,1,1,1,1
+242,GO:0006499,N-terminal protein myristoylation,1,1,1,1
+243,GO:0006505,GPI anchor metabolic process,3,3,3,1
+244,GO:0006506,GPI anchor biosynthetic process,3,3,3,1
+245,GO:0006508,proteolysis,160,160,160,1
+246,GO:0006511,ubiquitin-dependent protein catabolic pr...,25,25,25,1
+247,GO:0006518,peptide metabolic process,235,235,235,1
+248,GO:0006520,cellular amino acid metabolic process,135,135,135,1
+249,GO:0006525,arginine metabolic process,4,4,4,1
+250,GO:0006526,arginine biosynthetic process,3,3,3,1
+251,GO:0006528,asparagine metabolic process,2,2,2,1
+252,GO:0006529,asparagine biosynthetic process,2,2,2,1
+253,GO:0006534,cysteine metabolic process,6,6,6,1
+254,GO:0006535,cysteine biosynthetic process from serin...,4,4,4,1
+255,GO:0006536,glutamate metabolic process,1,1,1,1
+256,GO:0006537,glutamate biosynthetic process,1,1,1,1
+257,GO:0006541,glutamine metabolic process,10,10,10,1
+258,GO:0006542,glutamine biosynthetic process,5,5,5,1
+259,GO:0006544,glycine metabolic process,5,5,5,1
+260,GO:0006546,glycine catabolic process,3,3,3,1
+261,GO:0006547,histidine metabolic process,7,7,7,1
+262,GO:0006549,isoleucine metabolic process,1,1,1,1
+263,GO:0006551,leucine metabolic process,3,3,3,1
+264,GO:0006553,lysine metabolic process,6,6,6,1
+265,GO:0006555,methionine metabolic process,5,5,5,1
+266,GO:0006558,L-phenylalanine metabolic process,2,2,2,1
+267,GO:0006559,L-phenylalanine catabolic process,1,1,1,1
+268,GO:0006560,proline metabolic process,6,6,6,1
+269,GO:0006561,proline biosynthetic process,4,4,4,1
+270,GO:0006562,proline catabolic process,2,2,2,1
+271,GO:0006563,L-serine metabolic process,7,7,7,1
+272,GO:0006564,L-serine biosynthetic process,1,1,1,1
+273,GO:0006566,threonine metabolic process,3,3,3,1
+274,GO:0006568,tryptophan metabolic process,5,5,5,1
+275,GO:0006570,tyrosine metabolic process,2,2,2,1
+276,GO:0006571,tyrosine biosynthetic process,1,1,1,1
+277,GO:0006575,cellular modified amino acid metabolic p...,13,13,13,1
+278,GO:0006576,cellular biogenic amine metabolic proces...,9,9,9,1
+279,GO:0006584,catecholamine metabolic process,1,1,1,1
+280,GO:0006586,indolalkylamine metabolic process,5,5,5,1
+281,GO:0006591,ornithine metabolic process,1,1,1,1
+282,GO:0006595,polyamine metabolic process,3,3,3,1
+283,GO:0006596,polyamine biosynthetic process,3,3,3,1
+284,GO:0006605,protein targeting,21,21,21,1
+285,GO:0006606,protein import into nucleus,1,1,1,1
+286,GO:0006612,protein targeting to membrane,10,10,10,1
+287,GO:0006613,cotranslational protein targeting to mem...,7,7,7,1
+288,GO:0006614,SRP-dependent cotranslational protein ta...,7,7,7,1
+289,GO:0006620,post-translational protein targeting to ...,2,2,2,1
+290,GO:0006621,protein retention in ER lumen,3,3,3,1
+291,GO:0006625,protein targeting to peroxisome,2,2,2,1
+292,GO:0006626,protein targeting to mitochondrion,7,7,7,1
+293,GO:0006629,lipid metabolic process,116,116,116,1
+294,GO:0006631,fatty acid metabolic process,23,23,23,1
+295,GO:0006633,fatty acid biosynthetic process,18,18,18,1
+296,GO:0006635,fatty acid beta-oxidation,3,3,3,1
+297,GO:0006637,acyl-CoA metabolic process,3,3,3,1
+298,GO:0006638,neutral lipid metabolic process,1,1,1,1
+299,GO:0006639,acylglycerol metabolic process,1,1,1,1
+300,GO:0006641,triglyceride metabolic process,1,1,1,1
+301,GO:0006643,membrane lipid metabolic process,5,5,5,1
+302,GO:0006644,phospholipid metabolic process,19,19,19,1
+303,GO:0006650,glycerophospholipid metabolic process,11,11,11,1
+304,GO:0006661,phosphatidylinositol biosynthetic proces...,9,9,9,1
+305,GO:0006662,glycerol ether metabolic process,19,19,19,1
+306,GO:0006664,glycolipid metabolic process,4,4,4,1
+307,GO:0006665,sphingolipid metabolic process,1,1,1,1
+308,GO:0006690,icosanoid metabolic process,1,1,1,1
+309,GO:0006691,leukotriene metabolic process,1,1,1,1
+310,GO:0006694,steroid biosynthetic process,7,7,7,1
+311,GO:0006720,isoprenoid metabolic process,17,17,17,1
+312,GO:0006721,terpenoid metabolic process,10,10,10,1
+313,GO:0006725,cellular aromatic compound metabolic pro...,755,755,755,1
+314,GO:0006729,tetrahydrobiopterin biosynthetic process,3,3,3,1
+315,GO:0006730,one-carbon metabolic process,1,1,1,1
+316,GO:0006739,NADP metabolic process,10,10,10,1
+317,GO:0006740,NADPH regeneration,8,8,8,1
+318,GO:0006741,NADP biosynthetic process,2,2,2,1
+319,GO:0006743,ubiquinone metabolic process,4,4,4,1
+320,GO:0006744,ubiquinone biosynthetic process,4,4,4,1
+321,GO:0006749,glutathione metabolic process,4,4,4,1
+322,GO:0006750,glutathione biosynthetic process,3,3,3,1
+323,GO:0006753,nucleoside phosphate metabolic process,139,139,139,1
+324,GO:0006754,ATP biosynthetic process,33,33,33,1
+325,GO:0006757,ATP generation from ADP,20,20,20,1
+326,GO:0006760,folic acid-containing compound metabolic...,7,7,7,1
+327,GO:0006766,vitamin metabolic process,28,28,28,1
+328,GO:0006767,water-soluble vitamin metabolic process,26,26,26,1
+329,GO:0006768,biotin metabolic process,1,1,1,1
+330,GO:0006771,riboflavin metabolic process,8,8,8,1
+331,GO:0006772,thiamine metabolic process,5,5,5,1
+332,GO:0006775,fat-soluble vitamin metabolic process,2,2,2,1
+333,GO:0006777,Mo-molybdopterin cofactor biosynthetic p...,4,4,4,1
+334,GO:0006778,porphyrin-containing compound metabolic ...,25,25,25,1
+335,GO:0006779,porphyrin-containing compound biosynthet...,22,22,22,1
+336,GO:0006783,heme biosynthetic process,3,3,3,1
+337,GO:0006784,heme A biosynthetic process,1,1,1,1
+338,GO:0006787,porphyrin-containing compound catabolic ...,3,3,3,1
+339,GO:0006788,heme oxidation,2,2,2,1
+340,GO:0006790,sulfur compound metabolic process,37,37,37,1
+341,GO:0006793,phosphorus metabolic process,554,554,554,1
+342,GO:0006796,phosphate-containing compound metabolic ...,553,553,553,1
+343,GO:0006801,superoxide metabolic process,9,9,9,1
+344,GO:0006807,nitrogen compound metabolic process,1671,1671,1671,1
+345,GO:0006809,nitric oxide biosynthetic process,1,1,1,1
+346,GO:0006810,transport,409,409,409,1
+347,GO:0006811,ion transport,132,132,132,1
+348,GO:0006812,cation transport,88,88,88,1
+349,GO:0006813,potassium ion transport,21,21,21,1
+350,GO:0006814,sodium ion transport,12,12,12,1
+351,GO:0006816,calcium ion transport,10,10,10,1
+352,GO:0006817,phosphate ion transport,8,8,8,1
+353,GO:0006820,anion transport,21,21,21,1
+354,GO:0006821,chloride transport,2,2,2,1
+355,GO:0006825,copper ion transport,4,4,4,1
+356,GO:0006826,iron ion transport,2,2,2,1
+357,GO:0006835,dicarboxylic acid transport,3,3,3,1
+358,GO:0006839,mitochondrial transport,8,8,8,1
+359,GO:0006855,xenobiotic transmembrane transport,9,9,9,1
+360,GO:0006863,purine nucleobase transport,2,2,2,1
+361,GO:0006865,amino acid transport,7,7,7,1
+362,GO:0006869,lipid transport,4,4,4,1
+363,GO:0006873,cellular ion homeostasis,3,3,3,1
+364,GO:0006875,cellular metal ion homeostasis,3,3,3,1
+365,GO:0006878,cellular copper ion homeostasis,1,1,1,1
+366,GO:0006879,cellular iron ion homeostasis,2,2,2,1
+367,GO:0006884,cell volume homeostasis,1,1,1,1
+368,GO:0006885,regulation of pH,2,2,2,1
+369,GO:0006886,intracellular protein transport,60,60,60,1
+370,GO:0006887,exocytosis,3,3,3,1
+371,GO:0006888,endoplasmic reticulum to Golgi vesicle-m...,3,3,3,1
+372,GO:0006890,retrograde vesicle-mediated transport, G...,1,1,1,1
+373,GO:0006897,endocytosis,3,3,3,1
+374,GO:0006904,vesicle docking involved in exocytosis,2,2,2,1
+375,GO:0006909,phagocytosis,1,1,1,1
+376,GO:0006913,nucleocytoplasmic transport,7,7,7,1
+377,GO:0006914,autophagy,4,4,4,1
+378,GO:0006928,movement of cell or subcellular componen...,41,41,41,1
+379,GO:0006950,response to stress,400,400,400,1
+380,GO:0006952,defense response,15,15,15,1
+381,GO:0006954,inflammatory response,1,1,1,1
+382,GO:0006955,immune response,8,8,8,1
+383,GO:0006974,cellular response to DNA damage stimulus,68,68,68,1
+384,GO:0006979,response to oxidative stress,13,13,13,1
+385,GO:0006996,organelle organization,101,101,101,1
+386,GO:0007005,mitochondrion organization,9,9,9,1
+387,GO:0007006,mitochondrial membrane organization,4,4,4,1
+388,GO:0007007,inner mitochondrial membrane organizatio...,3,3,3,1
+389,GO:0007008,outer mitochondrial membrane organizatio...,1,1,1,1
+390,GO:0007010,cytoskeleton organization,31,31,31,1
+391,GO:0007015,actin filament organization,5,5,5,1
+392,GO:0007017,microtubule-based process,59,59,59,1
+393,GO:0007018,microtubule-based movement,40,40,40,1
+394,GO:0007020,microtubule nucleation,3,3,3,1
+395,GO:0007021,tubulin complex assembly,1,1,1,1
+396,GO:0007023,post-chaperonin tubulin folding pathway,1,1,1,1
+397,GO:0007031,peroxisome organization,3,3,3,1
+398,GO:0007033,vacuole organization,2,2,2,1
+399,GO:0007034,vacuolar transport,4,4,4,1
+400,GO:0007049,cell cycle,32,32,32,1
+401,GO:0007051,spindle organization,6,6,6,1
+402,GO:0007052,mitotic spindle organization,2,2,2,1
+403,GO:0007059,chromosome segregation,7,7,7,1
+404,GO:0007076,mitotic chromosome condensation,5,5,5,1
+405,GO:0007088,regulation of mitotic nuclear division,1,1,1,1
+406,GO:0007091,metaphase/anaphase transition of mitotic...,2,2,2,1
+407,GO:0007093,mitotic cell cycle checkpoint signaling,1,1,1,1
+408,GO:0007094,mitotic spindle assembly checkpoint sign...,1,1,1,1
+409,GO:0007096,regulation of exit from mitosis,1,1,1,1
+410,GO:0007098,centrosome cycle,1,1,1,1
+411,GO:0007154,cell communication,154,154,154,1
+412,GO:0007155,cell adhesion,2,2,2,1
+413,GO:0007165,signal transduction,151,151,151,1
+414,GO:0007166,cell surface receptor signaling pathway,1,1,1,1
+415,GO:0007186,G protein-coupled receptor signaling pat...,8,8,8,1
+416,GO:0007205,protein kinase C-activating G protein-co...,2,2,2,1
+417,GO:0007264,small GTPase mediated signal transductio...,21,21,21,1
+418,GO:0007265,Ras protein signal transduction,1,1,1,1
+419,GO:0007267,cell-cell signaling,1,1,1,1
+420,GO:0007275,multicellular organism development,2,2,2,1
+421,GO:0007276,gamete generation,1,1,1,1
+422,GO:0007281,germ cell development,1,1,1,1
+423,GO:0007292,female gamete generation,1,1,1,1
+424,GO:0007346,regulation of mitotic cell cycle,3,3,3,1
+425,GO:0008033,tRNA processing,26,26,26,1
+426,GO:0008064,regulation of actin polymerization or de...,1,1,1,1
+427,GO:0008104,protein localization,85,85,85,1
+428,GO:0008150,biological_process,3204,3204,3204,1
+429,GO:0008152,metabolic process,2281,2281,2281,1
+430,GO:0008154,actin polymerization or depolymerization,3,3,3,1
+431,GO:0008156,negative regulation of DNA replication,1,1,1,1
+432,GO:0008202,steroid metabolic process,8,8,8,1
+433,GO:0008213,protein alkylation,4,4,4,1
+434,GO:0008272,sulfate transport,5,5,5,1
+435,GO:0008283,cell population proliferation,2,2,2,1
+436,GO:0008299,isoprenoid biosynthetic process,17,17,17,1
+437,GO:0008361,regulation of cell size,1,1,1,1
+438,GO:0008380,RNA splicing,22,22,22,1
+439,GO:0008535,respiratory chain complex IV assembly,1,1,1,1
+440,GO:0008610,lipid biosynthetic process,60,60,60,1
+441,GO:0008612,peptidyl-lysine modification to peptidyl...,1,1,1,1
+442,GO:0008614,pyridoxine metabolic process,2,2,2,1
+443,GO:0008615,pyridoxine biosynthetic process,2,2,2,1
+444,GO:0008616,queuosine biosynthetic process,1,1,1,1
+445,GO:0008643,carbohydrate transport,5,5,5,1
+446,GO:0008652,cellular amino acid biosynthetic process,52,52,52,1
+447,GO:0008654,phospholipid biosynthetic process,15,15,15,1
+448,GO:0009052,pentose-phosphate shunt, non-oxidative b...,2,2,2,1
+449,GO:0009056,catabolic process,119,119,119,1
+450,GO:0009057,macromolecule catabolic process,65,65,65,1
+451,GO:0009058,biosynthetic process,830,830,830,1
+452,GO:0009059,macromolecule biosynthetic process,474,474,474,1
+453,GO:0009060,aerobic respiration,15,15,15,1
+454,GO:0009062,fatty acid catabolic process,3,3,3,1
+455,GO:0009063,cellular amino acid catabolic process,8,8,8,1
+456,GO:0009064,glutamine family amino acid metabolic pr...,21,21,21,1
+457,GO:0009065,glutamine family amino acid catabolic pr...,2,2,2,1
+458,GO:0009066,aspartate family amino acid metabolic pr...,16,16,16,1
+459,GO:0009067,aspartate family amino acid biosynthetic...,13,13,13,1
+460,GO:0009069,serine family amino acid metabolic proce...,12,12,12,1
+461,GO:0009070,serine family amino acid biosynthetic pr...,5,5,5,1
+462,GO:0009071,serine family amino acid catabolic proce...,3,3,3,1
+463,GO:0009072,aromatic amino acid family metabolic pro...,15,15,15,1
+464,GO:0009073,aromatic amino acid family biosynthetic ...,8,8,8,1
+465,GO:0009074,aromatic amino acid family catabolic pro...,1,1,1,1
+466,GO:0009081,branched-chain amino acid metabolic proc...,8,8,8,1
+467,GO:0009082,branched-chain amino acid biosynthetic p...,7,7,7,1
+468,GO:0009084,glutamine family amino acid biosynthetic...,13,13,13,1
+469,GO:0009085,lysine biosynthetic process,6,6,6,1
+470,GO:0009086,methionine biosynthetic process,4,4,4,1
+471,GO:0009088,threonine biosynthetic process,1,1,1,1
+472,GO:0009089,lysine biosynthetic process via diaminop...,6,6,6,1
+473,GO:0009094,L-phenylalanine biosynthetic process,1,1,1,1
+474,GO:0009095,aromatic amino acid family biosynthetic ...,2,2,2,1
+475,GO:0009097,isoleucine biosynthetic process,1,1,1,1
+476,GO:0009098,leucine biosynthetic process,3,3,3,1
+477,GO:0009100,glycoprotein metabolic process,13,13,13,1
+478,GO:0009101,glycoprotein biosynthetic process,11,11,11,1
+479,GO:0009102,biotin biosynthetic process,1,1,1,1
+480,GO:0009110,vitamin biosynthetic process,27,27,27,1
+481,GO:0009112,nucleobase metabolic process,11,11,11,1
+482,GO:0009113,purine nucleobase biosynthetic process,2,2,2,1
+483,GO:0009116,nucleoside metabolic process,12,12,12,1
+484,GO:0009117,nucleotide metabolic process,138,138,138,1
+485,GO:0009119,ribonucleoside metabolic process,4,4,4,1
+486,GO:0009123,nucleoside monophosphate metabolic proce...,9,9,9,1
+487,GO:0009124,nucleoside monophosphate biosynthetic pr...,9,9,9,1
+488,GO:0009126,purine nucleoside monophosphate metaboli...,8,8,8,1
+489,GO:0009127,purine nucleoside monophosphate biosynth...,8,8,8,1
+490,GO:0009129,pyrimidine nucleoside monophosphate meta...,1,1,1,1
+491,GO:0009130,pyrimidine nucleoside monophosphate bios...,1,1,1,1
+492,GO:0009132,nucleoside diphosphate metabolic process,25,25,25,1
+493,GO:0009135,purine nucleoside diphosphate metabolic ...,20,20,20,1
+494,GO:0009141,nucleoside triphosphate metabolic proces...,39,39,39,1
+495,GO:0009142,nucleoside triphosphate biosynthetic pro...,38,38,38,1
+496,GO:0009144,purine nucleoside triphosphate metabolic...,38,38,38,1
+497,GO:0009145,purine nucleoside triphosphate biosynthe...,38,38,38,1
+498,GO:0009147,pyrimidine nucleoside triphosphate metab...,6,6,6,1
+499,GO:0009148,pyrimidine nucleoside triphosphate biosy...,5,5,5,1
+500,GO:0009150,purine ribonucleotide metabolic process,77,77,77,1
+501,GO:0009152,purine ribonucleotide biosynthetic proce...,54,54,54,1
+502,GO:0009156,ribonucleoside monophosphate biosyntheti...,9,9,9,1
+503,GO:0009161,ribonucleoside monophosphate metabolic p...,9,9,9,1
+504,GO:0009163,nucleoside biosynthetic process,4,4,4,1
+505,GO:0009165,nucleotide biosynthetic process,107,107,107,1
+506,GO:0009166,nucleotide catabolic process,3,3,3,1
+507,GO:0009167,purine ribonucleoside monophosphate meta...,8,8,8,1
+508,GO:0009168,purine ribonucleoside monophosphate bios...,8,8,8,1
+509,GO:0009173,pyrimidine ribonucleoside monophosphate ...,1,1,1,1
+510,GO:0009174,pyrimidine ribonucleoside monophosphate ...,1,1,1,1
+511,GO:0009179,purine ribonucleoside diphosphate metabo...,20,20,20,1
+512,GO:0009185,ribonucleoside diphosphate metabolic pro...,20,20,20,1
+513,GO:0009187,cyclic nucleotide metabolic process,42,42,42,1
+514,GO:0009190,cyclic nucleotide biosynthetic process,42,42,42,1
+515,GO:0009199,ribonucleoside triphosphate metabolic pr...,38,38,38,1
+516,GO:0009200,deoxyribonucleoside triphosphate metabol...,1,1,1,1
+517,GO:0009201,ribonucleoside triphosphate biosynthetic...,38,38,38,1
+518,GO:0009205,purine ribonucleoside triphosphate metab...,38,38,38,1
+519,GO:0009206,purine ribonucleoside triphosphate biosy...,38,38,38,1
+520,GO:0009208,pyrimidine ribonucleoside triphosphate m...,5,5,5,1
+521,GO:0009209,pyrimidine ribonucleoside triphosphate b...,5,5,5,1
+522,GO:0009211,pyrimidine deoxyribonucleoside triphosph...,1,1,1,1
+523,GO:0009218,pyrimidine ribonucleotide metabolic proc...,6,6,6,1
+524,GO:0009219,pyrimidine deoxyribonucleotide metabolic...,1,1,1,1
+525,GO:0009220,pyrimidine ribonucleotide biosynthetic p...,6,6,6,1
+526,GO:0009225,nucleotide-sugar metabolic process,3,3,3,1
+527,GO:0009226,nucleotide-sugar biosynthetic process,2,2,2,1
+528,GO:0009228,thiamine biosynthetic process,5,5,5,1
+529,GO:0009231,riboflavin biosynthetic process,8,8,8,1
+530,GO:0009233,menaquinone metabolic process,1,1,1,1
+531,GO:0009234,menaquinone biosynthetic process,1,1,1,1
+532,GO:0009235,cobalamin metabolic process,6,6,6,1
+533,GO:0009236,cobalamin biosynthetic process,5,5,5,1
+534,GO:0009237,siderophore metabolic process,10,10,10,1
+535,GO:0009245,lipid A biosynthetic process,1,1,1,1
+536,GO:0009247,glycolipid biosynthetic process,4,4,4,1
+537,GO:0009250,glucan biosynthetic process,9,9,9,1
+538,GO:0009251,glucan catabolic process,1,1,1,1
+539,GO:0009259,ribonucleotide metabolic process,78,78,78,1
+540,GO:0009260,ribonucleotide biosynthetic process,55,55,55,1
+541,GO:0009262,deoxyribonucleotide metabolic process,1,1,1,1
+542,GO:0009266,response to temperature stimulus,297,297,297,1
+543,GO:0009298,GDP-mannose biosynthetic process,2,2,2,1
+544,GO:0009306,protein secretion,2,2,2,1
+545,GO:0009307,DNA restriction-modification system,1,1,1,1
+546,GO:0009308,amine metabolic process,13,13,13,1
+547,GO:0009309,amine biosynthetic process,6,6,6,1
+548,GO:0009311,oligosaccharide metabolic process,2,2,2,1
+549,GO:0009312,oligosaccharide biosynthetic process,2,2,2,1
+550,GO:0009314,response to radiation,3,3,3,1
+551,GO:0009394,2'-deoxyribonucleotide metabolic process,1,1,1,1
+552,GO:0009395,phospholipid catabolic process,1,1,1,1
+553,GO:0009396,folic acid-containing compound biosynthe...,6,6,6,1
+554,GO:0009401,phosphoenolpyruvate-dependent sugar phos...,3,3,3,1
+555,GO:0009408,response to heat,3,3,3,1
+556,GO:0009409,response to cold,294,294,294,1
+557,GO:0009411,response to UV,1,1,1,1
+558,GO:0009416,response to light stimulus,3,3,3,1
+559,GO:0009435,NAD biosynthetic process,5,5,5,1
+560,GO:0009438,methylglyoxal metabolic process,2,2,2,1
+561,GO:0009443,pyridoxal 5'-phosphate salvage,1,1,1,1
+562,GO:0009445,putrescine metabolic process,1,1,1,1
+563,GO:0009446,putrescine biosynthetic process,1,1,1,1
+564,GO:0009451,RNA modification,28,28,28,1
+565,GO:0009452,7-methylguanosine RNA capping,1,1,1,1
+566,GO:0009581,detection of external stimulus,1,1,1,1
+567,GO:0009582,detection of abiotic stimulus,1,1,1,1
+568,GO:0009583,detection of light stimulus,1,1,1,1
+569,GO:0009605,response to external stimulus,11,11,11,1
+570,GO:0009607,response to biotic stimulus,10,10,10,1
+571,GO:0009615,response to virus,5,5,5,1
+572,GO:0009617,response to bacterium,1,1,1,1
+573,GO:0009628,response to abiotic stimulus,300,300,300,1
+574,GO:0009636,response to toxic substance,3,3,3,1
+575,GO:0009653,anatomical structure morphogenesis,3,3,3,1
+576,GO:0009712,catechol-containing compound metabolic p...,1,1,1,1
+577,GO:0009719,response to endogenous stimulus,8,8,8,1
+578,GO:0009725,response to hormone,8,8,8,1
+579,GO:0009755,hormone-mediated signaling pathway,8,8,8,1
+580,GO:0009765,photosynthesis, light harvesting,24,24,24,1
+581,GO:0009767,photosynthetic electron transport chain,2,2,2,1
+582,GO:0009772,photosynthetic electron transport in pho...,2,2,2,1
+583,GO:0009812,flavonoid metabolic process,1,1,1,1
+584,GO:0009813,flavonoid biosynthetic process,1,1,1,1
+585,GO:0009889,regulation of biosynthetic process,184,184,184,1
+586,GO:0009890,negative regulation of biosynthetic proc...,6,6,6,1
+587,GO:0009891,positive regulation of biosynthetic proc...,1,1,1,1
+588,GO:0009892,negative regulation of metabolic process,10,10,10,1
+589,GO:0009893,positive regulation of metabolic process,5,5,5,1
+590,GO:0009894,regulation of catabolic process,4,4,4,1
+591,GO:0009896,positive regulation of catabolic process,2,2,2,1
+592,GO:0009966,regulation of signal transduction,3,3,3,1
+593,GO:0009968,negative regulation of signal transducti...,1,1,1,1
+594,GO:0009987,cellular process,2394,2394,2394,1
+595,GO:0010024,phytochromobilin biosynthetic process,1,1,1,1
+596,GO:0010033,response to organic substance,9,9,9,1
+597,GO:0010035,response to inorganic substance,6,6,6,1
+598,GO:0010038,response to metal ion,4,4,4,1
+599,GO:0010109,regulation of photosynthesis,1,1,1,1
+600,GO:0010189,vitamin E biosynthetic process,2,2,2,1
+601,GO:0010207,photosystem II assembly,4,4,4,1
+602,GO:0010458,exit from mitosis,1,1,1,1
+603,GO:0010467,gene expression,549,549,549,1
+604,GO:0010468,regulation of gene expression,189,189,189,1
+605,GO:0010498,proteasomal protein catabolic process,3,3,3,1
+606,GO:0010506,regulation of autophagy,1,1,1,1
+607,GO:0010508,positive regulation of autophagy,1,1,1,1
+608,GO:0010556,regulation of macromolecule biosynthetic...,184,184,184,1
+609,GO:0010557,positive regulation of macromolecule bio...,1,1,1,1
+610,GO:0010558,negative regulation of macromolecule bio...,6,6,6,1
+611,GO:0010562,positive regulation of phosphorus metabo...,2,2,2,1
+612,GO:0010564,regulation of cell cycle process,7,7,7,1
+613,GO:0010604,positive regulation of macromolecule met...,4,4,4,1
+614,GO:0010605,negative regulation of macromolecule met...,10,10,10,1
+615,GO:0010608,post-transcriptional regulation of gene ...,8,8,8,1
+616,GO:0010629,negative regulation of gene expression,6,6,6,1
+617,GO:0010639,negative regulation of organelle organiz...,2,2,2,1
+618,GO:0010646,regulation of cell communication,3,3,3,1
+619,GO:0010648,negative regulation of cell communicatio...,1,1,1,1
+620,GO:0010824,regulation of centrosome duplication,1,1,1,1
+621,GO:0010826,negative regulation of centrosome duplic...,1,1,1,1
+622,GO:0010876,lipid localization,4,4,4,1
+623,GO:0010927,cellular component assembly involved in ...,1,1,1,1
+624,GO:0010948,negative regulation of cell cycle proces...,2,2,2,1
+625,GO:0010965,regulation of mitotic sister chromatid s...,2,2,2,1
+626,GO:0010970,transport along microtubule,4,4,4,1
+627,GO:0014070,response to organic cyclic compound,8,8,8,1
+628,GO:0015012,heparan sulfate proteoglycan biosyntheti...,1,1,1,1
+629,GO:0015031,protein transport,77,77,77,1
+630,GO:0015074,DNA integration,6,6,6,1
+631,GO:0015669,gas transport,10,10,10,1
+632,GO:0015671,oxygen transport,10,10,10,1
+633,GO:0015689,molybdate ion transport,1,1,1,1
+634,GO:0015693,magnesium ion transport,1,1,1,1
+635,GO:0015698,inorganic anion transport,18,18,18,1
+636,GO:0015703,chromate transport,1,1,1,1
+637,GO:0015706,nitrate transport,1,1,1,1
+638,GO:0015707,nitrite transport,1,1,1,1
+639,GO:0015711,organic anion transport,3,3,3,1
+640,GO:0015748,organophosphate ester transport,2,2,2,1
+641,GO:0015780,nucleotide-sugar transmembrane transport,1,1,1,1
+642,GO:0015846,polyamine transport,1,1,1,1
+643,GO:0015849,organic acid transport,7,7,7,1
+644,GO:0015851,nucleobase transport,3,3,3,1
+645,GO:0015914,phospholipid transport,2,2,2,1
+646,GO:0015919,peroxisomal membrane transport,2,2,2,1
+647,GO:0015931,nucleobase-containing compound transport,3,3,3,1
+648,GO:0015936,coenzyme A metabolic process,3,3,3,1
+649,GO:0015937,coenzyme A biosynthetic process,2,2,2,1
+650,GO:0015939,pantothenate metabolic process,2,2,2,1
+651,GO:0015940,pantothenate biosynthetic process,2,2,2,1
+652,GO:0015969,guanosine tetraphosphate metabolic proce...,3,3,3,1
+653,GO:0015976,carbon utilization,5,5,5,1
+654,GO:0015977,carbon fixation,6,6,6,1
+655,GO:0015979,photosynthesis,69,69,69,1
+656,GO:0015980,energy derivation by oxidation of organi...,19,19,19,1
+657,GO:0015986,proton motive force-driven ATP synthesis,15,15,15,1
+658,GO:0015994,chlorophyll metabolic process,12,12,12,1
+659,GO:0015995,chlorophyll biosynthetic process,11,11,11,1
+660,GO:0015996,chlorophyll catabolic process,1,1,1,1
+661,GO:0016032,viral process,2,2,2,1
+662,GO:0016037,light absorption,1,1,1,1
+663,GO:0016042,lipid catabolic process,5,5,5,1
+664,GO:0016043,cellular component organization,142,142,142,1
+665,GO:0016051,carbohydrate biosynthetic process,17,17,17,1
+666,GO:0016052,carbohydrate catabolic process,24,24,24,1
+667,GO:0016053,organic acid biosynthetic process,80,80,80,1
+668,GO:0016054,organic acid catabolic process,11,11,11,1
+669,GO:0016055,Wnt signaling pathway,1,1,1,1
+670,GO:0016064,immunoglobulin mediated immune response,1,1,1,1
+671,GO:0016068,type I hypersensitivity,1,1,1,1
+672,GO:0016070,RNA metabolic process,390,390,390,1
+673,GO:0016071,mRNA metabolic process,42,42,42,1
+674,GO:0016072,rRNA metabolic process,17,17,17,1
+675,GO:0016108,tetraterpenoid metabolic process,6,6,6,1
+676,GO:0016109,tetraterpenoid biosynthetic process,6,6,6,1
+677,GO:0016114,terpenoid biosynthetic process,10,10,10,1
+678,GO:0016116,carotenoid metabolic process,6,6,6,1
+679,GO:0016117,carotenoid biosynthetic process,6,6,6,1
+680,GO:0016125,sterol metabolic process,1,1,1,1
+681,GO:0016192,vesicle-mediated transport,47,47,47,1
+682,GO:0016197,endosomal transport,1,1,1,1
+683,GO:0016226,iron-sulfur cluster assembly,8,8,8,1
+684,GO:0016236,macroautophagy,1,1,1,1
+685,GO:0016255,attachment of GPI anchor to protein,1,1,1,1
+686,GO:0016310,phosphorylation,357,357,357,1
+687,GO:0016311,dephosphorylation,39,39,39,1
+688,GO:0016441,post-transcriptional gene silencing,1,1,1,1
+689,GO:0016482,cytosolic transport,1,1,1,1
+690,GO:0016485,protein processing,6,6,6,1
+691,GO:0016558,protein import into peroxisome matrix,2,2,2,1
+692,GO:0016559,peroxisome fission,1,1,1,1
+693,GO:0016560,protein import into peroxisome matrix, d...,1,1,1,1
+694,GO:0016567,protein ubiquitination,23,23,23,1
+695,GO:0016570,histone modification,8,8,8,1
+696,GO:0016573,histone acetylation,3,3,3,1
+697,GO:0016575,histone deacetylation,2,2,2,1
+698,GO:0016579,protein deubiquitination,7,7,7,1
+699,GO:0016925,protein sumoylation,1,1,1,1
+700,GO:0016973,poly(A)+ mRNA export from nucleus,1,1,1,1
+701,GO:0016998,cell wall macromolecule catabolic proces...,7,7,7,1
+702,GO:0017004,cytochrome complex assembly,2,2,2,1
+703,GO:0017038,protein import,10,10,10,1
+704,GO:0017148,negative regulation of translation,3,3,3,1
+705,GO:0017182,peptidyl-diphthamide metabolic process,3,3,3,1
+706,GO:0017183,peptidyl-diphthamide biosynthetic proces...,3,3,3,1
+707,GO:0018106,peptidyl-histidine phosphorylation,8,8,8,1
+708,GO:0018130,heterocycle biosynthetic process,422,422,422,1
+709,GO:0018193,peptidyl-amino acid modification,46,46,46,1
+710,GO:0018196,peptidyl-asparagine modification,3,3,3,1
+711,GO:0018197,peptidyl-aspartic acid modification,1,1,1,1
+712,GO:0018198,peptidyl-cysteine modification,1,1,1,1
+713,GO:0018202,peptidyl-histidine modification,11,11,11,1
+714,GO:0018205,peptidyl-lysine modification,5,5,5,1
+715,GO:0018208,peptidyl-proline modification,25,25,25,1
+716,GO:0018279,protein N-linked glycosylation via aspar...,3,3,3,1
+717,GO:0018339,peptidyl-L-beta-methylthioaspartic acid ...,1,1,1,1
+718,GO:0018377,protein myristoylation,1,1,1,1
+719,GO:0018393,internal peptidyl-lysine acetylation,3,3,3,1
+720,GO:0018394,peptidyl-lysine acetylation,3,3,3,1
+721,GO:0018871,1-aminocyclopropane-1-carboxylate metabo...,2,2,2,1
+722,GO:0018904,ether metabolic process,19,19,19,1
+723,GO:0018958,phenol-containing compound metabolic pro...,2,2,2,1
+724,GO:0019064,fusion of virus membrane with host plasm...,2,2,2,1
+725,GO:0019184,nonribosomal peptide biosynthetic proces...,13,13,13,1
+726,GO:0019219,regulation of nucleobase-containing comp...,183,183,183,1
+727,GO:0019220,regulation of phosphate metabolic proces...,8,8,8,1
+728,GO:0019222,regulation of metabolic process,202,202,202,1
+729,GO:0019243,methylglyoxal catabolic process to D-lac...,2,2,2,1
+730,GO:0019290,siderophore biosynthetic process,10,10,10,1
+731,GO:0019307,mannose biosynthetic process,1,1,1,1
+732,GO:0019310,inositol catabolic process,1,1,1,1
+733,GO:0019318,hexose metabolic process,12,12,12,1
+734,GO:0019319,hexose biosynthetic process,5,5,5,1
+735,GO:0019321,pentose metabolic process,3,3,3,1
+736,GO:0019344,cysteine biosynthetic process,4,4,4,1
+737,GO:0019359,nicotinamide nucleotide biosynthetic pro...,7,7,7,1
+738,GO:0019362,pyridine nucleotide metabolic process,7,7,7,1
+739,GO:0019363,pyridine nucleotide biosynthetic process,7,7,7,1
+740,GO:0019370,leukotriene biosynthetic process,1,1,1,1
+741,GO:0019395,fatty acid oxidation,3,3,3,1
+742,GO:0019400,alditol metabolic process,5,5,5,1
+743,GO:0019419,sulfate reduction,1,1,1,1
+744,GO:0019427,acetyl-CoA biosynthetic process from ace...,2,2,2,1
+745,GO:0019430,removal of superoxide radicals,2,2,2,1
+746,GO:0019432,triglyceride biosynthetic process,1,1,1,1
+747,GO:0019438,aromatic compound biosynthetic process,408,408,408,1
+748,GO:0019439,aromatic compound catabolic process,12,12,12,1
+749,GO:0019464,glycine decarboxylation via glycine clea...,1,1,1,1
+750,GO:0019478,D-amino acid catabolic process,2,2,2,1
+751,GO:0019509,L-methionine salvage from methylthioaden...,1,1,1,1
+752,GO:0019538,protein metabolic process,858,858,858,1
+753,GO:0019566,arabinose metabolic process,1,1,1,1
+754,GO:0019637,organophosphate metabolic process,183,183,183,1
+755,GO:0019646,aerobic electron transport chain,4,4,4,1
+756,GO:0019673,GDP-mannose metabolic process,2,2,2,1
+757,GO:0019674,NAD metabolic process,2,2,2,1
+758,GO:0019684,photosynthesis, light reaction,32,32,32,1
+759,GO:0019692,deoxyribose phosphate metabolic process,1,1,1,1
+760,GO:0019693,ribose phosphate metabolic process,78,78,78,1
+761,GO:0019720,Mo-molybdopterin cofactor metabolic proc...,4,4,4,1
+762,GO:0019724,B cell mediated immunity,1,1,1,1
+763,GO:0019725,cellular homeostasis,60,60,60,1
+764,GO:0019748,secondary metabolic process,12,12,12,1
+765,GO:0019751,polyol metabolic process,11,11,11,1
+766,GO:0019752,carboxylic acid metabolic process,202,202,202,1
+767,GO:0019835,cytolysis,1,1,1,1
+768,GO:0019856,pyrimidine nucleobase biosynthetic proce...,6,6,6,1
+769,GO:0019941,modification-dependent protein catabolic...,25,25,25,1
+770,GO:0019953,sexual reproduction,1,1,1,1
+771,GO:0022402,cell cycle process,19,19,19,1
+772,GO:0022403,cell cycle phase,1,1,1,1
+773,GO:0022406,membrane docking,2,2,2,1
+774,GO:0022411,cellular component disassembly,2,2,2,1
+775,GO:0022412,cellular process involved in reproductio...,1,1,1,1
+776,GO:0022414,reproductive process,1,1,1,1
+777,GO:0022607,cellular component assembly,72,72,72,1
+778,GO:0022613,ribonucleoprotein complex biogenesis,35,35,35,1
+779,GO:0022618,ribonucleoprotein complex assembly,4,4,4,1
+780,GO:0022900,electron transport chain,22,22,22,1
+781,GO:0022904,respiratory electron transport chain,4,4,4,1
+782,GO:0023051,regulation of signaling,3,3,3,1
+783,GO:0023052,signaling,151,151,151,1
+784,GO:0023057,negative regulation of signaling,1,1,1,1
+785,GO:0030001,metal ion transport,59,59,59,1
+786,GO:0030003,cellular cation homeostasis,3,3,3,1
+787,GO:0030029,actin filament-based process,9,9,9,1
+788,GO:0030030,cell projection organization,6,6,6,1
+789,GO:0030031,cell projection assembly,2,2,2,1
+790,GO:0030036,actin cytoskeleton organization,9,9,9,1
+791,GO:0030041,actin filament polymerization,2,2,2,1
+792,GO:0030042,actin filament depolymerization,1,1,1,1
+793,GO:0030071,regulation of mitotic metaphase/anaphase...,2,2,2,1
+794,GO:0030091,protein repair,4,4,4,1
+795,GO:0030111,regulation of Wnt signaling pathway,1,1,1,1
+796,GO:0030150,protein import into mitochondrial matrix,3,3,3,1
+797,GO:0030154,cell differentiation,1,1,1,1
+798,GO:0030163,protein catabolic process,49,49,49,1
+799,GO:0030166,proteoglycan biosynthetic process,1,1,1,1
+800,GO:0030178,negative regulation of Wnt signaling pat...,1,1,1,1
+801,GO:0030198,extracellular matrix organization,1,1,1,1
+802,GO:0030201,heparan sulfate proteoglycan metabolic p...,1,1,1,1
+803,GO:0030203,glycosaminoglycan metabolic process,1,1,1,1
+804,GO:0030258,lipid modification,3,3,3,1
+805,GO:0030261,chromosome condensation,6,6,6,1
+806,GO:0030488,tRNA methylation,1,1,1,1
+807,GO:0030493,bacteriochlorophyll metabolic process,1,1,1,1
+808,GO:0030494,bacteriochlorophyll biosynthetic process,1,1,1,1
+809,GO:0030704,vitelline membrane formation,1,1,1,1
+810,GO:0030705,cytoskeleton-dependent intracellular tra...,4,4,4,1
+811,GO:0030832,regulation of actin filament length,1,1,1,1
+812,GO:0030833,regulation of actin filament polymerizat...,1,1,1,1
+813,GO:0031023,microtubule organizing center organizati...,2,2,2,1
+814,GO:0031047,gene silencing by RNA,1,1,1,1
+815,GO:0031109,microtubule polymerization or depolymeri...,3,3,3,1
+816,GO:0031122,cytoplasmic microtubule organization,2,2,2,1
+817,GO:0031123,RNA 3'-end processing,4,4,4,1
+818,GO:0031124,mRNA 3'-end processing,4,4,4,1
+819,GO:0031163,metallo-sulfur cluster assembly,8,8,8,1
+820,GO:0031167,rRNA methylation,1,1,1,1
+821,GO:0031204,post-translational protein targeting to ...,2,2,2,1
+822,GO:0031297,replication fork processing,1,1,1,1
+823,GO:0031323,regulation of cellular metabolic process,197,197,197,1
+824,GO:0031324,negative regulation of cellular metaboli...,7,7,7,1
+825,GO:0031325,positive regulation of cellular metaboli...,5,5,5,1
+826,GO:0031326,regulation of cellular biosynthetic proc...,184,184,184,1
+827,GO:0031327,negative regulation of cellular biosynth...,6,6,6,1
+828,GO:0031328,positive regulation of cellular biosynth...,1,1,1,1
+829,GO:0031329,regulation of cellular catabolic process,2,2,2,1
+830,GO:0031331,positive regulation of cellular cataboli...,2,2,2,1
+831,GO:0031365,N-terminal protein amino acid modificati...,1,1,1,1
+832,GO:0031399,regulation of protein modification proce...,7,7,7,1
+833,GO:0031401,positive regulation of protein modificat...,2,2,2,1
+834,GO:0031497,chromatin assembly,25,25,25,1
+835,GO:0031503,protein-containing complex localization,5,5,5,1
+836,GO:0031577,spindle checkpoint signaling,1,1,1,1
+837,GO:0032011,ARF protein signal transduction,1,1,1,1
+838,GO:0032012,regulation of ARF protein signal transdu...,1,1,1,1
+839,GO:0032147,activation of protein kinase activity,2,2,2,1
+840,GO:0032200,telomere organization,6,6,6,1
+841,GO:0032259,methylation,18,18,18,1
+842,GO:0032261,purine nucleotide salvage,1,1,1,1
+843,GO:0032264,IMP salvage,1,1,1,1
+844,GO:0032268,regulation of cellular protein metabolic...,14,14,14,1
+845,GO:0032269,negative regulation of cellular protein ...,3,3,3,1
+846,GO:0032270,positive regulation of cellular protein ...,2,2,2,1
+847,GO:0032271,regulation of protein polymerization,1,1,1,1
+848,GO:0032446,protein modification by small protein co...,25,25,25,1
+849,GO:0032501,multicellular organismal process,297,297,297,1
+850,GO:0032502,developmental process,5,5,5,1
+851,GO:0032504,multicellular organism reproduction,1,1,1,1
+852,GO:0032506,cytokinetic process,2,2,2,1
+853,GO:0032507,maintenance of protein location in cell,3,3,3,1
+854,GO:0032535,regulation of cellular component size,2,2,2,1
+855,GO:0032768,regulation of monooxygenase activity,1,1,1,1
+856,GO:0032774,RNA biosynthetic process,219,219,219,1
+857,GO:0032784,regulation of DNA-templated transcriptio...,2,2,2,1
+858,GO:0032786,positive regulation of DNA-templated tra...,1,1,1,1
+859,GO:0032787,monocarboxylic acid metabolic process,51,51,51,1
+860,GO:0032870,cellular response to hormone stimulus,8,8,8,1
+861,GO:0032886,regulation of microtubule-based process,3,3,3,1
+862,GO:0032940,secretion by cell,5,5,5,1
+863,GO:0032954,regulation of cytokinetic process,1,1,1,1
+864,GO:0032955,regulation of division septum assembly,1,1,1,1
+865,GO:0032956,regulation of actin cytoskeleton organiz...,1,1,1,1
+866,GO:0032957,inositol trisphosphate metabolic process,1,1,1,1
+867,GO:0032968,positive regulation of transcription elo...,1,1,1,1
+868,GO:0032970,regulation of actin filament-based proce...,1,1,1,1
+869,GO:0032984,protein-containing complex disassembly,2,2,2,1
+870,GO:0032989,cellular component morphogenesis,1,1,1,1
+871,GO:0033013,tetrapyrrole metabolic process,40,40,40,1
+872,GO:0033014,tetrapyrrole biosynthetic process,36,36,36,1
+873,GO:0033015,tetrapyrrole catabolic process,3,3,3,1
+874,GO:0033036,macromolecule localization,91,91,91,1
+875,GO:0033043,regulation of organelle organization,6,6,6,1
+876,GO:0033044,regulation of chromosome organization,2,2,2,1
+877,GO:0033045,regulation of sister chromatid segregati...,2,2,2,1
+878,GO:0033046,negative regulation of sister chromatid ...,1,1,1,1
+879,GO:0033047,regulation of mitotic sister chromatid s...,1,1,1,1
+880,GO:0033048,negative regulation of mitotic sister ch...,1,1,1,1
+881,GO:0033260,nuclear DNA replication,1,1,1,1
+882,GO:0033365,protein localization to organelle,23,23,23,1
+883,GO:0033554,cellular response to stress,70,70,70,1
+884,GO:0033674,positive regulation of kinase activity,2,2,2,1
+885,GO:0033692,cellular polysaccharide biosynthetic pro...,9,9,9,1
+886,GO:0033750,ribosome localization,1,1,1,1
+887,GO:0033865,nucleoside bisphosphate metabolic proces...,9,9,9,1
+888,GO:0033866,nucleoside bisphosphate biosynthetic pro...,5,5,5,1
+889,GO:0033875,ribonucleoside bisphosphate metabolic pr...,9,9,9,1
+890,GO:0033993,response to lipid,8,8,8,1
+891,GO:0034030,ribonucleoside bisphosphate biosynthetic...,5,5,5,1
+892,GO:0034032,purine nucleoside bisphosphate metabolic...,9,9,9,1
+893,GO:0034033,purine nucleoside bisphosphate biosynthe...,5,5,5,1
+894,GO:0034035,purine ribonucleoside bisphosphate metab...,3,3,3,1
+895,GO:0034219,carbohydrate transmembrane transport,3,3,3,1
+896,GO:0034220,ion transmembrane transport,29,29,29,1
+897,GO:0034227,tRNA thio-modification,2,2,2,1
+898,GO:0034243,regulation of transcription elongation f...,1,1,1,1
+899,GO:0034248,regulation of cellular amide metabolic p...,7,7,7,1
+900,GO:0034249,negative regulation of cellular amide me...,3,3,3,1
+901,GO:0034308,primary alcohol metabolic process,7,7,7,1
+902,GO:0034309,primary alcohol biosynthetic process,5,5,5,1
+903,GO:0034311,diol metabolic process,3,3,3,1
+904,GO:0034312,diol biosynthetic process,3,3,3,1
+905,GO:0034314,Arp2/3 complex-mediated actin nucleation,3,3,3,1
+906,GO:0034404,nucleobase-containing small molecule bio...,4,4,4,1
+907,GO:0034440,lipid oxidation,3,3,3,1
+908,GO:0034453,microtubule anchoring,1,1,1,1
+909,GO:0034470,ncRNA processing,41,41,41,1
+910,GO:0034504,protein localization to nucleus,1,1,1,1
+911,GO:0034508,centromere complex assembly,1,1,1,1
+912,GO:0034599,cellular response to oxidative stress,2,2,2,1
+913,GO:0034613,cellular protein localization,68,68,68,1
+914,GO:0034614,cellular response to reactive oxygen spe...,2,2,2,1
+915,GO:0034637,cellular carbohydrate biosynthetic proce...,11,11,11,1
+916,GO:0034641,cellular nitrogen compound metabolic pro...,949,949,949,1
+917,GO:0034645,cellular macromolecule biosynthetic proc...,239,239,239,1
+918,GO:0034654,nucleobase-containing compound biosynthe...,345,345,345,1
+919,GO:0034655,nucleobase-containing compound catabolic...,7,7,7,1
+920,GO:0034660,ncRNA metabolic process,78,78,78,1
+921,GO:0034728,nucleosome organization,26,26,26,1
+922,GO:0034755,iron ion transmembrane transport,1,1,1,1
+923,GO:0035082,axoneme assembly,1,1,1,1
+924,GO:0035194,post-transcriptional gene silencing by R...,1,1,1,1
+925,GO:0035383,thioester metabolic process,3,3,3,1
+926,GO:0035384,thioester biosynthetic process,3,3,3,1
+927,GO:0035434,copper ion transmembrane transport,5,5,5,1
+928,GO:0035437,maintenance of protein localization in e...,3,3,3,1
+929,GO:0035556,intracellular signal transduction,83,83,83,1
+930,GO:0035592,establishment of protein localization to...,2,2,2,1
+931,GO:0035601,protein deacylation,3,3,3,1
+932,GO:0035735,intraciliary transport involved in ciliu...,1,1,1,1
+933,GO:0035803,egg coat formation,1,1,1,1
+934,GO:0036158,outer dynein arm assembly,1,1,1,1
+935,GO:0036211,protein modification process,460,460,460,1
+936,GO:0036260,RNA capping,1,1,1,1
+937,GO:0039663,membrane fusion involved in viral entry ...,2,2,2,1
+938,GO:0040011,locomotion,2,2,2,1
+939,GO:0042026,protein refolding,11,11,11,1
+940,GO:0042073,intraciliary transport,4,4,4,1
+941,GO:0042126,nitrate metabolic process,2,2,2,1
+942,GO:0042128,nitrate assimilation,2,2,2,1
+943,GO:0042147,retrograde transport, endosome to Golgi,1,1,1,1
+944,GO:0042157,lipoprotein metabolic process,4,4,4,1
+945,GO:0042158,lipoprotein biosynthetic process,4,4,4,1
+946,GO:0042168,heme metabolic process,5,5,5,1
+947,GO:0042176,regulation of protein catabolic process,2,2,2,1
+948,GO:0042180,cellular ketone metabolic process,7,7,7,1
+949,GO:0042181,ketone biosynthetic process,5,5,5,1
+950,GO:0042182,ketone catabolic process,2,2,2,1
+951,GO:0042218,1-aminocyclopropane-1-carboxylate biosyn...,2,2,2,1
+952,GO:0042221,response to chemical,18,18,18,1
+953,GO:0042254,ribosome biogenesis,31,31,31,1
+954,GO:0042255,ribosome assembly,1,1,1,1
+955,GO:0042256,mature ribosome assembly,1,1,1,1
+956,GO:0042273,ribosomal large subunit biogenesis,1,1,1,1
+957,GO:0042278,purine nucleoside metabolic process,3,3,3,1
+958,GO:0042309,homoiothermy,294,294,294,1
+959,GO:0042325,regulation of phosphorylation,8,8,8,1
+960,GO:0042327,positive regulation of phosphorylation,2,2,2,1
+961,GO:0042360,vitamin E metabolic process,2,2,2,1
+962,GO:0042362,fat-soluble vitamin biosynthetic process,2,2,2,1
+963,GO:0042364,water-soluble vitamin biosynthetic proce...,25,25,25,1
+964,GO:0042398,cellular modified amino acid biosyntheti...,11,11,11,1
+965,GO:0042401,cellular biogenic amine biosynthetic pro...,6,6,6,1
+966,GO:0042430,indole-containing compound metabolic pro...,5,5,5,1
+967,GO:0042435,indole-containing compound biosynthetic ...,3,3,3,1
+968,GO:0042440,pigment metabolic process,22,22,22,1
+969,GO:0042450,arginine biosynthetic process via ornith...,1,1,1,1
+970,GO:0042451,purine nucleoside biosynthetic process,3,3,3,1
+971,GO:0042455,ribonucleoside biosynthetic process,4,4,4,1
+972,GO:0042546,cell wall biogenesis,2,2,2,1
+973,GO:0042548,regulation of photosynthesis, light reac...,1,1,1,1
+974,GO:0042549,photosystem II stabilization,1,1,1,1
+975,GO:0042558,pteridine-containing compound metabolic ...,11,11,11,1
+976,GO:0042559,pteridine-containing compound biosynthet...,9,9,9,1
+977,GO:0042592,homeostatic process,357,357,357,1
+978,GO:0042723,thiamine-containing compound metabolic p...,5,5,5,1
+979,GO:0042724,thiamine-containing compound biosyntheti...,5,5,5,1
+980,GO:0042726,flavin-containing compound metabolic pro...,8,8,8,1
+981,GO:0042727,flavin-containing compound biosynthetic ...,8,8,8,1
+982,GO:0042742,defense response to bacterium,1,1,1,1
+983,GO:0042773,ATP synthesis coupled electron transport,3,3,3,1
+984,GO:0042775,mitochondrial ATP synthesis coupled elec...,3,3,3,1
+985,GO:0042816,vitamin B6 metabolic process,5,5,5,1
+986,GO:0042819,vitamin B6 biosynthetic process,5,5,5,1
+987,GO:0042822,pyridoxal phosphate metabolic process,3,3,3,1
+988,GO:0042823,pyridoxal phosphate biosynthetic process,3,3,3,1
+989,GO:0042908,xenobiotic transport,9,9,9,1
+990,GO:0043038,amino acid activation,37,37,37,1
+991,GO:0043039,tRNA aminoacylation,37,37,37,1
+992,GO:0043043,peptide biosynthetic process,230,230,230,1
+993,GO:0043062,extracellular structure organization,1,1,1,1
+994,GO:0043085,positive regulation of catalytic activit...,3,3,3,1
+995,GO:0043094,cellular metabolic compound salvage,7,7,7,1
+996,GO:0043096,purine nucleobase salvage,1,1,1,1
+997,GO:0043101,purine-containing compound salvage,5,5,5,1
+998,GO:0043102,amino acid salvage,1,1,1,1
+999,GO:0043161,proteasome-mediated ubiquitin-dependent ...,3,3,3,1
+1000,GO:0043170,macromolecule metabolic process,1321,1321,1321,1
+1001,GO:0043173,nucleotide salvage,1,1,1,1
+1002,GO:0043174,nucleoside salvage,3,3,3,1
+1003,GO:0043207,response to external biotic stimulus,10,10,10,1
+1004,GO:0043254,regulation of protein-containing complex...,1,1,1,1
+1005,GO:0043401,steroid hormone mediated signaling pathw...,8,8,8,1
+1006,GO:0043412,macromolecule modification,493,493,493,1
+1007,GO:0043413,macromolecule glycosylation,10,10,10,1
+1008,GO:0043414,macromolecule methylation,12,12,12,1
+1009,GO:0043436,oxoacid metabolic process,204,204,204,1
+1010,GO:0043461,proton-transporting ATP synthase complex...,1,1,1,1
+1011,GO:0043467,regulation of generation of precursor me...,1,1,1,1
+1012,GO:0043484,regulation of RNA splicing,2,2,2,1
+1013,GO:0043486,histone exchange,1,1,1,1
+1014,GO:0043487,regulation of RNA stability,1,1,1,1
+1015,GO:0043488,regulation of mRNA stability,1,1,1,1
+1016,GO:0043543,protein acylation,4,4,4,1
+1017,GO:0043545,molybdopterin cofactor metabolic process,4,4,4,1
+1018,GO:0043549,regulation of kinase activity,5,5,5,1
+1019,GO:0043550,regulation of lipid kinase activity,1,1,1,1
+1020,GO:0043574,peroxisomal transport,2,2,2,1
+1021,GO:0043603,cellular amide metabolic process,242,242,242,1
+1022,GO:0043604,amide biosynthetic process,236,236,236,1
+1023,GO:0043605,cellular amide catabolic process,1,1,1,1
+1024,GO:0043631,RNA polyadenylation,2,2,2,1
+1025,GO:0043632,modification-dependent macromolecule cat...,25,25,25,1
+1026,GO:0043647,inositol phosphate metabolic process,1,1,1,1
+1027,GO:0043648,dicarboxylic acid metabolic process,16,16,16,1
+1028,GO:0043650,dicarboxylic acid biosynthetic process,1,1,1,1
+1029,GO:0043933,protein-containing complex organization,57,57,57,1
+1030,GO:0043967,histone H4 acetylation,1,1,1,1
+1031,GO:0043968,histone H2A acetylation,1,1,1,1
+1032,GO:0044036,cell wall macromolecule metabolic proces...,7,7,7,1
+1033,GO:0044042,glucan metabolic process,10,10,10,1
+1034,GO:0044085,cellular component biogenesis,104,104,104,1
+1035,GO:0044087,regulation of cellular component biogene...,2,2,2,1
+1036,GO:0044093,positive regulation of molecular functio...,3,3,3,1
+1037,GO:0044106,cellular amine metabolic process,9,9,9,1
+1038,GO:0044205,'de novo' UMP biosynthetic process,1,1,1,1
+1039,GO:0044237,cellular metabolic process,1793,1793,1793,1
+1040,GO:0044238,primary metabolic process,1785,1785,1785,1
+1041,GO:0044242,cellular lipid catabolic process,4,4,4,1
+1042,GO:0044247,cellular polysaccharide catabolic proces...,1,1,1,1
+1043,GO:0044248,cellular catabolic process,77,77,77,1
+1044,GO:0044249,cellular biosynthetic process,789,789,789,1
+1045,GO:0044255,cellular lipid metabolic process,62,62,62,1
+1046,GO:0044257,cellular protein catabolic process,36,36,36,1
+1047,GO:0044260,cellular macromolecule metabolic process,865,865,865,1
+1048,GO:0044262,cellular carbohydrate metabolic process,23,23,23,1
+1049,GO:0044264,cellular polysaccharide metabolic proces...,10,10,10,1
+1050,GO:0044265,cellular macromolecule catabolic process,47,47,47,1
+1051,GO:0044267,cellular protein metabolic process,727,727,727,1
+1052,GO:0044270,cellular nitrogen compound catabolic pro...,13,13,13,1
+1053,GO:0044271,cellular nitrogen compound biosynthetic ...,651,651,651,1
+1054,GO:0044272,sulfur compound biosynthetic process,20,20,20,1
+1055,GO:0044275,cellular carbohydrate catabolic process,2,2,2,1
+1056,GO:0044281,small molecule metabolic process,417,417,417,1
+1057,GO:0044282,small molecule catabolic process,15,15,15,1
+1058,GO:0044283,small molecule biosynthetic process,122,122,122,1
+1059,GO:0044355,clearance of foreign intracellular DNA,1,1,1,1
+1060,GO:0044419,biological process involved in interspec...,10,10,10,1
+1061,GO:0044550,secondary metabolite biosynthetic proces...,12,12,12,1
+1062,GO:0044728,DNA methylation or demethylation,5,5,5,1
+1063,GO:0044743,protein transmembrane import into intrac...,6,6,6,1
+1064,GO:0044770,cell cycle phase transition,3,3,3,1
+1065,GO:0044772,mitotic cell cycle phase transition,3,3,3,1
+1066,GO:0044782,cilium organization,6,6,6,1
+1067,GO:0044784,metaphase/anaphase transition of cell cy...,2,2,2,1
+1068,GO:0044786,cell cycle DNA replication,1,1,1,1
+1069,GO:0044848,biological phase,1,1,1,1
+1070,GO:0045005,DNA-templated DNA replication maintenanc...,2,2,2,1
+1071,GO:0045010,actin nucleation,3,3,3,1
+1072,GO:0045017,glycerolipid biosynthetic process,10,10,10,1
+1073,GO:0045036,protein targeting to chloroplast,1,1,1,1
+1074,GO:0045038,protein import into chloroplast thylakoi...,1,1,1,1
+1075,GO:0045039,protein insertion into mitochondrial inn...,3,3,3,1
+1076,GO:0045040,protein insertion into mitochondrial out...,1,1,1,1
+1077,GO:0045047,protein targeting to ER,9,9,9,1
+1078,GO:0045087,innate immune response,3,3,3,1
+1079,GO:0045116,protein neddylation,1,1,1,1
+1080,GO:0045184,establishment of protein localization,82,82,82,1
+1081,GO:0045185,maintenance of protein location,3,3,3,1
+1082,GO:0045229,external encapsulating structure organiz...,1,1,1,1
+1083,GO:0045292,mRNA cis splicing, via spliceosome,2,2,2,1
+1084,GO:0045333,cellular respiration,15,15,15,1
+1085,GO:0045454,cell redox homeostasis,57,57,57,1
+1086,GO:0045786,negative regulation of cell cycle,2,2,2,1
+1087,GO:0045839,negative regulation of mitotic nuclear d...,1,1,1,1
+1088,GO:0045841,negative regulation of mitotic metaphase...,1,1,1,1
+1089,GO:0045859,regulation of protein kinase activity,4,4,4,1
+1090,GO:0045860,positive regulation of protein kinase ac...,2,2,2,1
+1091,GO:0045892,negative regulation of transcription, DN...,3,3,3,1
+1092,GO:0045893,positive regulation of transcription, DN...,1,1,1,1
+1093,GO:0045900,negative regulation of translational elo...,2,2,2,1
+1094,GO:0045930,negative regulation of mitotic cell cycl...,1,1,1,1
+1095,GO:0045934,negative regulation of nucleobase-contai...,4,4,4,1
+1096,GO:0045935,positive regulation of nucleobase-contai...,2,2,2,1
+1097,GO:0045937,positive regulation of phosphate metabol...,2,2,2,1
+1098,GO:0045944,positive regulation of transcription by ...,1,1,1,1
+1099,GO:0046031,ADP metabolic process,20,20,20,1
+1100,GO:0046034,ATP metabolic process,59,59,59,1
+1101,GO:0046036,CTP metabolic process,5,5,5,1
+1102,GO:0046037,GMP metabolic process,1,1,1,1
+1103,GO:0046039,GTP metabolic process,5,5,5,1
+1104,GO:0046040,IMP metabolic process,6,6,6,1
+1105,GO:0046049,UMP metabolic process,1,1,1,1
+1106,GO:0046051,UTP metabolic process,5,5,5,1
+1107,GO:0046068,cGMP metabolic process,4,4,4,1
+1108,GO:0046080,dUTP metabolic process,1,1,1,1
+1109,GO:0046083,adenine metabolic process,1,1,1,1
+1110,GO:0046084,adenine biosynthetic process,1,1,1,1
+1111,GO:0046098,guanine metabolic process,1,1,1,1
+1112,GO:0046112,nucleobase biosynthetic process,8,8,8,1
+1113,GO:0046113,nucleobase catabolic process,2,2,2,1
+1114,GO:0046116,queuosine metabolic process,1,1,1,1
+1115,GO:0046128,purine ribonucleoside metabolic process,3,3,3,1
+1116,GO:0046129,purine ribonucleoside biosynthetic proce...,3,3,3,1
+1117,GO:0046146,tetrahydrobiopterin metabolic process,3,3,3,1
+1118,GO:0046148,pigment biosynthetic process,19,19,19,1
+1119,GO:0046149,pigment catabolic process,1,1,1,1
+1120,GO:0046160,heme a metabolic process,1,1,1,1
+1121,GO:0046164,alcohol catabolic process,1,1,1,1
+1122,GO:0046165,alcohol biosynthetic process,9,9,9,1
+1123,GO:0046168,glycerol-3-phosphate catabolic process,4,4,4,1
+1124,GO:0046173,polyol biosynthetic process,4,4,4,1
+1125,GO:0046174,polyol catabolic process,1,1,1,1
+1126,GO:0046184,aldehyde biosynthetic process,3,3,3,1
+1127,GO:0046185,aldehyde catabolic process,3,3,3,1
+1128,GO:0046209,nitric oxide metabolic process,1,1,1,1
+1129,GO:0046219,indolalkylamine biosynthetic process,3,3,3,1
+1130,GO:0046292,formaldehyde metabolic process,1,1,1,1
+1131,GO:0046294,formaldehyde catabolic process,1,1,1,1
+1132,GO:0046348,amino sugar catabolic process,2,2,2,1
+1133,GO:0046351,disaccharide biosynthetic process,1,1,1,1
+1134,GO:0046364,monosaccharide biosynthetic process,5,5,5,1
+1135,GO:0046373,L-arabinose metabolic process,1,1,1,1
+1136,GO:0046390,ribose phosphate biosynthetic process,55,55,55,1
+1137,GO:0046394,carboxylic acid biosynthetic process,74,74,74,1
+1138,GO:0046395,carboxylic acid catabolic process,11,11,11,1
+1139,GO:0046416,D-amino acid metabolic process,2,2,2,1
+1140,GO:0046434,organophosphate catabolic process,8,8,8,1
+1141,GO:0046439,L-cysteine metabolic process,1,1,1,1
+1142,GO:0046451,diaminopimelate metabolic process,6,6,6,1
+1143,GO:0046456,icosanoid biosynthetic process,1,1,1,1
+1144,GO:0046460,neutral lipid biosynthetic process,1,1,1,1
+1145,GO:0046463,acylglycerol biosynthetic process,1,1,1,1
+1146,GO:0046467,membrane lipid biosynthetic process,4,4,4,1
+1147,GO:0046474,glycerophospholipid biosynthetic process,9,9,9,1
+1148,GO:0046483,heterocycle metabolic process,758,758,758,1
+1149,GO:0046486,glycerolipid metabolic process,12,12,12,1
+1150,GO:0046487,glyoxylate metabolic process,1,1,1,1
+1151,GO:0046488,phosphatidylinositol metabolic process,10,10,10,1
+1152,GO:0046493,lipid A metabolic process,1,1,1,1
+1153,GO:0046496,nicotinamide nucleotide metabolic proces...,7,7,7,1
+1154,GO:0046578,regulation of Ras protein signal transdu...,1,1,1,1
+1155,GO:0046605,regulation of centrosome cycle,1,1,1,1
+1156,GO:0046606,negative regulation of centrosome cycle,1,1,1,1
+1157,GO:0046653,tetrahydrofolate metabolic process,1,1,1,1
+1158,GO:0046654,tetrahydrofolate biosynthetic process,1,1,1,1
+1159,GO:0046685,response to arsenic-containing substance,3,3,3,1
+1160,GO:0046700,heterocycle catabolic process,13,13,13,1
+1161,GO:0046785,microtubule polymerization,3,3,3,1
+1162,GO:0046835,carbohydrate phosphorylation,2,2,2,1
+1163,GO:0046836,glycolipid transport,2,2,2,1
+1164,GO:0046854,phosphatidylinositol phosphate biosynthe...,6,6,6,1
+1165,GO:0046903,secretion,5,5,5,1
+1166,GO:0046907,intracellular transport,77,77,77,1
+1167,GO:0046916,cellular transition metal ion homeostasi...,3,3,3,1
+1168,GO:0046937,phytochelatin metabolic process,2,2,2,1
+1169,GO:0046938,phytochelatin biosynthetic process,2,2,2,1
+1170,GO:0046939,nucleotide phosphorylation,29,29,29,1
+1171,GO:0046942,carboxylic acid transport,3,3,3,1
+1172,GO:0048015,phosphatidylinositol-mediated signaling,1,1,1,1
+1173,GO:0048017,inositol lipid-mediated signaling,1,1,1,1
+1174,GO:0048024,regulation of mRNA splicing, via spliceo...,2,2,2,1
+1175,GO:0048033,heme O metabolic process,1,1,1,1
+1176,GO:0048034,heme O biosynthetic process,1,1,1,1
+1177,GO:0048193,Golgi vesicle transport,6,6,6,1
+1178,GO:0048278,vesicle docking,2,2,2,1
+1179,GO:0048285,organelle fission,10,10,10,1
+1180,GO:0048468,cell development,1,1,1,1
+1181,GO:0048477,oogenesis,1,1,1,1
+1182,GO:0048478,replication fork protection,1,1,1,1
+1183,GO:0048518,positive regulation of biological proces...,5,5,5,1
+1184,GO:0048519,negative regulation of biological proces...,13,13,13,1
+1185,GO:0048522,positive regulation of cellular process,5,5,5,1
+1186,GO:0048523,negative regulation of cellular process,10,10,10,1
+1187,GO:0048545,response to steroid hormone,8,8,8,1
+1188,GO:0048583,regulation of response to stimulus,4,4,4,1
+1189,GO:0048585,negative regulation of response to stimu...,1,1,1,1
+1190,GO:0048609,multicellular organismal reproductive pr...,1,1,1,1
+1191,GO:0048646,anatomical structure formation involved ...,1,1,1,1
+1192,GO:0048856,anatomical structure development,5,5,5,1
+1193,GO:0048869,cellular developmental process,1,1,1,1
+1194,GO:0048870,cell motility,2,2,2,1
+1195,GO:0048871,multicellular organismal homeostasis,294,294,294,1
+1196,GO:0048878,chemical homeostasis,6,6,6,1
+1197,GO:0050657,nucleic acid transport,2,2,2,1
+1198,GO:0050658,RNA transport,2,2,2,1
+1199,GO:0050684,regulation of mRNA processing,2,2,2,1
+1200,GO:0050779,RNA destabilization,1,1,1,1
+1201,GO:0050789,regulation of biological process,388,388,388,1
+1202,GO:0050790,regulation of catalytic activity,7,7,7,1
+1203,GO:0050794,regulation of cellular process,383,383,383,1
+1204,GO:0050801,ion homeostasis,6,6,6,1
+1205,GO:0050826,response to freezing,294,294,294,1
+1206,GO:0050829,defense response to Gram-negative bacter...,1,1,1,1
+1207,GO:0050896,response to stimulus,551,551,551,1
+1208,GO:0050999,regulation of nitric-oxide synthase acti...,1,1,1,1
+1209,GO:0051028,mRNA transport,2,2,2,1
+1210,GO:0051052,regulation of DNA metabolic process,2,2,2,1
+1211,GO:0051053,negative regulation of DNA metabolic pro...,1,1,1,1
+1212,GO:0051056,regulation of small GTPase mediated sign...,1,1,1,1
+1213,GO:0051090,regulation of DNA-binding transcription ...,1,1,1,1
+1214,GO:0051128,regulation of cellular component organiz...,7,7,7,1
+1215,GO:0051129,negative regulation of cellular componen...,2,2,2,1
+1216,GO:0051156,glucose 6-phosphate metabolic process,9,9,9,1
+1217,GO:0051168,nuclear export,2,2,2,1
+1218,GO:0051169,nuclear transport,7,7,7,1
+1219,GO:0051170,import into nucleus,1,1,1,1
+1220,GO:0051171,regulation of nitrogen compound metaboli...,196,196,196,1
+1221,GO:0051172,negative regulation of nitrogen compound...,7,7,7,1
+1222,GO:0051173,positive regulation of nitrogen compound...,4,4,4,1
+1223,GO:0051174,regulation of phosphorus metabolic proce...,8,8,8,1
+1224,GO:0051179,localization,419,419,419,1
+1225,GO:0051189,prosthetic group metabolic process,4,4,4,1
+1226,GO:0051202,phytochromobilin metabolic process,1,1,1,1
+1227,GO:0051204,protein insertion into mitochondrial mem...,4,4,4,1
+1228,GO:0051205,protein insertion into membrane,9,9,9,1
+1229,GO:0051225,spindle assembly,4,4,4,1
+1230,GO:0051234,establishment of localization,414,414,414,1
+1231,GO:0051235,maintenance of location,3,3,3,1
+1232,GO:0051236,establishment of RNA localization,2,2,2,1
+1233,GO:0051246,regulation of protein metabolic process,16,16,16,1
+1234,GO:0051247,positive regulation of protein metabolic...,2,2,2,1
+1235,GO:0051248,negative regulation of protein metabolic...,3,3,3,1
+1236,GO:0051252,regulation of RNA metabolic process,181,181,181,1
+1237,GO:0051253,negative regulation of RNA metabolic pro...,3,3,3,1
+1238,GO:0051254,positive regulation of RNA metabolic pro...,2,2,2,1
+1239,GO:0051258,protein polymerization,9,9,9,1
+1240,GO:0051259,protein complex oligomerization,6,6,6,1
+1241,GO:0051260,protein homooligomerization,5,5,5,1
+1242,GO:0051261,protein depolymerization,1,1,1,1
+1243,GO:0051262,protein tetramerization,1,1,1,1
+1244,GO:0051273,beta-glucan metabolic process,3,3,3,1
+1245,GO:0051274,beta-glucan biosynthetic process,3,3,3,1
+1246,GO:0051276,chromosome organization,49,49,49,1
+1247,GO:0051298,centrosome duplication,1,1,1,1
+1248,GO:0051301,cell division,3,3,3,1
+1249,GO:0051304,chromosome separation,2,2,2,1
+1250,GO:0051306,mitotic sister chromatid separation,2,2,2,1
+1251,GO:0051338,regulation of transferase activity,5,5,5,1
+1252,GO:0051341,regulation of oxidoreductase activity,1,1,1,1
+1253,GO:0051347,positive regulation of transferase activ...,2,2,2,1
+1254,GO:0051382,kinetochore assembly,1,1,1,1
+1255,GO:0051383,kinetochore organization,1,1,1,1
+1256,GO:0051493,regulation of cytoskeleton organization,4,4,4,1
+1257,GO:0051494,negative regulation of cytoskeleton orga...,1,1,1,1
+1258,GO:0051596,methylglyoxal catabolic process,2,2,2,1
+1259,GO:0051603,proteolysis involved in cellular protein...,36,36,36,1
+1260,GO:0051604,protein maturation,7,7,7,1
+1261,GO:0051606,detection of stimulus,1,1,1,1
+1262,GO:0051607,defense response to virus,5,5,5,1
+1263,GO:0051640,organelle localization,3,3,3,1
+1264,GO:0051641,cellular localization,87,87,87,1
+1265,GO:0051649,establishment of localization in cell,77,77,77,1
+1266,GO:0051651,maintenance of location in cell,3,3,3,1
+1267,GO:0051656,establishment of organelle localization,1,1,1,1
+1268,GO:0051668,localization within membrane,19,19,19,1
+1269,GO:0051674,localization of cell,2,2,2,1
+1270,GO:0051707,response to other organism,10,10,10,1
+1271,GO:0051716,cellular response to stimulus,222,222,222,1
+1272,GO:0051726,regulation of cell cycle,10,10,10,1
+1273,GO:0051783,regulation of nuclear division,1,1,1,1
+1274,GO:0051784,negative regulation of nuclear division,1,1,1,1
+1275,GO:0051983,regulation of chromosome segregation,2,2,2,1
+1276,GO:0051985,negative regulation of chromosome segreg...,1,1,1,1
+1277,GO:0052646,alditol phosphate metabolic process,7,7,7,1
+1278,GO:0052652,cyclic purine nucleotide metabolic proce...,4,4,4,1
+1279,GO:0055065,metal ion homeostasis,4,4,4,1
+1280,GO:0055067,monovalent inorganic cation homeostasis,2,2,2,1
+1281,GO:0055070,copper ion homeostasis,2,2,2,1
+1282,GO:0055072,iron ion homeostasis,2,2,2,1
+1283,GO:0055076,transition metal ion homeostasis,4,4,4,1
+1284,GO:0055080,cation homeostasis,6,6,6,1
+1285,GO:0055082,cellular chemical homeostasis,3,3,3,1
+1286,GO:0055085,transmembrane transport,187,187,187,1
+1287,GO:0055086,nucleobase-containing small molecule met...,160,160,160,1
+1288,GO:0060003,copper ion export,2,2,2,1
+1289,GO:0060070,canonical Wnt signaling pathway,1,1,1,1
+1290,GO:0060236,regulation of mitotic spindle organizati...,2,2,2,1
+1291,GO:0060255,regulation of macromolecule metabolic pr...,199,199,199,1
+1292,GO:0060271,cilium assembly,2,2,2,1
+1293,GO:0060828,regulation of canonical Wnt signaling pa...,1,1,1,1
+1294,GO:0061013,regulation of mRNA catabolic process,1,1,1,1
+1295,GO:0061014,positive regulation of mRNA catabolic pr...,1,1,1,1
+1296,GO:0061024,membrane organization,11,11,11,1
+1297,GO:0061025,membrane fusion,2,2,2,1
+1298,GO:0061157,mRNA destabilization,1,1,1,1
+1299,GO:0061727,methylglyoxal catabolic process to lacta...,2,2,2,1
+1300,GO:0061919,process utilizing autophagic mechanism,4,4,4,1
+1301,GO:0062197,cellular response to chemical stress,2,2,2,1
+1302,GO:0065002,intracellular protein transmembrane tran...,8,8,8,1
+1303,GO:0065003,protein-containing complex assembly,54,54,54,1
+1304,GO:0065004,protein-DNA complex assembly,26,26,26,1
+1305,GO:0065007,biological regulation,659,659,659,1
+1306,GO:0065008,regulation of biological quality,362,362,362,1
+1307,GO:0065009,regulation of molecular function,8,8,8,1
+1308,GO:0070071,proton-transporting two-sector ATPase co...,1,1,1,1
+1309,GO:0070085,glycosylation,10,10,10,1
+1310,GO:0070286,axonemal dynein complex assembly,1,1,1,1
+1311,GO:0070481,nuclear-transcribed mRNA catabolic proce...,1,1,1,1
+1312,GO:0070507,regulation of microtubule cytoskeleton o...,2,2,2,1
+1313,GO:0070585,protein localization to mitochondrion,7,7,7,1
+1314,GO:0070588,calcium ion transmembrane transport,9,9,9,1
+1315,GO:0070646,protein modification by small protein re...,7,7,7,1
+1316,GO:0070647,protein modification by small protein co...,32,32,32,1
+1317,GO:0070727,cellular macromolecule localization,68,68,68,1
+1318,GO:0070887,cellular response to chemical stimulus,11,11,11,1
+1319,GO:0070925,organelle assembly,9,9,9,1
+1320,GO:0070966,nuclear-transcribed mRNA catabolic proce...,1,1,1,1
+1321,GO:0070972,protein localization to endoplasmic reti...,12,12,12,1
+1322,GO:0071025,RNA surveillance,1,1,1,1
+1323,GO:0071103,DNA conformation change,3,3,3,1
+1324,GO:0071173,spindle assembly checkpoint signaling,1,1,1,1
+1325,GO:0071174,mitotic spindle checkpoint signaling,1,1,1,1
+1326,GO:0071265,L-methionine biosynthetic process,1,1,1,1
+1327,GO:0071267,L-methionine salvage,1,1,1,1
+1328,GO:0071310,cellular response to organic substance,8,8,8,1
+1329,GO:0071383,cellular response to steroid hormone sti...,8,8,8,1
+1330,GO:0071396,cellular response to lipid,8,8,8,1
+1331,GO:0071407,cellular response to organic cyclic comp...,8,8,8,1
+1332,GO:0071450,cellular response to oxygen radical,2,2,2,1
+1333,GO:0071451,cellular response to superoxide,2,2,2,1
+1334,GO:0071495,cellular response to endogenous stimulus,8,8,8,1
+1335,GO:0071554,cell wall organization or biogenesis,9,9,9,1
+1336,GO:0071586,CAAX-box protein processing,1,1,1,1
+1337,GO:0071616,acyl-CoA biosynthetic process,3,3,3,1
+1338,GO:0071692,protein localization to extracellular re...,2,2,2,1
+1339,GO:0071702,organic substance transport,102,102,102,1
+1340,GO:0071704,organic substance metabolic process,1939,1939,1939,1
+1341,GO:0071705,nitrogen compound transport,102,102,102,1
+1342,GO:0071805,potassium ion transmembrane transport,3,3,3,1
+1343,GO:0071806,protein transmembrane transport,8,8,8,1
+1344,GO:0071824,protein-DNA complex subunit organization,27,27,27,1
+1345,GO:0071826,ribonucleoprotein complex subunit organi...,4,4,4,1
+1346,GO:0071840,cellular component organization or bioge...,173,173,173,1
+1347,GO:0071897,DNA biosynthetic process,15,15,15,1
+1348,GO:0071900,regulation of protein serine/threonine k...,2,2,2,1
+1349,GO:0071941,nitrogen cycle metabolic process,2,2,2,1
+1350,GO:0072329,monocarboxylic acid catabolic process,3,3,3,1
+1351,GO:0072330,monocarboxylic acid biosynthetic process,21,21,21,1
+1352,GO:0072348,sulfur compound transport,5,5,5,1
+1353,GO:0072350,tricarboxylic acid metabolic process,2,2,2,1
+1354,GO:0072488,ammonium transmembrane transport,10,10,10,1
+1355,GO:0072521,purine-containing compound metabolic pro...,90,90,90,1
+1356,GO:0072522,purine-containing compound biosynthetic ...,62,62,62,1
+1357,GO:0072523,purine-containing compound catabolic pro...,1,1,1,1
+1358,GO:0072524,pyridine-containing compound metabolic p...,12,12,12,1
+1359,GO:0072525,pyridine-containing compound biosyntheti...,12,12,12,1
+1360,GO:0072527,pyrimidine-containing compound metabolic...,19,19,19,1
+1361,GO:0072528,pyrimidine-containing compound biosynthe...,17,17,17,1
+1362,GO:0072529,pyrimidine-containing compound catabolic...,1,1,1,1
+1363,GO:0072593,reactive oxygen species metabolic proces...,9,9,9,1
+1364,GO:0072594,establishment of protein localization to...,20,20,20,1
+1365,GO:0072595,maintenance of protein localization in o...,3,3,3,1
+1366,GO:0072596,establishment of protein localization to...,1,1,1,1
+1367,GO:0072598,protein localization to chloroplast,1,1,1,1
+1368,GO:0072599,establishment of protein localization to...,9,9,9,1
+1369,GO:0072655,establishment of protein localization to...,7,7,7,1
+1370,GO:0072657,protein localization to membrane,19,19,19,1
+1371,GO:0072662,protein localization to peroxisome,2,2,2,1
+1372,GO:0072663,establishment of protein localization to...,2,2,2,1
+1373,GO:0080090,regulation of primary metabolic process,196,196,196,1
+1374,GO:0080120,CAAX-box protein maturation,1,1,1,1
+1375,GO:0080134,regulation of response to stress,1,1,1,1
+1376,GO:0080135,regulation of cellular response to stres...,1,1,1,1
+1377,GO:0085029,extracellular matrix assembly,1,1,1,1
+1378,GO:0090066,regulation of anatomical structure size,2,2,2,1
+1379,GO:0090090,negative regulation of canonical Wnt sig...,1,1,1,1
+1380,GO:0090150,establishment of protein localization to...,19,19,19,1
+1381,GO:0090151,establishment of protein localization to...,4,4,4,1
+1382,GO:0090224,regulation of spindle organization,2,2,2,1
+1383,GO:0090304,nucleic acid metabolic process,505,505,505,1
+1384,GO:0090305,nucleic acid phosphodiester bond hydroly...,2,2,2,1
+1385,GO:0090329,regulation of DNA-templated DNA replicat...,1,1,1,1
+1386,GO:0090407,organophosphate biosynthetic process,130,130,130,1
+1387,GO:0090501,RNA phosphodiester bond hydrolysis,2,2,2,1
+1388,GO:0090529,cell septum assembly,2,2,2,1
+1389,GO:0097237,cellular response to toxic substance,3,3,3,1
+1390,GO:0097435,supramolecular fiber organization,8,8,8,1
+1391,GO:0097659,nucleic acid-templated transcription,218,218,218,1
+1392,GO:0098542,defense response to other organism,10,10,10,1
+1393,GO:0098655,cation transmembrane transport,28,28,28,1
+1394,GO:0098657,import into cell,3,3,3,1
+1395,GO:0098660,inorganic ion transmembrane transport,28,28,28,1
+1396,GO:0098662,inorganic cation transmembrane transport,28,28,28,1
+1397,GO:0098704,carbohydrate import across plasma membra...,3,3,3,1
+1398,GO:0098732,macromolecule deacylation,3,3,3,1
+1399,GO:0098739,import across plasma membrane,3,3,3,1
+1400,GO:0098754,detoxification,3,3,3,1
+1401,GO:0098763,mitotic cell cycle phase,1,1,1,1
+1402,GO:0098771,inorganic ion homeostasis,6,6,6,1
+1403,GO:0098813,nuclear chromosome segregation,7,7,7,1
+1404,GO:0098869,cellular oxidant detoxification,2,2,2,1
+1405,GO:0099046,clearance of foreign intracellular nucle...,1,1,1,1
+1406,GO:0099111,microtubule-based transport,4,4,4,1
+1407,GO:0106380,purine ribonucleotide salvage,1,1,1,1
+1408,GO:0110053,regulation of actin filament organizatio...,1,1,1,1
+1409,GO:0110095,cellular detoxification of aldehyde,1,1,1,1
+1410,GO:0110096,cellular response to aldehyde,1,1,1,1
+1411,GO:0110154,RNA decapping,1,1,1,1
+1412,GO:0110156,methylguanosine-cap decapping,1,1,1,1
+1413,GO:0120031,plasma membrane bounded cell projection ...,2,2,2,1
+1414,GO:0120036,plasma membrane bounded cell projection ...,6,6,6,1
+1415,GO:0140014,mitotic nuclear division,8,8,8,1
+1416,GO:0140029,exocytic process,2,2,2,1
+1417,GO:0140056,organelle localization by membrane tethe...,2,2,2,1
+1418,GO:0140352,export from cell,5,5,5,1
+1419,GO:0140546,defense response to symbiont,5,5,5,1
+1420,GO:0140694,non-membrane-bounded organelle assembly,6,6,6,1
+1421,GO:0198738,cell-cell signaling by wnt,1,1,1,1
+1422,GO:1900247,regulation of cytoplasmic translational ...,3,3,3,1
+1423,GO:1901071,glucosamine-containing compound metaboli...,4,4,4,1
+1424,GO:1901072,glucosamine-containing compound cataboli...,2,2,2,1
+1425,GO:1901135,carbohydrate derivative metabolic proces...,131,131,131,1
+1426,GO:1901136,carbohydrate derivative catabolic proces...,6,6,6,1
+1427,GO:1901137,carbohydrate derivative biosynthetic pro...,76,76,76,1
+1428,GO:1901264,carbohydrate derivative transport,3,3,3,1
+1429,GO:1901269,lipooligosaccharide metabolic process,1,1,1,1
+1430,GO:1901271,lipooligosaccharide biosynthetic process,1,1,1,1
+1431,GO:1901292,nucleoside phosphate catabolic process,3,3,3,1
+1432,GO:1901293,nucleoside phosphate biosynthetic proces...,108,108,108,1
+1433,GO:1901360,organic cyclic compound metabolic proces...,778,778,778,1
+1434,GO:1901361,organic cyclic compound catabolic proces...,14,14,14,1
+1435,GO:1901362,organic cyclic compound biosynthetic pro...,434,434,434,1
+1436,GO:1901564,organonitrogen compound metabolic proces...,1167,1167,1167,1
+1437,GO:1901565,organonitrogen compound catabolic proces...,65,65,65,1
+1438,GO:1901566,organonitrogen compound biosynthetic pro...,452,452,452,1
+1439,GO:1901575,organic substance catabolic process,115,115,115,1
+1440,GO:1901576,organic substance biosynthetic process,804,804,804,1
+1441,GO:1901605,alpha-amino acid metabolic process,65,65,65,1
+1442,GO:1901606,alpha-amino acid catabolic process,8,8,8,1
+1443,GO:1901607,alpha-amino acid biosynthetic process,42,42,42,1
+1444,GO:1901615,organic hydroxy compound metabolic proce...,31,31,31,1
+1445,GO:1901616,organic hydroxy compound catabolic proce...,1,1,1,1
+1446,GO:1901617,organic hydroxy compound biosynthetic pr...,16,16,16,1
+1447,GO:1901657,glycosyl compound metabolic process,12,12,12,1
+1448,GO:1901659,glycosyl compound biosynthetic process,4,4,4,1
+1449,GO:1901661,quinone metabolic process,5,5,5,1
+1450,GO:1901663,quinone biosynthetic process,5,5,5,1
+1451,GO:1901700,response to oxygen-containing compound,3,3,3,1
+1452,GO:1901701,cellular response to oxygen-containing c...,3,3,3,1
+1453,GO:1901891,regulation of cell septum assembly,1,1,1,1
+1454,GO:1901987,regulation of cell cycle phase transitio...,3,3,3,1
+1455,GO:1901988,negative regulation of cell cycle phase ...,1,1,1,1
+1456,GO:1901990,regulation of mitotic cell cycle phase t...,3,3,3,1
+1457,GO:1901991,negative regulation of mitotic cell cycl...,1,1,1,1
+1458,GO:1902099,regulation of metaphase/anaphase transit...,2,2,2,1
+1459,GO:1902100,negative regulation of metaphase/anaphas...,1,1,1,1
+1460,GO:1902221,erythrose 4-phosphate/phosphoenolpyruvat...,2,2,2,1
+1461,GO:1902222,erythrose 4-phosphate/phosphoenolpyruvat...,1,1,1,1
+1462,GO:1902223,erythrose 4-phosphate/phosphoenolpyruvat...,1,1,1,1
+1463,GO:1902298,cell cycle DNA replication maintenance o...,1,1,1,1
+1464,GO:1902531,regulation of intracellular signal trans...,1,1,1,1
+1465,GO:1902652,secondary alcohol metabolic process,1,1,1,1
+1466,GO:1902679,negative regulation of RNA biosynthetic ...,3,3,3,1
+1467,GO:1902680,positive regulation of RNA biosynthetic ...,1,1,1,1
+1468,GO:1902850,microtubule cytoskeleton organization in...,2,2,2,1
+1469,GO:1902903,regulation of supramolecular fiber organ...,1,1,1,1
+1470,GO:1902969,mitotic DNA replication,1,1,1,1
+1471,GO:1903047,mitotic cell cycle process,11,11,11,1
+1472,GO:1903311,regulation of mRNA metabolic process,3,3,3,1
+1473,GO:1903313,positive regulation of mRNA metabolic pr...,1,1,1,1
+1474,GO:1903506,regulation of nucleic acid-templated tra...,177,177,177,1
+1475,GO:1903507,negative regulation of nucleic acid-temp...,3,3,3,1
+1476,GO:1903508,positive regulation of nucleic acid-temp...,1,1,1,1
+1477,GO:1903509,liposaccharide metabolic process,4,4,4,1
+1478,GO:1903825,organic acid transmembrane transport,7,7,7,1
+1479,GO:1904029,regulation of cyclin-dependent protein k...,2,2,2,1
+1480,GO:1905037,autophagosome organization,1,1,1,1
+1481,GO:1905039,carboxylic acid transmembrane transport,7,7,7,1
+1482,GO:1905114,cell surface receptor signaling pathway ...,1,1,1,1
+1483,GO:1905818,regulation of chromosome separation,2,2,2,1
+1484,GO:1905819,negative regulation of chromosome separa...,1,1,1,1
+1485,GO:1990426,mitotic recombination-dependent replicat...,1,1,1,1
+1486,GO:1990505,mitotic DNA replication maintenance of f...,1,1,1,1
+1487,GO:1990542,mitochondrial transmembrane transport,3,3,3,1
+1488,GO:1990748,cellular detoxification,3,3,3,1
+1489,GO:2000104,negative regulation of DNA-templated DNA...,1,1,1,1
+1490,GO:2000112,regulation of cellular macromolecule bio...,7,7,7,1
+1491,GO:2000113,negative regulation of cellular macromol...,3,3,3,1
+1492,GO:2000816,negative regulation of mitotic sister ch...,1,1,1,1
+1493,GO:2001020,regulation of response to DNA damage sti...,1,1,1,1
+1494,GO:2001057,reactive nitrogen species metabolic proc...,2,2,2,1
+1495,GO:2001141,regulation of RNA biosynthetic process,177,177,177,1
+1496,GO:2001251,negative regulation of chromosome organi...,1,1,1,1
