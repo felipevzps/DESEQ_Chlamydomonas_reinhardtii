@@ -1,0 +1,1 @@
+../../NOISeq_Chlamydomonas_reinhardtii/Chlamy_48/DEGs_NOISeq_Creinhardtii_281_v5.6.annotation_info_48.txt
