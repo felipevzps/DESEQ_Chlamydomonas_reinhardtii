@@ -70,4 +70,4 @@ formatted_lines <- lapply(names(fisher.ann.genes), function(go_id) {
 formatted_lines
 
 # Escreva todas as linhas formatadas em um arquivo de texto
-write.table(formatted_lines, file = paste0("topGO_Chlamydomonas_reinhardtii_24h_ann.genes.BP.csv"), quote= F, col.names = F, row.names = F, sep="\n")
+write.table(formatted_lines, file = paste0("topGO_TFs_Chlamydomonas_reinhardtii_24h_ann.genes.BP.csv"), quote= F, col.names = F, row.names = F, sep="\n")
