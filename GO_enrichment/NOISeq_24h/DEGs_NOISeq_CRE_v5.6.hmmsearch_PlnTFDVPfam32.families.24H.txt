@@ -1,1 +1,0 @@
-../../NOISeq_Chlamydomonas_reinhardtii/Chlamy_24/DEGs_NOISeq_CRE_v5.6.hmmsearch_PlnTFDVPfam32.families.24H.txt
