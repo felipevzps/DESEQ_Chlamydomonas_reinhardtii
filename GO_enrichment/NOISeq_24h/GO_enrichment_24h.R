@@ -127,7 +127,7 @@ ggplot(ggdata,
   
   coord_flip()
 
-ggplot2::ggsave("Accessory_GOTerms_P30_Cortex_Fisher.pdf",
+ggplot2::ggsave("GOTerms_P30_Cortex_Fisher.pdf",
                 device = NULL,
                 height = 8.5,
                 width = 12)
