@@ -4,9 +4,11 @@ if (!require("BiocManager", quietly = TRUE))
 BiocManager::install("NOISeq")
 install.packages("tidyverse")
 
+rm(list=ls())
+
 library(tximport)
 library(NOISeq)
-library(tidyverse)
+#library(tidyverse)
 
 #tutorial: https://rstudio-pubs-static.s3.amazonaws.com/525119_64c1fe6e1a514b89a1ef26d23bf4aae3.html
 
@@ -102,7 +104,7 @@ head(mynoiseqTech@results[[1]])
 #Note: the output myresults@results[[1]]$prob gives the estimated probability of differential expression for each feature. These probabilities are not equivalent to p-values. The higher the probability, the more likely that the difference in expression is due to the change in the experimental condition and not to chance.
 
 mynoiseqTech.deg = degenes(mynoiseqTech, q = 0.8, M = NULL)
-"9392 differentially expressed features"
+# 9392 differentially expressed features
 
 #The probability of differential expression is not equivalent to 1 − pvalue. 
 #Developers recommend using q values around 0.8 for `NOISeq` with technical replicates. If no technical replicates are available and `NOISeq-sim` is used, a more stringent threshold such as q = 0.9 is preferable.
@@ -112,8 +114,13 @@ par(mfrow = c(1, 1))
 DE.plot(mynoiseqTech, q = 0.8, graphic = "expr", log.scale = TRUE)
 DE.plot(mynoiseqTech, q = 0.8, graphic = "MD", log.scale = TRUE, title(main = "differential expression (24h)", xlab = "log-fold change", ylab = "absolute value of the difference in expression between conditions"))
 
-
 #export results to archive or for downstream analyses
 #recall that for this particular output, the object mynoiseq.deg was filtered for q>= 0.8. For the complete gene list, use the `degenes` function above and set q = 0.
 write.csv(mynoiseqTech.deg, file="DEGs_NOISeqTech_SALT24H.csv")
-# 
+
+mynoiseqTech.deg.allGenes = degenes(mynoiseqTech, q = 0, M = NULL)
+# 17944 differentially expressed features
+
+#export results to archive or for downstream analyses (complete gene list)
+write.csv(mynoiseqTech.deg.allGenes, file="DEGs_NOISeqTech_SALT24H_allGenes.csv")
+
