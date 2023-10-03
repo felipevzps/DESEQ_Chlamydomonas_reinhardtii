@@ -9,15 +9,15 @@ BiocManager::install("topGO")
 library(topGO)
 
 # Notebook
-setwd("/home/felipe/Documents/DESEQ_Chlamydomonas_reinhardtii/GO_enrichment/NOISeq_48h")
+#setwd("/home/felipe/Documents/DESEQ_Chlamydomonas_reinhardtii/GO_enrichment/NOISeq_48h")
 
 # CENA
-#setwd("/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/GO_enrichment/NOISeq_48h")
+setwd("/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/GO_enrichment/NOISeq_48h")
 
 dados <- read.table("DEGs_NOISeqTech_SALT48H.mod.mod.csv", header = FALSE, sep = ",")
 dados
 
-go_annotations <- readMappings("GO_annotations.txt", sep = "\t", IDsep=",")
+go_annotations <- readMappings("GO_annotations_complete.txt", sep = "\t", IDsep=",")
 go_annotations
 
 genes_ranking <- dados[, c(1, ncol(dados))]
@@ -29,7 +29,14 @@ genes_ranking[, 2]
 allGenes <- setNames(genes_ranking[, 2], genes_ranking[, 1])
 allGenes
 
+#allgenes : fazer uma nova lista incluindo TODODS genes (universo) com ranking = 0 [aqueles que nao sao diferencialmente expressos]
+
 # Função de seleção de genes simples (selecione todos os genes como significativos)
+#Alterar funcao para escolher genes com valores diferentes de 8 ou -8
+
+#No fisher o rank nao vai importar
+#No weight01 o rank vai importar (ranking dos DEGs gerados pelo NOISeq)
+
 geneSelectionFun <- function(allGenes) {
   return(rep(TRUE, length(allGenes)))
 }

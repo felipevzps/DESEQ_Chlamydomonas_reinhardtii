@@ -9,15 +9,15 @@ BiocManager::install("topGO")
 library(topGO)
 
 # Notebook
-setwd("/home/felipe/Documents/DESEQ_Chlamydomonas_reinhardtii/GO_enrichment/NOISeq_24h")
+#setwd("/home/felipe/Documents/DESEQ_Chlamydomonas_reinhardtii/GO_enrichment/NOISeq_24h")
 
 # CENA
-#setwd("/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/GO_enrichment/NOISeq_24h")
+setwd("/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/GO_enrichment/NOISeq_24h")
 
 dados <- read.table("DEGs_NOISeqTech_SALT24H.mod.mod.csv", header = FALSE, sep = ",")
 dados
 
-go_annotations <- readMappings("GO_annotations.txt", sep = "\t", IDsep=",")
+go_annotations <- readMappings("GO_annotations_complete.txt", sep = "\t", IDsep=",")
 go_annotations
 
 genes_ranking <- dados[, c(1, 7)]
@@ -43,6 +43,8 @@ topGOdata <- new("topGOdata", ontology = "BP", allGenes = allGenes,
 ann.genes <- genesInTerm(topGOdata)
 str(ann.genes)
 
+
+#classic fisher ignora o ranking da lista de genes
 fishers_result <- runTest(topGOdata, algorithm = "classic", statistic = "fisher")
 #			 -- Classic Algorithm -- 
 #the algorithm is scoring 1496 nontrivial nodes
