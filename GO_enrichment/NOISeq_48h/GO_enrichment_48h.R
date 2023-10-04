@@ -14,37 +14,53 @@ library(topGO)
 # CENA
 setwd("/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/GO_enrichment/NOISeq_48h")
 
-dados <- read.table("DEGs_NOISeqTech_SALT48H.mod.mod.csv", header = FALSE, sep = ",")
+dados <- read.table("DEGs_NOISeqTech_SALT48H_allGenes.mod.csv", header = FALSE, sep = ",")
 dados
 
 go_annotations <- readMappings("GO_annotations_complete.txt", sep = "\t", IDsep=",")
 go_annotations
 
-genes_ranking <- dados[, c(1, ncol(dados))]
+genes_ranking <- dados[, c(1, 7)]
 genes_ranking
 
 genes_ranking[, 2] <- as.numeric(genes_ranking[, 2])
-genes_ranking[, 2]
+genes_ranking[, 1]
 
 allGenes <- setNames(genes_ranking[, 2], genes_ranking[, 1])
 allGenes
 
-#allgenes : fazer uma nova lista incluindo TODODS genes (universo) com ranking = 0 [aqueles que nao sao diferencialmente expressos]
-
+### Nao usar ###
 # Função de seleção de genes simples (selecione todos os genes como significativos)
-#Alterar funcao para escolher genes com valores diferentes de 8 ou -8
+#geneSelectionFun <- function(allGenes) {
+#  return(rep(TRUE, length(allGenes)))
+#}
+#selected_genes <- geneSelectionFun(allGenes)
+#selected_genes
+###          ###
 
-#No fisher o rank nao vai importar
-#No weight01 o rank vai importar (ranking dos DEGs gerados pelo NOISeq)
-
-geneSelectionFun <- function(allGenes) {
-  return(rep(TRUE, length(allGenes)))
+# Função para selecionar os top 5000 genes com maior variação
+topDiffGenes <- function(allGenes) {
+  if (5000 >= length(allGenes)) {
+    return(rep(TRUE, length(allGenes)))
+  } else {
+    # Obtenha os índices dos top '5000' valores mais extremos (positivos e negativos)
+    gene_indices <- order(abs(allGenes), decreasing = TRUE)
+    
+    # Crie um vetor lógico diretamente com TRUE para os top 'topN' genes e FALSE para os outros
+    selected_genes <- logical(length(allGenes))
+    selected_genes[gene_indices[1:5000]] <- TRUE
+    
+    return(selected_genes)
+  }
 }
+
+selected_genes <- topDiffGenes(allGenes)
+tail(selected_genes)
 
 # Crie o objeto topGOdata com o vetor numérico
 topGOdata <- new("topGOdata", ontology = "BP", allGenes = allGenes,
                  annot = annFUN.gene2GO, gene2GO = go_annotations,
-                 geneSel = geneSelectionFun)
+                 geneSel = topDiffGenes)
 
 fishers_result <- runTest(topGOdata, algorithm = "classic", statistic = "fisher")
 #			 -- Classic Algorithm -- 
@@ -52,7 +68,7 @@ fishers_result <- runTest(topGOdata, algorithm = "classic", statistic = "fisher"
 #parameters: 
 #  test statistic: fisher
 
-allRes <- GenTable(topGOdata, classic = fishers_result, ranksOf = "classic", topNodes=836)
+allRes <- GenTable(topGOdata, classic = fishers_result, ranksOf = "classic", topNodes=1313)
 allRes
 
 topGO_all_table <- allRes[order(allRes$classic),]
