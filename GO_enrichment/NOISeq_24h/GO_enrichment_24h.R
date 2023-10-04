@@ -14,7 +14,7 @@ library(topGO)
 # CENA
 setwd("/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/GO_enrichment/NOISeq_24h")
 
-dados <- read.table("DEGs_NOISeqTech_SALT24H.mod.mod.csv", header = FALSE, sep = ",")
+dados <- read.table("DEGs_NOISeqTech_SALT24H_allGenes.mod.csv", header = FALSE, sep = ",")
 dados
 
 go_annotations <- readMappings("GO_annotations_complete.txt", sep = "\t", IDsep=",")
@@ -24,22 +24,45 @@ genes_ranking <- dados[, c(1, 7)]
 genes_ranking
 
 genes_ranking[, 2] <- as.numeric(genes_ranking[, 2])
-genes_ranking[, 2]
+genes_ranking[, 1]
 
 allGenes <- setNames(genes_ranking[, 2], genes_ranking[, 1])
 allGenes
 
+### Nao usar ###
 # Função de seleção de genes simples (selecione todos os genes como significativos)
-geneSelectionFun <- function(allGenes) {
-  return(rep(TRUE, length(allGenes)))
+#geneSelectionFun <- function(allGenes) {
+#  return(rep(TRUE, length(allGenes)))
+#}
+#selected_genes <- geneSelectionFun(allGenes)
+#selected_genes
+###          ###
+
+# Função para selecionar os top 5000 genes com maior variação
+topDiffGenes <- function(allGenes) {
+  if (5000 >= length(allGenes)) {
+    return(rep(TRUE, length(allGenes)))
+  } else {
+    # Obtenha os índices dos top '5000' valores mais extremos (positivos e negativos)
+    gene_indices <- order(abs(allGenes), decreasing = TRUE)
+    
+    # Crie um vetor lógico diretamente com TRUE para os top 'topN' genes e FALSE para os outros
+    selected_genes <- logical(length(allGenes))
+    selected_genes[gene_indices[1:5000]] <- TRUE
+    
+    return(selected_genes)
+  }
 }
+
+selected_genes <- topDiffGenes(allGenes)
+tail(selected_genes)
 
 # Crie o objeto topGOdata com o vetor numérico
 topGOdata <- new("topGOdata", ontology = "BP", allGenes = allGenes,
                  annot = annFUN.gene2GO, gene2GO = go_annotations,
-                 geneSel = geneSelectionFun)
+                 geneSel = topDiffGenes)
 
-# Create a map of geneIDs to GO terms
+  # Create a map of geneIDs to GO terms
 ann.genes <- genesInTerm(topGOdata)
 str(ann.genes)
 
@@ -47,11 +70,11 @@ str(ann.genes)
 #classic fisher ignora o ranking da lista de genes
 fishers_result <- runTest(topGOdata, algorithm = "classic", statistic = "fisher")
 #			 -- Classic Algorithm -- 
-#the algorithm is scoring 1496 nontrivial nodes
+#the algorithm is scoring 1359 nontrivial nodes
 #parameters: 
 #  test statistic: fisher
 
-allRes <- GenTable(topGOdata, classic = fishers_result, ranksOf = "classic", topNodes=1496)
+allRes <- GenTable(topGOdata, classic = fishers_result, ranksOf = "classic", topNodes=1359)
 allRes
 
 topGO_all_table <- allRes[order(allRes$classic),]
@@ -101,7 +124,7 @@ ggplot(ggdata,
     subtitle = 'Top 30 terms ordered by Fisher Exact p-value',
     caption = 'Cut-off lines drawn at equivalents of p=0.05, p=0.01, p=0.001') +
   
-  geom_hline(yintercept = c(-log10(0.01), -log10(0.001), -log10(0.0001)),
+  geom_hline(yintercept = c(-log10(0.05), -log10(0.01), -log10(0.001)),
              linetype = c("dotted", "longdash", "solid"),
              colour = c("black", "black", "black"),
              size = c(0.5, 1.5, 3)) +
