@@ -9,18 +9,18 @@ BiocManager::install("topGO")
 library(topGO)
 
 # Notebook
-setwd("/home/felipe/Documents/DESEQ_Chlamydomonas_reinhardtii/GO_enrichment/NOISeq_24_48")
+#setwd("/home/felipe/Documents/DESEQ_Chlamydomonas_reinhardtii/GO_enrichment/NOISeq_24_48")
 
 # CENA
-#setwd("/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/GO_enrichment/NOISeq_24_48")
+setwd("/home/felipevzps/Documentos/DESEQ_Chlamydomonas_reinhardtii/GO_enrichment/NOISeq_24_48")
 
-dados <- read.table("DEGs_NOISeqTech.mod.mod.csv", header = FALSE, sep = ",")
+dados <- read.table("DEGs_NOISeqTech_SALT24Hvs48H_allGenes.mod.csv", header = FALSE, sep = ",")
 dados
 
-go_annotations <- readMappings("GO_annotations.txt", sep = "\t", IDsep=",")
+go_annotations <- readMappings("GO_annotations_complete.txt", sep = "\t", IDsep=",")
 go_annotations
 
-genes_ranking <- dados[, c(1, ncol(dados))]
+genes_ranking <- dados[, c(1, 7)]
 genes_ranking
 
 genes_ranking[, 2] <- as.numeric(genes_ranking[, 2])
@@ -29,23 +29,46 @@ genes_ranking[, 2]
 allGenes <- setNames(genes_ranking[, 2], genes_ranking[, 1])
 allGenes
 
+### Nao usar ###
 # Função de seleção de genes simples (selecione todos os genes como significativos)
-geneSelectionFun <- function(allGenes) {
-  return(rep(TRUE, length(allGenes)))
+#geneSelectionFun <- function(allGenes) {
+#  return(rep(TRUE, length(allGenes)))
+#}
+#selected_genes <- geneSelectionFun(allGenes)
+#selected_genes
+###          ###
+
+# Função para selecionar os top 5000 genes com maior variação
+topDiffGenes <- function(allGenes) {
+  if (5000 >= length(allGenes)) {
+    return(rep(TRUE, length(allGenes)))
+  } else {
+    # Obtenha os índices dos top '5000' valores mais extremos (positivos e negativos)
+    gene_indices <- order(abs(allGenes), decreasing = TRUE)
+    
+    # Crie um vetor lógico diretamente com TRUE para os top 'topN' genes e FALSE para os outros
+    selected_genes <- logical(length(allGenes))
+    selected_genes[gene_indices[1:5000]] <- TRUE
+    
+    return(selected_genes)
+  }
 }
+
+selected_genes <- topDiffGenes(allGenes)
+tail(selected_genes)
 
 # Crie o objeto topGOdata com o vetor numérico
 topGOdata <- new("topGOdata", ontology = "BP", allGenes = allGenes,
                  annot = annFUN.gene2GO, gene2GO = go_annotations,
-                 geneSel = geneSelectionFun)
+                 geneSel = topDiffGenes)
 
 fishers_result <- runTest(topGOdata, algorithm = "classic", statistic = "fisher")
 #			 -- Classic Algorithm -- 
-#the algorithm is scoring 715 nontrivial nodes
+#the algorithm is scoring 1324 nontrivial nodes
 #parameters: 
 #  test statistic: fisher
 
-allRes <- GenTable(topGOdata, classic = fishers_result, ranksOf = "classic", topNodes=715)
+allRes <- GenTable(topGOdata, classic = fishers_result, ranksOf = "classic", topNodes=1324)
 allRes
 
 topGO_all_table <- allRes[order(allRes$classic),]
@@ -62,7 +85,7 @@ ggdata
 
 # Todos valores da coluna classic são 1
 # Adicionar 0.001 para o log10(1) ser diferente de 0
-ggdata$classic <- as.numeric(ggdata$classic) + 0.001
+ggdata$classic <- as.numeric(ggdata$classic)
 ggdata
 
 ggplot(ggdata,
